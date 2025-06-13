@@ -1,0 +1,1549 @@
+2025-06-06 16:16:54,462 - INFO - Driver do Selenium configurado com sucesso
+2025-06-06 16:16:54,463 - INFO - Iniciando scraping do site da Câmara Municipal do Porto...
+2025-06-06 16:16:54,463 - INFO - Acessando URL: https://www.cm-porto.pt
+2025-06-06 16:16:59,387 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt
+2025-06-06 16:16:59,395 - INFO - Extraindo categorias principais...
+2025-06-06 16:16:59,397 - INFO - Tentando método alternativo para encontrar categorias...
+2025-06-06 16:16:59,459 - INFO - Total de categorias encontradas: 0
+2025-06-06 16:16:59,459 - WARNING - Nenhuma categoria principal encontrada. Tentando método alternativo...
+2025-06-06 16:16:59,459 - INFO - Criando categorias principais manualmente
+2025-06-06 16:16:59,461 - INFO - Categoria manual criada: Cidade (https://www.cm-porto.pt/cidade)
+2025-06-06 16:16:59,461 - INFO - Categoria manual criada: Município (https://www.cm-porto.pt/municipio)
+2025-06-06 16:16:59,461 - INFO - Categoria manual criada: Urbanismo (https://www.cm-porto.pt/urbanismo)
+2025-06-06 16:16:59,461 - INFO - Categoria manual criada: Ambiente (https://www.cm-porto.pt/ambiente)
+2025-06-06 16:16:59,461 - INFO - Categoria manual criada: Educação (https://www.cm-porto.pt/educacao)
+2025-06-06 16:16:59,461 - INFO - Categoria manual criada: Cultura (https://www.cm-porto.pt/cultura)
+2025-06-06 16:16:59,461 - INFO - Categoria manual criada: Economia (https://www.cm-porto.pt/economia)
+2025-06-06 16:16:59,462 - INFO - Categoria manual criada: Mobilidade (https://www.cm-porto.pt/mobilidade)
+2025-06-06 16:16:59,462 - INFO - Categoria manual criada: Juventude (https://www.cm-porto.pt/juventude)
+2025-06-06 16:16:59,462 - INFO - Categoria manual criada: Ação Social (https://www.cm-porto.pt/acao-social)
+2025-06-06 16:16:59,462 - INFO - Processando categoria: Cidade
+2025-06-06 16:16:59,463 - INFO - Acessando URL: https://www.cm-porto.pt/cidade
+2025-06-06 16:17:02,967 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/cidade
+2025-06-06 16:17:02,994 - INFO - Subcategoria encontrada: História da cidade (https://www.cm-porto.pt/historia-da-cidade)
+2025-06-06 16:17:02,994 - INFO - Subcategoria encontrada: Chaves e Símbolos (https://www.cm-porto.pt/chaves-e-simbolos)
+2025-06-06 16:17:02,994 - INFO - Subcategoria encontrada: Medalhas da Cidade (https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais)
+2025-06-06 16:17:02,994 - INFO - Subcategoria encontrada: Marca Porto. (https://www.cm-porto.pt/marca-porto/marca-porto)
+2025-06-06 16:17:02,994 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/projetos/projetos)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Educação (https://www.cm-porto.pt/educacao/educacao_1)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Sistema Educativo (https://www.cm-porto.pt/educacao/sistema-educativo)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Ação Social Escolar (https://www.cm-porto.pt/educacao/acao-social-escolar_1)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Programas e Projetos (https://www.cm-porto.pt/educacao/programas-e-projetos-educativos)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Cidade Educadora (https://www.cm-porto.pt/educacao/cidade-educadora)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Proteção de Crianças e Jovens (https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Juventude (https://www.cm-porto.pt/juventude/juventude)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Estratégia da Juventude do Porto (https://www.cm-porto.pt/juventude/plano-municipal-da-juventude)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Participa- Amplifica a Juventude (https://www.cm-porto.pt/participa-amplifica-juventude)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/juventude-projetos)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Economia (https://www.cm-porto.pt/economia/economia)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Estudos Estratégicos (https://www.cm-porto.pt/economia/estudos-estrategicos)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: InvestPorto (https://www.cm-porto.pt/economia/investporto)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Porto.for talent (https://www.cm-porto.pt/economia/talento)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Desenvolvimento Sustentável (https://www.cm-porto.pt/economia/desenvolvimento-sustentavel)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Proteção Civil (https://www.cm-porto.pt/seguranca/protecao-civil_1)
+2025-06-06 16:17:02,995 - INFO - Subcategoria encontrada: Centro de Gestão Integrada (https://www.cm-porto.pt/seguranca/centro-de-gestao-integrada)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Regimento de Sapadores Bombeiros (https://www.cm-porto.pt/seguranca/regimento-de-sapadores-bombeiros)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/seguranca/policia-municipal)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Urbanismo (https://www.cm-porto.pt/urbanismo/urbanismo)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Informações Urbanísticas (https://www.cm-porto.pt/informacoes-urbanisticas)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Cartas Históricas Interativas do Porto (https://www.cm-porto.pt/cartas-historicas-interativas-do-porto/cartas-historicas-interativas-do-porto)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Planeamento e Reabilitação (https://www.cm-porto.pt/urbanismo/planeamento-e-reabilitacao)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Urbanização e Edificação (https://www.cm-porto.pt/urbanismo/urbanizacao-e-edificacao)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Arquitetura no Porto (https://www.cm-porto.pt/urbanismo/arquitetura-no-porto)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Património (https://www.cm-porto.pt/patrimonio/patrimonio)
+2025-06-06 16:17:02,997 - INFO - Subcategoria encontrada: Gestão de Património (https://www.cm-porto.pt/gestao-de-patrimonio/gestao-de-patrimonio)
+2025-06-06 16:17:03,000 - INFO - Subcategoria encontrada: Município (https://www.cm-porto.pt/municipio)
+2025-06-06 16:17:03,000 - INFO - Subcategoria encontrada: Câmara Municipal (https://www.cm-porto.pt/autarquia/edificio-pacos-do-concelho)
+2025-06-06 16:17:03,000 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/executivo)
+2025-06-06 16:17:03,000 - INFO - Subcategoria encontrada: Reuniões de Câmara (https://www.cm-porto.pt/reunioes-de-camara/reunioes-de-camara-1)
+2025-06-06 16:17:03,000 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/reuniao-de-camara-atas)
+2025-06-06 16:17:03,000 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/reuniao-de-camara-deliberacoes)
+2025-06-06 16:17:03,000 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/reuniao-de-camara-agenda)
+2025-06-06 16:17:03,000 - INFO - Subcategoria encontrada: Estrutura Orgânica (https://www.cm-porto.pt/estrutura-organica)
+2025-06-06 16:17:03,000 - INFO - Subcategoria encontrada: Sistema de Gestão (https://www.cm-porto.pt/recursos-humanos/sistema-de-gestao)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Comissão de Toponímia (https://www.cm-porto.pt/autarquia/comissao-de-toponimia)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/assembleia-municipal/assembleia-municipal)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Composição (https://www.cm-porto.pt/assembleia-municipal/composicao)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/assembleia-municipal/competencias)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Regimento (https://www.cm-porto.pt/assembleia-municipal/regimento)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Comissões e Grupos de Trabalho (https://www.cm-porto.pt/assembleia-municipal/comissoes-e-grupos-de-trabalho)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Delegações (https://www.cm-porto.pt/assembleia-municipal/delegacoes)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/deliberacoes)
+2025-06-06 16:17:03,001 - INFO - Subcategoria encontrada: Propostas (https://www.cm-porto.pt/deliberacoes-propostas)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Moções (https://www.cm-porto.pt/deliberacoes-mocoes)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/deliberacoes-recomendacoes)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Relatórios e Pareceres (https://www.cm-porto.pt/deliberacoes-relatorios-e-pareceres)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Minutas (https://www.cm-porto.pt/deliberacoes-minutas)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Votos (https://www.cm-porto.pt/deliberacoes-votos)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/deliberacoes-atas)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Reuniões (https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Inscrições nas Sessões (https://www.cm-porto.pt/Participe/inscricoes-nas-sessoes)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Direito de Petição (https://www.cm-porto.pt/Participe/direito-de-peticao)
+2025-06-06 16:17:03,002 - INFO - Subcategoria encontrada: Sugestões (https://www.cm-porto.pt/sugestoes)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/agenda-municipal?t=11.49)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: Notícias (https://www.cm-porto.pt/assembleia-municipal-noticias)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: FAQs (https://www.cm-porto.pt/assembleia-municipal-faqs)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: Conselhos Municipais (https://www.cm-porto.pt/conselhos-municipais/conselhos-municipais)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: Conselho Municipal do Turismo (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-turismo-do-porto)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-do-turismo-ata)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-do-turismo-agenda)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: Conselho Municipal da Cultura (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-cultura-do-porto)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-cultura-ata)
+2025-06-06 16:17:03,003 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-cultura-agenda)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Conselho Municipal de Economia (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-economia-do-porto-casa-dos-24)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-economia-ata)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-economia-agenda)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Conselho Municipal de Educação (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-educacao_1)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-educacao-ata)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-educacao-agenda)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Conselho Municipal de Segurança (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-seguranca)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-seguranca-ata)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-seguranca-agenda)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Conselho Municipal da Juventude (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-juventude-do-porto)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-juventude-ata)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-juventude-agenda)
+2025-06-06 16:17:03,004 - INFO - Subcategoria encontrada: Conselho Municipal de Ambiente (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-ambiente)
+2025-06-06 16:17:03,005 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-ambiente-ata)
+2025-06-06 16:17:03,005 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-ambiente-agenda)
+2025-06-06 16:17:03,005 - INFO - Subcategoria encontrada: Provedor do Munícipe (https://www.cm-porto.pt/provedor-do-municipe/provedor-do-municipe)
+2025-06-06 16:17:03,005 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/provedor-do-municipe/recomendacoes-2)
+2025-06-06 16:17:03,005 - INFO - Subcategoria encontrada: Contactos (https://www.cm-porto.pt/provedor-do-municipe/contactos)
+2025-06-06 16:17:03,005 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/provedor-do-municipe/competencias-1)
+2025-06-06 16:17:03,005 - INFO - Subcategoria encontrada: Empresas Municipais (https://www.cm-porto.pt/municipio/empresas-municipais_3)
+2025-06-06 16:17:03,005 - INFO - Subcategoria encontrada: Freguesias (https://www.cm-porto.pt/municipio/freguesias)
+2025-06-06 16:17:03,005 - INFO - Subcategoria encontrada: Gabinete do Munícipe (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-do-municipe)
+2025-06-06 16:17:03,006 - INFO - Subcategoria encontrada: Linha Porto. (https://www.cm-porto.pt/linha-porto/linha-porto-220-100-220)
+2025-06-06 16:17:03,006 - INFO - Subcategoria encontrada: Apoio ao Consumidor (SMAC) (https://www.cm-porto.pt/gabinete-do-municipe/apoio-ao-consumidor-smac)
+2025-06-06 16:17:03,006 - INFO - Subcategoria encontrada: Águas e Energia do Porto (https://www.cm-porto.pt/gabinete-do-municipe/aguas-do-porto)
+2025-06-06 16:17:03,006 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/gabinete-do-municipe/policia-municipal-1)
+2025-06-06 16:17:03,006 - INFO - Subcategoria encontrada: Gabinete de Inclusão (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-de-inclusao_1)
+2025-06-06 16:17:03,006 - INFO - Subcategoria encontrada: Informação Municipal (https://www.cm-porto.pt/informacao-municipal/informacao-municipal)
+2025-06-06 16:17:03,006 - INFO - Subcategoria encontrada: Avisos (https://www.cm-porto.pt/avisos)
+2025-06-06 16:17:03,006 - INFO - Subcategoria encontrada: Comunicados (https://www.cm-porto.pt/comunicados)
+2025-06-06 16:17:03,007 - INFO - Subcategoria encontrada: Editais (https://www.cm-porto.pt/editais)
+2025-06-06 16:17:03,007 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/editais?t=73&c=4)
+2025-06-06 16:17:03,007 - INFO - Subcategoria encontrada: Concursos (https://www.cm-porto.pt/editais?t=73&c=5)
+2025-06-06 16:17:03,007 - INFO - Subcategoria encontrada: Discussão Pública (https://www.cm-porto.pt/editais?t=73&c=6)
+2025-06-06 16:17:03,007 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/editais?t=73&c=7)
+2025-06-06 16:17:03,007 - INFO - Subcategoria encontrada: Outros (https://www.cm-porto.pt/editais?t=73&c=8)
+2025-06-06 16:17:03,007 - INFO - Subcategoria encontrada: Recursos Humanos (https://www.cm-porto.pt/informacao-municipal/recursos-humanos_1)
+2025-06-06 16:17:03,007 - INFO - Subcategoria encontrada: Formação e Desenvolvimento (https://www.cm-porto.pt/informacao-municipal/formacao-e-desenvolvimento)
+2025-06-06 16:17:03,008 - INFO - Subcategoria encontrada: Bem-estar (https://www.cm-porto.pt/informacao-municipal/bem-estar)
+2025-06-06 16:17:03,008 - INFO - Subcategoria encontrada: Inovação (https://www.cm-porto.pt/informacao-municipal/inovacao-3)
+2025-06-06 16:17:03,008 - INFO - Subcategoria encontrada: Documentos (https://www.cm-porto.pt/recursos-humanos)
+2025-06-06 16:17:03,008 - INFO - Subcategoria encontrada: Recrutamento e Seleção (https://www.cm-porto.pt/informacao-municipal/recrutamento-e-selecao)
+2025-06-06 16:17:03,008 - INFO - Subcategoria encontrada: Finanças (https://www.cm-porto.pt/informacao-municipal/financas)
+2025-06-06 16:17:03,008 - INFO - Subcategoria encontrada: Contas Porto (https://www.cm-porto.pt/contas-porto)
+2025-06-06 16:17:03,008 - INFO - Subcategoria encontrada: Elementos Económico Financeiros (https://www.cm-porto.pt/elementos-economico-financeiros)
+2025-06-06 16:17:03,008 - INFO - Subcategoria encontrada: Alienações e Hastas Públicas (https://www.cm-porto.pt/venda-e-concessoes)
+2025-06-06 16:17:03,009 - INFO - Subcategoria encontrada: Outros documentos (https://www.cm-porto.pt/financas)
+2025-06-06 16:17:03,009 - INFO - Subcategoria encontrada: Planos, Normas e outros (https://www.cm-porto.pt/documentacao)
+2025-06-06 16:17:03,009 - INFO - Subcategoria encontrada: Projetos cofinanciados (https://www.cm-porto.pt/projectos-cofinanciados)
+2025-06-06 16:17:03,009 - INFO - Subcategoria encontrada: Grupo de Trabalho para Acompanhamento de Investimentos de Transporte Público (https://www.cm-porto.pt/comissoes-e-grupos-de-trabalho/grupo-de-trabalho-para-acompanhamento-de-investimentos-de-transporte-publico)
+2025-06-06 16:17:03,018 - INFO - Acessando URL: https://www.cm-porto.pt/historia-da-cidade
+2025-06-06 16:17:06,486 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/historia-da-cidade
+2025-06-06 16:17:06,621 - INFO - Acessando URL: https://www.cm-porto.pt/chaves-e-simbolos
+2025-06-06 16:17:10,101 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/chaves-e-simbolos
+2025-06-06 16:17:10,216 - INFO - Acessando URL: https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais
+2025-06-06 16:17:13,646 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais
+2025-06-06 16:17:14,668 - INFO - Acessando URL: https://www.cm-porto.pt/marca-porto/marca-porto
+2025-06-06 16:17:18,054 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/marca-porto/marca-porto
+2025-06-06 16:17:19,638 - INFO - Acessando URL: https://www.cm-porto.pt/projetos/projetos
+2025-06-06 16:17:24,928 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/projetos/projetos
+2025-06-06 16:17:25,032 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/educacao_1
+2025-06-06 16:17:28,495 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/educacao_1
+2025-06-06 16:17:28,585 - ERROR - Erro ao extrair conteúdo de bloco: 1 validation error for Content
+url
+  URL scheme should be 'http' or 'https' [type=url_scheme, input_value='mailto:dme@cm-porto.pt', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/url_scheme
+2025-06-06 16:17:28,590 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/sistema-educativo
+2025-06-06 16:17:32,064 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/sistema-educativo
+2025-06-06 16:17:32,180 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/acao-social-escolar_1
+2025-06-06 16:17:35,634 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/acao-social-escolar_1
+2025-06-06 16:17:35,730 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/programas-e-projetos-educativos
+2025-06-06 16:17:39,190 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/programas-e-projetos-educativos
+2025-06-06 16:17:39,353 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/cidade-educadora
+2025-06-06 16:17:42,812 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/cidade-educadora
+2025-06-06 16:17:42,911 - INFO - Processando categoria: Município
+2025-06-06 16:17:42,911 - INFO - Acessando URL: https://www.cm-porto.pt/municipio
+2025-06-06 16:17:46,757 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/municipio
+2025-06-06 16:17:46,791 - INFO - Subcategoria encontrada: Cidade (https://www.cm-porto.pt/cidade)
+2025-06-06 16:17:46,791 - INFO - Subcategoria encontrada: História da cidade (https://www.cm-porto.pt/historia-da-cidade)
+2025-06-06 16:17:46,791 - INFO - Subcategoria encontrada: Chaves e Símbolos (https://www.cm-porto.pt/chaves-e-simbolos)
+2025-06-06 16:17:46,791 - INFO - Subcategoria encontrada: Medalhas da Cidade (https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais)
+2025-06-06 16:17:46,791 - INFO - Subcategoria encontrada: Marca Porto. (https://www.cm-porto.pt/marca-porto/marca-porto)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/projetos/projetos)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Educação (https://www.cm-porto.pt/educacao/educacao_1)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Sistema Educativo (https://www.cm-porto.pt/educacao/sistema-educativo)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Ação Social Escolar (https://www.cm-porto.pt/educacao/acao-social-escolar_1)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Programas e Projetos (https://www.cm-porto.pt/educacao/programas-e-projetos-educativos)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Cidade Educadora (https://www.cm-porto.pt/educacao/cidade-educadora)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Proteção de Crianças e Jovens (https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Juventude (https://www.cm-porto.pt/juventude/juventude)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Estratégia da Juventude do Porto (https://www.cm-porto.pt/juventude/plano-municipal-da-juventude)
+2025-06-06 16:17:46,792 - INFO - Subcategoria encontrada: Participa- Amplifica a Juventude (https://www.cm-porto.pt/participa-amplifica-juventude)
+2025-06-06 16:17:46,793 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/juventude-projetos)
+2025-06-06 16:17:46,793 - INFO - Subcategoria encontrada: Economia (https://www.cm-porto.pt/economia/economia)
+2025-06-06 16:17:46,793 - INFO - Subcategoria encontrada: Estudos Estratégicos (https://www.cm-porto.pt/economia/estudos-estrategicos)
+2025-06-06 16:17:46,793 - INFO - Subcategoria encontrada: InvestPorto (https://www.cm-porto.pt/economia/investporto)
+2025-06-06 16:17:46,793 - INFO - Subcategoria encontrada: Porto.for talent (https://www.cm-porto.pt/economia/talento)
+2025-06-06 16:17:46,793 - INFO - Subcategoria encontrada: Desenvolvimento Sustentável (https://www.cm-porto.pt/economia/desenvolvimento-sustentavel)
+2025-06-06 16:17:46,793 - INFO - Subcategoria encontrada: Proteção Civil (https://www.cm-porto.pt/seguranca/protecao-civil_1)
+2025-06-06 16:17:46,793 - INFO - Subcategoria encontrada: Centro de Gestão Integrada (https://www.cm-porto.pt/seguranca/centro-de-gestao-integrada)
+2025-06-06 16:17:46,793 - INFO - Subcategoria encontrada: Regimento de Sapadores Bombeiros (https://www.cm-porto.pt/seguranca/regimento-de-sapadores-bombeiros)
+2025-06-06 16:17:46,794 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/seguranca/policia-municipal)
+2025-06-06 16:17:46,794 - INFO - Subcategoria encontrada: Urbanismo (https://www.cm-porto.pt/urbanismo/urbanismo)
+2025-06-06 16:17:46,794 - INFO - Subcategoria encontrada: Informações Urbanísticas (https://www.cm-porto.pt/informacoes-urbanisticas)
+2025-06-06 16:17:46,794 - INFO - Subcategoria encontrada: Cartas Históricas Interativas do Porto (https://www.cm-porto.pt/cartas-historicas-interativas-do-porto/cartas-historicas-interativas-do-porto)
+2025-06-06 16:17:46,794 - INFO - Subcategoria encontrada: Planeamento e Reabilitação (https://www.cm-porto.pt/urbanismo/planeamento-e-reabilitacao)
+2025-06-06 16:17:46,794 - INFO - Subcategoria encontrada: Urbanização e Edificação (https://www.cm-porto.pt/urbanismo/urbanizacao-e-edificacao)
+2025-06-06 16:17:46,794 - INFO - Subcategoria encontrada: Arquitetura no Porto (https://www.cm-porto.pt/urbanismo/arquitetura-no-porto)
+2025-06-06 16:17:46,795 - INFO - Subcategoria encontrada: Património (https://www.cm-porto.pt/patrimonio/patrimonio)
+2025-06-06 16:17:46,795 - INFO - Subcategoria encontrada: Gestão de Património (https://www.cm-porto.pt/gestao-de-patrimonio/gestao-de-patrimonio)
+2025-06-06 16:17:46,800 - INFO - Subcategoria encontrada: Câmara Municipal (https://www.cm-porto.pt/autarquia/edificio-pacos-do-concelho)
+2025-06-06 16:17:46,800 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/executivo)
+2025-06-06 16:17:46,802 - INFO - Subcategoria encontrada: Reuniões de Câmara (https://www.cm-porto.pt/reunioes-de-camara/reunioes-de-camara-1)
+2025-06-06 16:17:46,802 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/reuniao-de-camara-atas)
+2025-06-06 16:17:46,802 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/reuniao-de-camara-deliberacoes)
+2025-06-06 16:17:46,802 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/reuniao-de-camara-agenda)
+2025-06-06 16:17:46,803 - INFO - Subcategoria encontrada: Estrutura Orgânica (https://www.cm-porto.pt/estrutura-organica)
+2025-06-06 16:17:46,803 - INFO - Subcategoria encontrada: Sistema de Gestão (https://www.cm-porto.pt/recursos-humanos/sistema-de-gestao)
+2025-06-06 16:17:46,803 - INFO - Subcategoria encontrada: Comissão de Toponímia (https://www.cm-porto.pt/autarquia/comissao-de-toponimia)
+2025-06-06 16:17:46,803 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/assembleia-municipal/assembleia-municipal)
+2025-06-06 16:17:46,804 - INFO - Subcategoria encontrada: Composição (https://www.cm-porto.pt/assembleia-municipal/composicao)
+2025-06-06 16:17:46,804 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/assembleia-municipal/competencias)
+2025-06-06 16:17:46,804 - INFO - Subcategoria encontrada: Regimento (https://www.cm-porto.pt/assembleia-municipal/regimento)
+2025-06-06 16:17:46,805 - INFO - Subcategoria encontrada: Comissões e Grupos de Trabalho (https://www.cm-porto.pt/assembleia-municipal/comissoes-e-grupos-de-trabalho)
+2025-06-06 16:17:46,805 - INFO - Subcategoria encontrada: Delegações (https://www.cm-porto.pt/assembleia-municipal/delegacoes)
+2025-06-06 16:17:46,806 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/)
+2025-06-06 16:17:46,806 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/deliberacoes)
+2025-06-06 16:17:46,806 - INFO - Subcategoria encontrada: Propostas (https://www.cm-porto.pt/deliberacoes-propostas)
+2025-06-06 16:17:46,806 - INFO - Subcategoria encontrada: Moções (https://www.cm-porto.pt/deliberacoes-mocoes)
+2025-06-06 16:17:46,806 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/deliberacoes-recomendacoes)
+2025-06-06 16:17:46,807 - INFO - Subcategoria encontrada: Relatórios e Pareceres (https://www.cm-porto.pt/deliberacoes-relatorios-e-pareceres)
+2025-06-06 16:17:46,807 - INFO - Subcategoria encontrada: Minutas (https://www.cm-porto.pt/deliberacoes-minutas)
+2025-06-06 16:17:46,807 - INFO - Subcategoria encontrada: Votos (https://www.cm-porto.pt/deliberacoes-votos)
+2025-06-06 16:17:46,807 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/deliberacoes-atas)
+2025-06-06 16:17:46,807 - INFO - Subcategoria encontrada: Reuniões (https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+2025-06-06 16:17:46,808 - INFO - Subcategoria encontrada: Inscrições nas Sessões (https://www.cm-porto.pt/Participe/inscricoes-nas-sessoes)
+2025-06-06 16:17:46,808 - INFO - Subcategoria encontrada: Direito de Petição (https://www.cm-porto.pt/Participe/direito-de-peticao)
+2025-06-06 16:17:46,808 - INFO - Subcategoria encontrada: Sugestões (https://www.cm-porto.pt/sugestoes)
+2025-06-06 16:17:46,808 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/agenda-municipal?t=11.49)
+2025-06-06 16:17:46,809 - INFO - Subcategoria encontrada: Notícias (https://www.cm-porto.pt/assembleia-municipal-noticias)
+2025-06-06 16:17:46,809 - INFO - Subcategoria encontrada: FAQs (https://www.cm-porto.pt/assembleia-municipal-faqs)
+2025-06-06 16:17:46,809 - INFO - Subcategoria encontrada: Conselhos Municipais (https://www.cm-porto.pt/conselhos-municipais/conselhos-municipais)
+2025-06-06 16:17:46,809 - INFO - Subcategoria encontrada: Conselho Municipal do Turismo (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-turismo-do-porto)
+2025-06-06 16:17:46,810 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-do-turismo-ata)
+2025-06-06 16:17:46,810 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-do-turismo-agenda)
+2025-06-06 16:17:46,810 - INFO - Subcategoria encontrada: Conselho Municipal da Cultura (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-cultura-do-porto)
+2025-06-06 16:17:46,810 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-cultura-ata)
+2025-06-06 16:17:46,810 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-cultura-agenda)
+2025-06-06 16:17:46,811 - INFO - Subcategoria encontrada: Conselho Municipal de Economia (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-economia-do-porto-casa-dos-24)
+2025-06-06 16:17:46,811 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-economia-ata)
+2025-06-06 16:17:46,811 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-economia-agenda)
+2025-06-06 16:17:46,811 - INFO - Subcategoria encontrada: Conselho Municipal de Educação (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-educacao_1)
+2025-06-06 16:17:46,811 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-educacao-ata)
+2025-06-06 16:17:46,812 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-educacao-agenda)
+2025-06-06 16:17:46,812 - INFO - Subcategoria encontrada: Conselho Municipal de Segurança (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-seguranca)
+2025-06-06 16:17:46,812 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-seguranca-ata)
+2025-06-06 16:17:46,813 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-seguranca-agenda)
+2025-06-06 16:17:46,813 - INFO - Subcategoria encontrada: Conselho Municipal da Juventude (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-juventude-do-porto)
+2025-06-06 16:17:46,813 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-juventude-ata)
+2025-06-06 16:17:46,814 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-juventude-agenda)
+2025-06-06 16:17:46,814 - INFO - Subcategoria encontrada: Conselho Municipal de Ambiente (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-ambiente)
+2025-06-06 16:17:46,814 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-ambiente-ata)
+2025-06-06 16:17:46,814 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-ambiente-agenda)
+2025-06-06 16:17:46,818 - INFO - Subcategoria encontrada: Provedor do Munícipe (https://www.cm-porto.pt/provedor-do-municipe/provedor-do-municipe)
+2025-06-06 16:17:46,818 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/provedor-do-municipe/recomendacoes-2)
+2025-06-06 16:17:46,819 - INFO - Subcategoria encontrada: Contactos (https://www.cm-porto.pt/provedor-do-municipe/contactos)
+2025-06-06 16:17:46,819 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/provedor-do-municipe/competencias-1)
+2025-06-06 16:17:46,819 - INFO - Subcategoria encontrada: Empresas Municipais (https://www.cm-porto.pt/municipio/empresas-municipais_3)
+2025-06-06 16:17:46,820 - INFO - Subcategoria encontrada: Freguesias (https://www.cm-porto.pt/municipio/freguesias)
+2025-06-06 16:17:46,820 - INFO - Subcategoria encontrada: Gabinete do Munícipe (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-do-municipe)
+2025-06-06 16:17:46,821 - INFO - Subcategoria encontrada: Linha Porto. (https://www.cm-porto.pt/linha-porto/linha-porto-220-100-220)
+2025-06-06 16:17:46,821 - INFO - Subcategoria encontrada: Apoio ao Consumidor (SMAC) (https://www.cm-porto.pt/gabinete-do-municipe/apoio-ao-consumidor-smac)
+2025-06-06 16:17:46,821 - INFO - Subcategoria encontrada: Águas e Energia do Porto (https://www.cm-porto.pt/gabinete-do-municipe/aguas-do-porto)
+2025-06-06 16:17:46,822 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/gabinete-do-municipe/policia-municipal-1)
+2025-06-06 16:17:46,822 - INFO - Subcategoria encontrada: Gabinete de Inclusão (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-de-inclusao_1)
+2025-06-06 16:17:46,822 - INFO - Subcategoria encontrada: Informação Municipal (https://www.cm-porto.pt/informacao-municipal/informacao-municipal)
+2025-06-06 16:17:46,822 - INFO - Subcategoria encontrada: Avisos (https://www.cm-porto.pt/avisos)
+2025-06-06 16:17:46,823 - INFO - Subcategoria encontrada: Comunicados (https://www.cm-porto.pt/comunicados)
+2025-06-06 16:17:46,823 - INFO - Subcategoria encontrada: Editais (https://www.cm-porto.pt/editais)
+2025-06-06 16:17:46,824 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/editais?t=73&c=4)
+2025-06-06 16:17:46,824 - INFO - Subcategoria encontrada: Concursos (https://www.cm-porto.pt/editais?t=73&c=5)
+2025-06-06 16:17:46,824 - INFO - Subcategoria encontrada: Discussão Pública (https://www.cm-porto.pt/editais?t=73&c=6)
+2025-06-06 16:17:46,825 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/editais?t=73&c=7)
+2025-06-06 16:17:46,825 - INFO - Subcategoria encontrada: Outros (https://www.cm-porto.pt/editais?t=73&c=8)
+2025-06-06 16:17:46,825 - INFO - Subcategoria encontrada: Recursos Humanos (https://www.cm-porto.pt/informacao-municipal/recursos-humanos_1)
+2025-06-06 16:17:46,825 - INFO - Subcategoria encontrada: Formação e Desenvolvimento (https://www.cm-porto.pt/informacao-municipal/formacao-e-desenvolvimento)
+2025-06-06 16:17:46,825 - INFO - Subcategoria encontrada: Bem-estar (https://www.cm-porto.pt/informacao-municipal/bem-estar)
+2025-06-06 16:17:46,826 - INFO - Subcategoria encontrada: Inovação (https://www.cm-porto.pt/informacao-municipal/inovacao-3)
+2025-06-06 16:17:46,826 - INFO - Subcategoria encontrada: Documentos (https://www.cm-porto.pt/recursos-humanos)
+2025-06-06 16:17:46,826 - INFO - Subcategoria encontrada: Recrutamento e Seleção (https://www.cm-porto.pt/informacao-municipal/recrutamento-e-selecao)
+2025-06-06 16:17:46,826 - INFO - Subcategoria encontrada: Finanças (https://www.cm-porto.pt/informacao-municipal/financas)
+2025-06-06 16:17:46,826 - INFO - Subcategoria encontrada: Contas Porto (https://www.cm-porto.pt/contas-porto)
+2025-06-06 16:17:46,826 - INFO - Subcategoria encontrada: Elementos Económico Financeiros (https://www.cm-porto.pt/elementos-economico-financeiros)
+2025-06-06 16:17:46,827 - INFO - Subcategoria encontrada: Alienações e Hastas Públicas (https://www.cm-porto.pt/venda-e-concessoes)
+2025-06-06 16:17:46,827 - INFO - Subcategoria encontrada: Outros documentos (https://www.cm-porto.pt/financas)
+2025-06-06 16:17:46,827 - INFO - Subcategoria encontrada: Planos, Normas e outros (https://www.cm-porto.pt/documentacao)
+2025-06-06 16:17:46,828 - INFO - Subcategoria encontrada: Projetos cofinanciados (https://www.cm-porto.pt/projectos-cofinanciados)
+2025-06-06 16:17:46,828 - INFO - Subcategoria encontrada: Grupo de Trabalho para Acompanhamento de Investimentos de Transporte Público (https://www.cm-porto.pt/comissoes-e-grupos-de-trabalho/grupo-de-trabalho-para-acompanhamento-de-investimentos-de-transporte-publico)
+2025-06-06 16:17:46,839 - INFO - Processando categoria: Urbanismo
+2025-06-06 16:17:46,839 - INFO - Acessando URL: https://www.cm-porto.pt/urbanismo
+2025-06-06 16:17:50,684 - INFO - Processando categoria: Ambiente
+2025-06-06 16:17:50,684 - INFO - Acessando URL: https://www.cm-porto.pt/ambiente
+2025-06-06 16:17:54,080 - INFO - Processando categoria: Educação
+2025-06-06 16:17:54,080 - INFO - Acessando URL: https://www.cm-porto.pt/educacao
+2025-06-06 16:17:57,826 - INFO - Processando categoria: Cultura
+2025-06-06 16:17:57,826 - INFO - Acessando URL: https://www.cm-porto.pt/cultura
+2025-06-06 16:18:01,314 - INFO - Processando categoria: Economia
+2025-06-06 16:18:01,314 - INFO - Acessando URL: https://www.cm-porto.pt/economia
+2025-06-06 16:18:04,949 - INFO - Processando categoria: Mobilidade
+2025-06-06 16:18:04,949 - INFO - Acessando URL: https://www.cm-porto.pt/mobilidade
+2025-06-06 16:18:08,316 - INFO - Processando categoria: Juventude
+2025-06-06 16:18:08,316 - INFO - Acessando URL: https://www.cm-porto.pt/juventude
+2025-06-06 16:18:11,918 - INFO - Processando categoria: Ação Social
+2025-06-06 16:18:11,918 - INFO - Acessando URL: https://www.cm-porto.pt/acao-social
+2025-06-06 16:18:15,433 - INFO - Base de conhecimento guardada com sucesso: 10 categorias
+2025-06-06 16:18:15,433 - INFO - Scraping concluído com sucesso!
+2025-06-06 16:18:17,610 - INFO - Driver do Selenium encerrado
+2025-06-06 16:29:06,212 - INFO - Driver do Selenium configurado com sucesso
+2025-06-06 16:29:06,212 - INFO - Iniciando scraping do site da Câmara Municipal do Porto...
+2025-06-06 16:29:06,212 - INFO - Acessando URL: https://www.cm-porto.pt
+2025-06-06 16:29:11,196 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt
+2025-06-06 16:29:11,203 - INFO - Extraindo categorias principais...
+2025-06-06 16:29:11,206 - INFO - Tentando método alternativo para encontrar categorias...
+2025-06-06 16:29:11,271 - INFO - Total de categorias encontradas: 0
+2025-06-06 16:29:11,271 - WARNING - Nenhuma categoria principal encontrada. Tentando método alternativo...
+2025-06-06 16:29:11,271 - INFO - Criando categorias principais manualmente
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Cidade (https://www.cm-porto.pt/cidade)
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Município (https://www.cm-porto.pt/municipio)
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Urbanismo (https://www.cm-porto.pt/urbanismo)
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Ambiente (https://www.cm-porto.pt/ambiente)
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Educação (https://www.cm-porto.pt/educacao)
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Cultura (https://www.cm-porto.pt/cultura)
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Economia (https://www.cm-porto.pt/economia)
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Mobilidade (https://www.cm-porto.pt/mobilidade)
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Juventude (https://www.cm-porto.pt/juventude)
+2025-06-06 16:29:11,271 - INFO - Categoria manual criada: Ação Social (https://www.cm-porto.pt/acao-social)
+2025-06-06 16:29:11,272 - INFO - Processando categoria: Cidade
+2025-06-06 16:29:11,272 - INFO - Acessando URL: https://www.cm-porto.pt/cidade
+2025-06-06 16:29:14,793 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/cidade
+2025-06-06 16:29:14,820 - INFO - Subcategoria encontrada: História da cidade (https://www.cm-porto.pt/historia-da-cidade)
+2025-06-06 16:29:14,820 - INFO - Subcategoria encontrada: Chaves e Símbolos (https://www.cm-porto.pt/chaves-e-simbolos)
+2025-06-06 16:29:14,820 - INFO - Subcategoria encontrada: Medalhas da Cidade (https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais)
+2025-06-06 16:29:14,820 - INFO - Subcategoria encontrada: Marca Porto. (https://www.cm-porto.pt/marca-porto/marca-porto)
+2025-06-06 16:29:14,820 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/projetos/projetos)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Educação (https://www.cm-porto.pt/educacao/educacao_1)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Sistema Educativo (https://www.cm-porto.pt/educacao/sistema-educativo)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Ação Social Escolar (https://www.cm-porto.pt/educacao/acao-social-escolar_1)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Programas e Projetos (https://www.cm-porto.pt/educacao/programas-e-projetos-educativos)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Cidade Educadora (https://www.cm-porto.pt/educacao/cidade-educadora)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Proteção de Crianças e Jovens (https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Juventude (https://www.cm-porto.pt/juventude/juventude)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Estratégia da Juventude do Porto (https://www.cm-porto.pt/juventude/plano-municipal-da-juventude)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Participa- Amplifica a Juventude (https://www.cm-porto.pt/participa-amplifica-juventude)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/juventude-projetos)
+2025-06-06 16:29:14,821 - INFO - Subcategoria encontrada: Economia (https://www.cm-porto.pt/economia/economia)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Estudos Estratégicos (https://www.cm-porto.pt/economia/estudos-estrategicos)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: InvestPorto (https://www.cm-porto.pt/economia/investporto)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Porto.for talent (https://www.cm-porto.pt/economia/talento)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Desenvolvimento Sustentável (https://www.cm-porto.pt/economia/desenvolvimento-sustentavel)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Proteção Civil (https://www.cm-porto.pt/seguranca/protecao-civil_1)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Centro de Gestão Integrada (https://www.cm-porto.pt/seguranca/centro-de-gestao-integrada)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Regimento de Sapadores Bombeiros (https://www.cm-porto.pt/seguranca/regimento-de-sapadores-bombeiros)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/seguranca/policia-municipal)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Urbanismo (https://www.cm-porto.pt/urbanismo/urbanismo)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Informações Urbanísticas (https://www.cm-porto.pt/informacoes-urbanisticas)
+2025-06-06 16:29:14,822 - INFO - Subcategoria encontrada: Cartas Históricas Interativas do Porto (https://www.cm-porto.pt/cartas-historicas-interativas-do-porto/cartas-historicas-interativas-do-porto)
+2025-06-06 16:29:14,823 - INFO - Subcategoria encontrada: Planeamento e Reabilitação (https://www.cm-porto.pt/urbanismo/planeamento-e-reabilitacao)
+2025-06-06 16:29:14,823 - INFO - Subcategoria encontrada: Urbanização e Edificação (https://www.cm-porto.pt/urbanismo/urbanizacao-e-edificacao)
+2025-06-06 16:29:14,823 - INFO - Subcategoria encontrada: Arquitetura no Porto (https://www.cm-porto.pt/urbanismo/arquitetura-no-porto)
+2025-06-06 16:29:14,823 - INFO - Subcategoria encontrada: Património (https://www.cm-porto.pt/patrimonio/patrimonio)
+2025-06-06 16:29:14,823 - INFO - Subcategoria encontrada: Gestão de Património (https://www.cm-porto.pt/gestao-de-patrimonio/gestao-de-patrimonio)
+2025-06-06 16:29:14,824 - INFO - Subcategoria encontrada: Município (https://www.cm-porto.pt/municipio)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Câmara Municipal (https://www.cm-porto.pt/autarquia/edificio-pacos-do-concelho)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/executivo)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Reuniões de Câmara (https://www.cm-porto.pt/reunioes-de-camara/reunioes-de-camara-1)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/reuniao-de-camara-atas)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/reuniao-de-camara-deliberacoes)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/reuniao-de-camara-agenda)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Estrutura Orgânica (https://www.cm-porto.pt/estrutura-organica)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Sistema de Gestão (https://www.cm-porto.pt/recursos-humanos/sistema-de-gestao)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Comissão de Toponímia (https://www.cm-porto.pt/autarquia/comissao-de-toponimia)
+2025-06-06 16:29:14,825 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/assembleia-municipal/assembleia-municipal)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Composição (https://www.cm-porto.pt/assembleia-municipal/composicao)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/assembleia-municipal/competencias)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Regimento (https://www.cm-porto.pt/assembleia-municipal/regimento)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Comissões e Grupos de Trabalho (https://www.cm-porto.pt/assembleia-municipal/comissoes-e-grupos-de-trabalho)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Delegações (https://www.cm-porto.pt/assembleia-municipal/delegacoes)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/deliberacoes)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Propostas (https://www.cm-porto.pt/deliberacoes-propostas)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Moções (https://www.cm-porto.pt/deliberacoes-mocoes)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/deliberacoes-recomendacoes)
+2025-06-06 16:29:14,826 - INFO - Subcategoria encontrada: Relatórios e Pareceres (https://www.cm-porto.pt/deliberacoes-relatorios-e-pareceres)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Minutas (https://www.cm-porto.pt/deliberacoes-minutas)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Votos (https://www.cm-porto.pt/deliberacoes-votos)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/deliberacoes-atas)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Reuniões (https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Inscrições nas Sessões (https://www.cm-porto.pt/Participe/inscricoes-nas-sessoes)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Direito de Petição (https://www.cm-porto.pt/Participe/direito-de-peticao)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Sugestões (https://www.cm-porto.pt/sugestoes)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/agenda-municipal?t=11.49)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Notícias (https://www.cm-porto.pt/assembleia-municipal-noticias)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: FAQs (https://www.cm-porto.pt/assembleia-municipal-faqs)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Conselhos Municipais (https://www.cm-porto.pt/conselhos-municipais/conselhos-municipais)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Conselho Municipal do Turismo (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-turismo-do-porto)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-do-turismo-ata)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-do-turismo-agenda)
+2025-06-06 16:29:14,827 - INFO - Subcategoria encontrada: Conselho Municipal da Cultura (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-cultura-do-porto)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-cultura-ata)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-cultura-agenda)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Conselho Municipal de Economia (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-economia-do-porto-casa-dos-24)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-economia-ata)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-economia-agenda)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Conselho Municipal de Educação (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-educacao_1)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-educacao-ata)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-educacao-agenda)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Conselho Municipal de Segurança (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-seguranca)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-seguranca-ata)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-seguranca-agenda)
+2025-06-06 16:29:14,829 - INFO - Subcategoria encontrada: Conselho Municipal da Juventude (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-juventude-do-porto)
+2025-06-06 16:29:14,830 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-juventude-ata)
+2025-06-06 16:29:14,830 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-juventude-agenda)
+2025-06-06 16:29:14,830 - INFO - Subcategoria encontrada: Conselho Municipal de Ambiente (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-ambiente)
+2025-06-06 16:29:14,830 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-ambiente-ata)
+2025-06-06 16:29:14,830 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-ambiente-agenda)
+2025-06-06 16:29:14,830 - INFO - Subcategoria encontrada: Provedor do Munícipe (https://www.cm-porto.pt/provedor-do-municipe/provedor-do-municipe)
+2025-06-06 16:29:14,830 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/provedor-do-municipe/recomendacoes-2)
+2025-06-06 16:29:14,830 - INFO - Subcategoria encontrada: Contactos (https://www.cm-porto.pt/provedor-do-municipe/contactos)
+2025-06-06 16:29:14,830 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/provedor-do-municipe/competencias-1)
+2025-06-06 16:29:14,831 - INFO - Subcategoria encontrada: Empresas Municipais (https://www.cm-porto.pt/municipio/empresas-municipais_3)
+2025-06-06 16:29:14,831 - INFO - Subcategoria encontrada: Freguesias (https://www.cm-porto.pt/municipio/freguesias)
+2025-06-06 16:29:14,831 - INFO - Subcategoria encontrada: Gabinete do Munícipe (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-do-municipe)
+2025-06-06 16:29:14,831 - INFO - Subcategoria encontrada: Linha Porto. (https://www.cm-porto.pt/linha-porto/linha-porto-220-100-220)
+2025-06-06 16:29:14,831 - INFO - Subcategoria encontrada: Apoio ao Consumidor (SMAC) (https://www.cm-porto.pt/gabinete-do-municipe/apoio-ao-consumidor-smac)
+2025-06-06 16:29:14,831 - INFO - Subcategoria encontrada: Águas e Energia do Porto (https://www.cm-porto.pt/gabinete-do-municipe/aguas-do-porto)
+2025-06-06 16:29:14,831 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/gabinete-do-municipe/policia-municipal-1)
+2025-06-06 16:29:14,831 - INFO - Subcategoria encontrada: Gabinete de Inclusão (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-de-inclusao_1)
+2025-06-06 16:29:14,832 - INFO - Subcategoria encontrada: Informação Municipal (https://www.cm-porto.pt/informacao-municipal/informacao-municipal)
+2025-06-06 16:29:14,832 - INFO - Subcategoria encontrada: Avisos (https://www.cm-porto.pt/avisos)
+2025-06-06 16:29:14,832 - INFO - Subcategoria encontrada: Comunicados (https://www.cm-porto.pt/comunicados)
+2025-06-06 16:29:14,832 - INFO - Subcategoria encontrada: Editais (https://www.cm-porto.pt/editais)
+2025-06-06 16:29:14,832 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/editais?t=73&c=4)
+2025-06-06 16:29:14,832 - INFO - Subcategoria encontrada: Concursos (https://www.cm-porto.pt/editais?t=73&c=5)
+2025-06-06 16:29:14,832 - INFO - Subcategoria encontrada: Discussão Pública (https://www.cm-porto.pt/editais?t=73&c=6)
+2025-06-06 16:29:14,832 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/editais?t=73&c=7)
+2025-06-06 16:29:14,833 - INFO - Subcategoria encontrada: Outros (https://www.cm-porto.pt/editais?t=73&c=8)
+2025-06-06 16:29:14,833 - INFO - Subcategoria encontrada: Recursos Humanos (https://www.cm-porto.pt/informacao-municipal/recursos-humanos_1)
+2025-06-06 16:29:14,833 - INFO - Subcategoria encontrada: Formação e Desenvolvimento (https://www.cm-porto.pt/informacao-municipal/formacao-e-desenvolvimento)
+2025-06-06 16:29:14,833 - INFO - Subcategoria encontrada: Bem-estar (https://www.cm-porto.pt/informacao-municipal/bem-estar)
+2025-06-06 16:29:14,833 - INFO - Subcategoria encontrada: Inovação (https://www.cm-porto.pt/informacao-municipal/inovacao-3)
+2025-06-06 16:29:14,833 - INFO - Subcategoria encontrada: Documentos (https://www.cm-porto.pt/recursos-humanos)
+2025-06-06 16:29:14,833 - INFO - Subcategoria encontrada: Recrutamento e Seleção (https://www.cm-porto.pt/informacao-municipal/recrutamento-e-selecao)
+2025-06-06 16:29:14,833 - INFO - Subcategoria encontrada: Finanças (https://www.cm-porto.pt/informacao-municipal/financas)
+2025-06-06 16:29:14,834 - INFO - Subcategoria encontrada: Contas Porto (https://www.cm-porto.pt/contas-porto)
+2025-06-06 16:29:14,834 - INFO - Subcategoria encontrada: Elementos Económico Financeiros (https://www.cm-porto.pt/elementos-economico-financeiros)
+2025-06-06 16:29:14,834 - INFO - Subcategoria encontrada: Alienações e Hastas Públicas (https://www.cm-porto.pt/venda-e-concessoes)
+2025-06-06 16:29:14,834 - INFO - Subcategoria encontrada: Outros documentos (https://www.cm-porto.pt/financas)
+2025-06-06 16:29:14,834 - INFO - Subcategoria encontrada: Planos, Normas e outros (https://www.cm-porto.pt/documentacao)
+2025-06-06 16:29:14,834 - INFO - Subcategoria encontrada: Projetos cofinanciados (https://www.cm-porto.pt/projectos-cofinanciados)
+2025-06-06 16:29:14,834 - INFO - Subcategoria encontrada: Grupo de Trabalho para Acompanhamento de Investimentos de Transporte Público (https://www.cm-porto.pt/comissoes-e-grupos-de-trabalho/grupo-de-trabalho-para-acompanhamento-de-investimentos-de-transporte-publico)
+2025-06-06 16:29:14,843 - INFO - Acessando URL: https://www.cm-porto.pt/historia-da-cidade
+2025-06-06 16:29:18,332 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/historia-da-cidade
+2025-06-06 16:29:18,469 - INFO - Acessando URL: https://www.cm-porto.pt/chaves-e-simbolos
+2025-06-06 16:29:21,931 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/chaves-e-simbolos
+2025-06-06 16:29:22,047 - INFO - Acessando URL: https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais
+2025-06-06 16:29:25,467 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais
+2025-06-06 16:29:25,565 - INFO - Acessando URL: https://www.cm-porto.pt/marca-porto/marca-porto
+2025-06-06 16:29:29,012 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/marca-porto/marca-porto
+2025-06-06 16:29:29,110 - INFO - Acessando URL: https://www.cm-porto.pt/projetos/projetos
+2025-06-06 16:29:35,290 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/projetos/projetos
+2025-06-06 16:29:35,400 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/educacao_1
+2025-06-06 16:29:38,878 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/educacao_1
+2025-06-06 16:29:38,968 - ERROR - Erro ao extrair conteúdo de bloco: 1 validation error for Content
+url
+  URL scheme should be 'http' or 'https' [type=url_scheme, input_value='mailto:dme@cm-porto.pt', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/url_scheme
+2025-06-06 16:29:38,971 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/sistema-educativo
+2025-06-06 16:29:42,427 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/sistema-educativo
+2025-06-06 16:29:42,553 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/acao-social-escolar_1
+2025-06-06 16:29:46,047 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/acao-social-escolar_1
+2025-06-06 16:29:46,161 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/programas-e-projetos-educativos
+2025-06-06 16:29:49,669 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/programas-e-projetos-educativos
+2025-06-06 16:29:49,840 - INFO - Acessando URL: https://www.cm-porto.pt/educacao/cidade-educadora
+2025-06-06 16:29:53,282 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/educacao/cidade-educadora
+2025-06-06 16:29:53,377 - INFO - Processando categoria: Município
+2025-06-06 16:29:53,377 - INFO - Acessando URL: https://www.cm-porto.pt/municipio
+2025-06-06 16:29:56,882 - WARNING - Página está mostrando aviso de browser: https://www.cm-porto.pt/municipio
+2025-06-06 16:29:56,929 - INFO - Subcategoria encontrada: Cidade (https://www.cm-porto.pt/cidade)
+2025-06-06 16:29:56,929 - INFO - Subcategoria encontrada: História da cidade (https://www.cm-porto.pt/historia-da-cidade)
+2025-06-06 16:29:56,929 - INFO - Subcategoria encontrada: Chaves e Símbolos (https://www.cm-porto.pt/chaves-e-simbolos)
+2025-06-06 16:29:56,929 - INFO - Subcategoria encontrada: Medalhas da Cidade (https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais)
+2025-06-06 16:29:56,929 - INFO - Subcategoria encontrada: Marca Porto. (https://www.cm-porto.pt/marca-porto/marca-porto)
+2025-06-06 16:29:56,929 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/projetos/projetos)
+2025-06-06 16:29:56,930 - INFO - Subcategoria encontrada: Educação (https://www.cm-porto.pt/educacao/educacao_1)
+2025-06-06 16:29:56,930 - INFO - Subcategoria encontrada: Sistema Educativo (https://www.cm-porto.pt/educacao/sistema-educativo)
+2025-06-06 16:29:56,930 - INFO - Subcategoria encontrada: Ação Social Escolar (https://www.cm-porto.pt/educacao/acao-social-escolar_1)
+2025-06-06 16:29:56,930 - INFO - Subcategoria encontrada: Programas e Projetos (https://www.cm-porto.pt/educacao/programas-e-projetos-educativos)
+2025-06-06 16:29:56,930 - INFO - Subcategoria encontrada: Cidade Educadora (https://www.cm-porto.pt/educacao/cidade-educadora)
+2025-06-06 16:29:56,930 - INFO - Subcategoria encontrada: Proteção de Crianças e Jovens (https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto)
+2025-06-06 16:29:56,930 - INFO - Subcategoria encontrada: Juventude (https://www.cm-porto.pt/juventude/juventude)
+2025-06-06 16:29:56,931 - INFO - Subcategoria encontrada: Estratégia da Juventude do Porto (https://www.cm-porto.pt/juventude/plano-municipal-da-juventude)
+2025-06-06 16:29:56,931 - INFO - Subcategoria encontrada: Participa- Amplifica a Juventude (https://www.cm-porto.pt/participa-amplifica-juventude)
+2025-06-06 16:29:56,931 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/juventude-projetos)
+2025-06-06 16:29:56,931 - INFO - Subcategoria encontrada: Economia (https://www.cm-porto.pt/economia/economia)
+2025-06-06 16:29:56,931 - INFO - Subcategoria encontrada: Estudos Estratégicos (https://www.cm-porto.pt/economia/estudos-estrategicos)
+2025-06-06 16:29:56,931 - INFO - Subcategoria encontrada: InvestPorto (https://www.cm-porto.pt/economia/investporto)
+2025-06-06 16:29:56,931 - INFO - Subcategoria encontrada: Porto.for talent (https://www.cm-porto.pt/economia/talento)
+2025-06-06 16:29:56,931 - INFO - Subcategoria encontrada: Desenvolvimento Sustentável (https://www.cm-porto.pt/economia/desenvolvimento-sustentavel)
+2025-06-06 16:29:56,931 - INFO - Subcategoria encontrada: Proteção Civil (https://www.cm-porto.pt/seguranca/protecao-civil_1)
+2025-06-06 16:29:56,932 - INFO - Subcategoria encontrada: Centro de Gestão Integrada (https://www.cm-porto.pt/seguranca/centro-de-gestao-integrada)
+2025-06-06 16:29:56,932 - INFO - Subcategoria encontrada: Regimento de Sapadores Bombeiros (https://www.cm-porto.pt/seguranca/regimento-de-sapadores-bombeiros)
+2025-06-06 16:29:56,932 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/seguranca/policia-municipal)
+2025-06-06 16:29:56,932 - INFO - Subcategoria encontrada: Urbanismo (https://www.cm-porto.pt/urbanismo/urbanismo)
+2025-06-06 16:29:56,933 - INFO - Subcategoria encontrada: Informações Urbanísticas (https://www.cm-porto.pt/informacoes-urbanisticas)
+2025-06-06 16:29:56,933 - INFO - Subcategoria encontrada: Cartas Históricas Interativas do Porto (https://www.cm-porto.pt/cartas-historicas-interativas-do-porto/cartas-historicas-interativas-do-porto)
+2025-06-06 16:29:56,933 - INFO - Subcategoria encontrada: Planeamento e Reabilitação (https://www.cm-porto.pt/urbanismo/planeamento-e-reabilitacao)
+2025-06-06 16:29:56,933 - INFO - Subcategoria encontrada: Urbanização e Edificação (https://www.cm-porto.pt/urbanismo/urbanizacao-e-edificacao)
+2025-06-06 16:29:56,933 - INFO - Subcategoria encontrada: Arquitetura no Porto (https://www.cm-porto.pt/urbanismo/arquitetura-no-porto)
+2025-06-06 16:29:56,933 - INFO - Subcategoria encontrada: Património (https://www.cm-porto.pt/patrimonio/patrimonio)
+2025-06-06 16:29:56,933 - INFO - Subcategoria encontrada: Gestão de Património (https://www.cm-porto.pt/gestao-de-patrimonio/gestao-de-patrimonio)
+2025-06-06 16:29:56,938 - INFO - Subcategoria encontrada: Câmara Municipal (https://www.cm-porto.pt/autarquia/edificio-pacos-do-concelho)
+2025-06-06 16:29:56,939 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/executivo)
+2025-06-06 16:29:56,939 - INFO - Subcategoria encontrada: Reuniões de Câmara (https://www.cm-porto.pt/reunioes-de-camara/reunioes-de-camara-1)
+2025-06-06 16:29:56,939 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/reuniao-de-camara-atas)
+2025-06-06 16:29:56,939 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/reuniao-de-camara-deliberacoes)
+2025-06-06 16:29:56,939 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/reuniao-de-camara-agenda)
+2025-06-06 16:29:56,939 - INFO - Subcategoria encontrada: Estrutura Orgânica (https://www.cm-porto.pt/estrutura-organica)
+2025-06-06 16:29:56,939 - INFO - Subcategoria encontrada: Sistema de Gestão (https://www.cm-porto.pt/recursos-humanos/sistema-de-gestao)
+2025-06-06 16:29:56,939 - INFO - Subcategoria encontrada: Comissão de Toponímia (https://www.cm-porto.pt/autarquia/comissao-de-toponimia)
+2025-06-06 16:29:56,941 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/assembleia-municipal/assembleia-municipal)
+2025-06-06 16:29:56,941 - INFO - Subcategoria encontrada: Composição (https://www.cm-porto.pt/assembleia-municipal/composicao)
+2025-06-06 16:29:56,941 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/assembleia-municipal/competencias)
+2025-06-06 16:29:56,941 - INFO - Subcategoria encontrada: Regimento (https://www.cm-porto.pt/assembleia-municipal/regimento)
+2025-06-06 16:29:56,941 - INFO - Subcategoria encontrada: Comissões e Grupos de Trabalho (https://www.cm-porto.pt/assembleia-municipal/comissoes-e-grupos-de-trabalho)
+2025-06-06 16:29:56,941 - INFO - Subcategoria encontrada: Delegações (https://www.cm-porto.pt/assembleia-municipal/delegacoes)
+2025-06-06 16:29:56,941 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/)
+2025-06-06 16:29:56,942 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/deliberacoes)
+2025-06-06 16:29:56,942 - INFO - Subcategoria encontrada: Propostas (https://www.cm-porto.pt/deliberacoes-propostas)
+2025-06-06 16:29:56,942 - INFO - Subcategoria encontrada: Moções (https://www.cm-porto.pt/deliberacoes-mocoes)
+2025-06-06 16:29:56,942 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/deliberacoes-recomendacoes)
+2025-06-06 16:29:56,942 - INFO - Subcategoria encontrada: Relatórios e Pareceres (https://www.cm-porto.pt/deliberacoes-relatorios-e-pareceres)
+2025-06-06 16:29:56,942 - INFO - Subcategoria encontrada: Minutas (https://www.cm-porto.pt/deliberacoes-minutas)
+2025-06-06 16:29:56,942 - INFO - Subcategoria encontrada: Votos (https://www.cm-porto.pt/deliberacoes-votos)
+2025-06-06 16:29:56,943 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/deliberacoes-atas)
+2025-06-06 16:29:56,943 - INFO - Subcategoria encontrada: Reuniões (https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+2025-06-06 16:29:56,943 - INFO - Subcategoria encontrada: Inscrições nas Sessões (https://www.cm-porto.pt/Participe/inscricoes-nas-sessoes)
+2025-06-06 16:29:56,943 - INFO - Subcategoria encontrada: Direito de Petição (https://www.cm-porto.pt/Participe/direito-de-peticao)
+2025-06-06 16:29:56,943 - INFO - Subcategoria encontrada: Sugestões (https://www.cm-porto.pt/sugestoes)
+2025-06-06 16:29:56,943 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/agenda-municipal?t=11.49)
+2025-06-06 16:29:56,943 - INFO - Subcategoria encontrada: Notícias (https://www.cm-porto.pt/assembleia-municipal-noticias)
+2025-06-06 16:29:56,944 - INFO - Subcategoria encontrada: FAQs (https://www.cm-porto.pt/assembleia-municipal-faqs)
+2025-06-06 16:29:56,944 - INFO - Subcategoria encontrada: Conselhos Municipais (https://www.cm-porto.pt/conselhos-municipais/conselhos-municipais)
+2025-06-06 16:29:56,945 - INFO - Subcategoria encontrada: Conselho Municipal do Turismo (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-turismo-do-porto)
+2025-06-06 16:29:56,945 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-do-turismo-ata)
+2025-06-06 16:29:56,945 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-do-turismo-agenda)
+2025-06-06 16:29:56,945 - INFO - Subcategoria encontrada: Conselho Municipal da Cultura (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-cultura-do-porto)
+2025-06-06 16:29:56,946 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-cultura-ata)
+2025-06-06 16:29:56,946 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-cultura-agenda)
+2025-06-06 16:29:56,946 - INFO - Subcategoria encontrada: Conselho Municipal de Economia (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-economia-do-porto-casa-dos-24)
+2025-06-06 16:29:56,946 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-economia-ata)
+2025-06-06 16:29:56,946 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-economia-agenda)
+2025-06-06 16:29:56,946 - INFO - Subcategoria encontrada: Conselho Municipal de Educação (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-educacao_1)
+2025-06-06 16:29:56,946 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-educacao-ata)
+2025-06-06 16:29:56,946 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-educacao-agenda)
+2025-06-06 16:29:56,947 - INFO - Subcategoria encontrada: Conselho Municipal de Segurança (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-seguranca)
+2025-06-06 16:29:56,947 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-seguranca-ata)
+2025-06-06 16:29:56,947 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-seguranca-agenda)
+2025-06-06 16:29:56,947 - INFO - Subcategoria encontrada: Conselho Municipal da Juventude (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-juventude-do-porto)
+2025-06-06 16:29:56,948 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-juventude-ata)
+2025-06-06 16:29:56,948 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-juventude-agenda)
+2025-06-06 16:29:56,948 - INFO - Subcategoria encontrada: Conselho Municipal de Ambiente (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-ambiente)
+2025-06-06 16:29:56,948 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-ambiente-ata)
+2025-06-06 16:29:56,948 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-ambiente-agenda)
+2025-06-06 16:29:56,949 - INFO - Subcategoria encontrada: Provedor do Munícipe (https://www.cm-porto.pt/provedor-do-municipe/provedor-do-municipe)
+2025-06-06 16:29:56,949 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/provedor-do-municipe/recomendacoes-2)
+2025-06-06 16:29:56,949 - INFO - Subcategoria encontrada: Contactos (https://www.cm-porto.pt/provedor-do-municipe/contactos)
+2025-06-06 16:29:56,949 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/provedor-do-municipe/competencias-1)
+2025-06-06 16:29:56,949 - INFO - Subcategoria encontrada: Empresas Municipais (https://www.cm-porto.pt/municipio/empresas-municipais_3)
+2025-06-06 16:29:56,949 - INFO - Subcategoria encontrada: Freguesias (https://www.cm-porto.pt/municipio/freguesias)
+2025-06-06 16:29:56,949 - INFO - Subcategoria encontrada: Gabinete do Munícipe (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-do-municipe)
+2025-06-06 16:29:56,950 - INFO - Subcategoria encontrada: Linha Porto. (https://www.cm-porto.pt/linha-porto/linha-porto-220-100-220)
+2025-06-06 16:29:56,950 - INFO - Subcategoria encontrada: Apoio ao Consumidor (SMAC) (https://www.cm-porto.pt/gabinete-do-municipe/apoio-ao-consumidor-smac)
+2025-06-06 16:29:56,950 - INFO - Subcategoria encontrada: Águas e Energia do Porto (https://www.cm-porto.pt/gabinete-do-municipe/aguas-do-porto)
+2025-06-06 16:29:56,950 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/gabinete-do-municipe/policia-municipal-1)
+2025-06-06 16:29:56,951 - INFO - Subcategoria encontrada: Gabinete de Inclusão (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-de-inclusao_1)
+2025-06-06 16:29:56,951 - INFO - Subcategoria encontrada: Informação Municipal (https://www.cm-porto.pt/informacao-municipal/informacao-municipal)
+2025-06-06 16:29:56,962 - INFO - Subcategoria encontrada: Avisos (https://www.cm-porto.pt/avisos)
+2025-06-06 16:29:56,963 - INFO - Subcategoria encontrada: Comunicados (https://www.cm-porto.pt/comunicados)
+2025-06-06 16:29:56,963 - INFO - Subcategoria encontrada: Editais (https://www.cm-porto.pt/editais)
+2025-06-06 16:29:56,963 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/editais?t=73&c=4)
+2025-06-06 16:29:56,963 - INFO - Subcategoria encontrada: Concursos (https://www.cm-porto.pt/editais?t=73&c=5)
+2025-06-06 16:29:56,963 - INFO - Subcategoria encontrada: Discussão Pública (https://www.cm-porto.pt/editais?t=73&c=6)
+2025-06-06 16:29:56,963 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/editais?t=73&c=7)
+2025-06-06 16:29:56,964 - INFO - Subcategoria encontrada: Outros (https://www.cm-porto.pt/editais?t=73&c=8)
+2025-06-06 16:29:56,964 - INFO - Subcategoria encontrada: Recursos Humanos (https://www.cm-porto.pt/informacao-municipal/recursos-humanos_1)
+2025-06-06 16:29:56,964 - INFO - Subcategoria encontrada: Formação e Desenvolvimento (https://www.cm-porto.pt/informacao-municipal/formacao-e-desenvolvimento)
+2025-06-06 16:29:56,964 - INFO - Subcategoria encontrada: Bem-estar (https://www.cm-porto.pt/informacao-municipal/bem-estar)
+2025-06-06 16:29:56,964 - INFO - Subcategoria encontrada: Inovação (https://www.cm-porto.pt/informacao-municipal/inovacao-3)
+2025-06-06 16:29:56,964 - INFO - Subcategoria encontrada: Documentos (https://www.cm-porto.pt/recursos-humanos)
+2025-06-06 16:29:56,964 - INFO - Subcategoria encontrada: Recrutamento e Seleção (https://www.cm-porto.pt/informacao-municipal/recrutamento-e-selecao)
+2025-06-06 16:29:56,965 - INFO - Subcategoria encontrada: Finanças (https://www.cm-porto.pt/informacao-municipal/financas)
+2025-06-06 16:29:56,965 - INFO - Subcategoria encontrada: Contas Porto (https://www.cm-porto.pt/contas-porto)
+2025-06-06 16:29:56,965 - INFO - Subcategoria encontrada: Elementos Económico Financeiros (https://www.cm-porto.pt/elementos-economico-financeiros)
+2025-06-06 16:29:56,965 - INFO - Subcategoria encontrada: Alienações e Hastas Públicas (https://www.cm-porto.pt/venda-e-concessoes)
+2025-06-06 16:29:56,965 - INFO - Subcategoria encontrada: Outros documentos (https://www.cm-porto.pt/financas)
+2025-06-06 16:29:56,966 - INFO - Subcategoria encontrada: Planos, Normas e outros (https://www.cm-porto.pt/documentacao)
+2025-06-06 16:29:56,966 - INFO - Subcategoria encontrada: Projetos cofinanciados (https://www.cm-porto.pt/projectos-cofinanciados)
+2025-06-06 16:29:56,966 - INFO - Subcategoria encontrada: Grupo de Trabalho para Acompanhamento de Investimentos de Transporte Público (https://www.cm-porto.pt/comissoes-e-grupos-de-trabalho/grupo-de-trabalho-para-acompanhamento-de-investimentos-de-transporte-publico)
+2025-06-06 16:29:56,980 - INFO - Processando categoria: Urbanismo
+2025-06-06 16:29:56,980 - INFO - Acessando URL: https://www.cm-porto.pt/urbanismo
+2025-06-06 16:30:03,233 - INFO - Processando categoria: Ambiente
+2025-06-06 16:30:03,233 - INFO - Acessando URL: https://www.cm-porto.pt/ambiente
+2025-06-06 16:30:06,765 - INFO - Processando categoria: Educação
+2025-06-06 16:30:06,765 - INFO - Acessando URL: https://www.cm-porto.pt/educacao
+2025-06-06 16:30:10,684 - INFO - Processando categoria: Cultura
+2025-06-06 16:30:10,685 - INFO - Acessando URL: https://www.cm-porto.pt/cultura
+2025-06-06 16:30:14,073 - INFO - Processando categoria: Economia
+2025-06-06 16:30:14,073 - INFO - Acessando URL: https://www.cm-porto.pt/economia
+2025-06-06 16:30:18,076 - INFO - Processando categoria: Mobilidade
+2025-06-06 16:30:18,076 - INFO - Acessando URL: https://www.cm-porto.pt/mobilidade
+2025-06-06 16:30:21,528 - INFO - Processando categoria: Juventude
+2025-06-06 16:30:21,528 - INFO - Acessando URL: https://www.cm-porto.pt/juventude
+2025-06-06 16:30:25,302 - INFO - Processando categoria: Ação Social
+2025-06-06 16:30:25,302 - INFO - Acessando URL: https://www.cm-porto.pt/acao-social
+2025-06-06 16:30:28,763 - INFO - Base de conhecimento guardada com sucesso: 10 categorias
+2025-06-06 16:30:28,763 - INFO - Scraping concluído com sucesso!
+2025-06-06 16:30:30,935 - INFO - Driver do Selenium encerrado
+2025-06-06 17:02:19,307 - INFO - Driver do Selenium configurado com sucesso
+2025-06-06 17:02:19,308 - INFO - Iniciando scraping do site da Câmara Municipal do Porto...
+2025-06-06 17:02:19,308 - INFO - Iniciando análise da estrutura do site...
+2025-06-06 17:02:19,308 - INFO - Criando categorias principais manualmente
+2025-06-06 17:02:19,308 - INFO - Categoria manual criada: Cidade (https://www.cm-porto.pt/cidade)
+2025-06-06 17:02:19,308 - INFO - Categoria manual criada: Município (https://www.cm-porto.pt/municipio)
+2025-06-06 17:02:19,309 - INFO - Categoria manual criada: Urbanismo (https://www.cm-porto.pt/urbanismo)
+2025-06-06 17:02:19,309 - INFO - Categoria manual criada: Ambiente (https://www.cm-porto.pt/ambiente)
+2025-06-06 17:02:19,309 - INFO - Categoria manual criada: Educação (https://www.cm-porto.pt/educacao)
+2025-06-06 17:02:19,309 - INFO - Categoria manual criada: Cultura (https://www.cm-porto.pt/cultura)
+2025-06-06 17:02:19,309 - INFO - Categoria manual criada: Economia (https://www.cm-porto.pt/economia)
+2025-06-06 17:02:19,310 - INFO - Categoria manual criada: Mobilidade (https://www.cm-porto.pt/mobilidade)
+2025-06-06 17:02:19,310 - INFO - Categoria manual criada: Juventude (https://www.cm-porto.pt/juventude)
+2025-06-06 17:02:19,310 - INFO - Categoria manual criada: Ação Social (https://www.cm-porto.pt/acao-social)
+2025-06-06 17:02:19,310 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/cidade
+2025-06-06 17:02:22,216 - INFO - Página Cidade classificada como tipo: generic_content_page
+2025-06-06 17:02:22,216 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/cidade
+2025-06-06 17:02:24,696 - INFO - Subcategoria encontrada: História da cidade (https://www.cm-porto.pt/historia-da-cidade)
+2025-06-06 17:02:24,696 - INFO - Subcategoria encontrada: Chaves e Símbolos (https://www.cm-porto.pt/chaves-e-simbolos)
+2025-06-06 17:02:24,696 - INFO - Subcategoria encontrada: Medalhas da Cidade (https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais)
+2025-06-06 17:02:24,697 - INFO - Subcategoria encontrada: Marca Porto. (https://www.cm-porto.pt/marca-porto/marca-porto)
+2025-06-06 17:02:24,697 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/projetos/projetos)
+2025-06-06 17:02:24,697 - INFO - Subcategoria encontrada: Ambiente (http://ambiente.cm-porto.pt)
+2025-06-06 17:02:24,697 - INFO - Subcategoria encontrada: Cultura (http://cultura.cm-porto.pt)
+2025-06-06 17:02:24,697 - INFO - Subcategoria encontrada: Comércio e Turismo (http://comercioturismo.cm-porto.pt)
+2025-06-06 17:02:24,697 - INFO - Subcategoria encontrada: Mobilidade (http://mobilidade.cm-porto.pt)
+2025-06-06 17:02:24,697 - INFO - Subcategoria encontrada: Ação Social (http://coesaosocial.cm-porto.pt)
+2025-06-06 17:02:24,697 - INFO - Subcategoria encontrada: Educação (https://www.cm-porto.pt/educacao/educacao_1)
+2025-06-06 17:02:24,698 - INFO - Subcategoria encontrada: Sistema Educativo (https://www.cm-porto.pt/educacao/sistema-educativo)
+2025-06-06 17:02:24,698 - INFO - Subcategoria encontrada: Ação Social Escolar (https://www.cm-porto.pt/educacao/acao-social-escolar_1)
+2025-06-06 17:02:24,698 - INFO - Subcategoria encontrada: Programas e Projetos (https://www.cm-porto.pt/educacao/programas-e-projetos-educativos)
+2025-06-06 17:02:24,698 - INFO - Subcategoria encontrada: Cidade Educadora (https://www.cm-porto.pt/educacao/cidade-educadora)
+2025-06-06 17:02:24,698 - INFO - Subcategoria encontrada: Proteção de Crianças e Jovens (https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto)
+2025-06-06 17:02:24,698 - INFO - Subcategoria encontrada: Juventude (https://www.cm-porto.pt/juventude/juventude)
+2025-06-06 17:02:24,699 - INFO - Subcategoria encontrada: Estratégia da Juventude do Porto (https://www.cm-porto.pt/juventude/plano-municipal-da-juventude)
+2025-06-06 17:02:24,699 - INFO - Subcategoria encontrada: Participa- Amplifica a Juventude (https://www.cm-porto.pt/participa-amplifica-juventude)
+2025-06-06 17:02:24,699 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/juventude-projetos)
+2025-06-06 17:02:24,699 - INFO - Subcategoria encontrada: Economia (https://www.cm-porto.pt/economia/economia)
+2025-06-06 17:02:24,699 - INFO - Subcategoria encontrada: Estudos Estratégicos (https://www.cm-porto.pt/economia/estudos-estrategicos)
+2025-06-06 17:02:24,699 - INFO - Subcategoria encontrada: InvestPorto (https://www.cm-porto.pt/economia/investporto)
+2025-06-06 17:02:24,700 - INFO - Subcategoria encontrada: Porto.for talent (https://www.cm-porto.pt/economia/talento)
+2025-06-06 17:02:24,700 - INFO - Subcategoria encontrada: Desenvolvimento Sustentável (https://www.cm-porto.pt/economia/desenvolvimento-sustentavel)
+2025-06-06 17:02:24,700 - INFO - Subcategoria encontrada: Proteção Civil (https://www.cm-porto.pt/seguranca/protecao-civil_1)
+2025-06-06 17:02:24,700 - INFO - Subcategoria encontrada: Centro de Gestão Integrada (https://www.cm-porto.pt/seguranca/centro-de-gestao-integrada)
+2025-06-06 17:02:24,700 - INFO - Subcategoria encontrada: Regimento de Sapadores Bombeiros (https://www.cm-porto.pt/seguranca/regimento-de-sapadores-bombeiros)
+2025-06-06 17:02:24,700 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/seguranca/policia-municipal)
+2025-06-06 17:02:24,701 - INFO - Subcategoria encontrada: Urbanismo (https://www.cm-porto.pt/urbanismo/urbanismo)
+2025-06-06 17:02:24,701 - INFO - Subcategoria encontrada: Informações Urbanísticas (https://www.cm-porto.pt/informacoes-urbanisticas)
+2025-06-06 17:02:24,701 - INFO - Subcategoria encontrada: Cartas Históricas Interativas do Porto (https://www.cm-porto.pt/cartas-historicas-interativas-do-porto/cartas-historicas-interativas-do-porto)
+2025-06-06 17:02:24,701 - INFO - Subcategoria encontrada: Planeamento e Reabilitação (https://www.cm-porto.pt/urbanismo/planeamento-e-reabilitacao)
+2025-06-06 17:02:24,701 - INFO - Subcategoria encontrada: Urbanização e Edificação (https://www.cm-porto.pt/urbanismo/urbanizacao-e-edificacao)
+2025-06-06 17:02:24,702 - INFO - Subcategoria encontrada: PDM 2021 (https://pdm.cm-porto.pt/)
+2025-06-06 17:02:24,702 - INFO - Subcategoria encontrada: Arquitetura no Porto (https://www.cm-porto.pt/urbanismo/arquitetura-no-porto)
+2025-06-06 17:02:24,702 - INFO - Subcategoria encontrada: Património (https://www.cm-porto.pt/patrimonio/patrimonio)
+2025-06-06 17:02:24,702 - INFO - Subcategoria encontrada: Gestão de Património (https://www.cm-porto.pt/gestao-de-patrimonio/gestao-de-patrimonio)
+2025-06-06 17:02:24,705 - INFO - Subcategoria encontrada: Município (https://www.cm-porto.pt/municipio)
+2025-06-06 17:02:24,705 - INFO - Subcategoria encontrada: Câmara Municipal (https://www.cm-porto.pt/autarquia/edificio-pacos-do-concelho)
+2025-06-06 17:02:24,705 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/executivo)
+2025-06-06 17:02:24,705 - INFO - Subcategoria encontrada: Reuniões de Câmara (https://www.cm-porto.pt/reunioes-de-camara/reunioes-de-camara-1)
+2025-06-06 17:02:24,705 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/reuniao-de-camara-atas)
+2025-06-06 17:02:24,705 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/reuniao-de-camara-deliberacoes)
+2025-06-06 17:02:24,706 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/reuniao-de-camara-agenda)
+2025-06-06 17:02:24,706 - INFO - Subcategoria encontrada: Estrutura Orgânica (https://www.cm-porto.pt/estrutura-organica)
+2025-06-06 17:02:24,706 - INFO - Subcategoria encontrada: Sistema de Gestão (https://www.cm-porto.pt/recursos-humanos/sistema-de-gestao)
+2025-06-06 17:02:24,706 - INFO - Subcategoria encontrada: Comissão de Toponímia (https://www.cm-porto.pt/autarquia/comissao-de-toponimia)
+2025-06-06 17:02:24,706 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/assembleia-municipal/assembleia-municipal)
+2025-06-06 17:02:24,706 - INFO - Subcategoria encontrada: Composição (https://www.cm-porto.pt/assembleia-municipal/composicao)
+2025-06-06 17:02:24,707 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/assembleia-municipal/competencias)
+2025-06-06 17:02:24,707 - INFO - Subcategoria encontrada: Regimento (https://www.cm-porto.pt/assembleia-municipal/regimento)
+2025-06-06 17:02:24,707 - INFO - Subcategoria encontrada: Comissões e Grupos de Trabalho (https://www.cm-porto.pt/assembleia-municipal/comissoes-e-grupos-de-trabalho)
+2025-06-06 17:02:24,707 - INFO - Subcategoria encontrada: Delegações (https://www.cm-porto.pt/assembleia-municipal/delegacoes)
+2025-06-06 17:02:24,707 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/)
+2025-06-06 17:02:24,707 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/deliberacoes)
+2025-06-06 17:02:24,707 - INFO - Subcategoria encontrada: Propostas (https://www.cm-porto.pt/deliberacoes-propostas)
+2025-06-06 17:02:24,708 - INFO - Subcategoria encontrada: Moções (https://www.cm-porto.pt/deliberacoes-mocoes)
+2025-06-06 17:02:24,708 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/deliberacoes-recomendacoes)
+2025-06-06 17:02:24,708 - INFO - Subcategoria encontrada: Relatórios e Pareceres (https://www.cm-porto.pt/deliberacoes-relatorios-e-pareceres)
+2025-06-06 17:02:24,708 - INFO - Subcategoria encontrada: Minutas (https://www.cm-porto.pt/deliberacoes-minutas)
+2025-06-06 17:02:24,708 - INFO - Subcategoria encontrada: Votos (https://www.cm-porto.pt/deliberacoes-votos)
+2025-06-06 17:02:24,708 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/deliberacoes-atas)
+2025-06-06 17:02:24,709 - INFO - Subcategoria encontrada: Reuniões (https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+2025-06-06 17:02:24,709 - INFO - Subcategoria encontrada: Inscrições nas Sessões (https://www.cm-porto.pt/Participe/inscricoes-nas-sessoes)
+2025-06-06 17:02:24,709 - INFO - Subcategoria encontrada: Direito de Petição (https://www.cm-porto.pt/Participe/direito-de-peticao)
+2025-06-06 17:02:24,709 - INFO - Subcategoria encontrada: Sugestões (https://www.cm-porto.pt/sugestoes)
+2025-06-06 17:02:24,709 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/agenda-municipal?t=11.49)
+2025-06-06 17:02:24,709 - INFO - Subcategoria encontrada: Notícias (https://www.cm-porto.pt/assembleia-municipal-noticias)
+2025-06-06 17:02:24,709 - INFO - Subcategoria encontrada: FAQs (https://www.cm-porto.pt/assembleia-municipal-faqs)
+2025-06-06 17:02:24,711 - INFO - Subcategoria encontrada: Conselhos Municipais (https://www.cm-porto.pt/conselhos-municipais/conselhos-municipais)
+2025-06-06 17:02:24,711 - INFO - Subcategoria encontrada: Conselho Municipal do Turismo (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-turismo-do-porto)
+2025-06-06 17:02:24,711 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-do-turismo-ata)
+2025-06-06 17:02:24,711 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-do-turismo-agenda)
+2025-06-06 17:02:24,711 - INFO - Subcategoria encontrada: Conselho Municipal da Cultura (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-cultura-do-porto)
+2025-06-06 17:02:24,711 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-cultura-ata)
+2025-06-06 17:02:24,712 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-cultura-agenda)
+2025-06-06 17:02:24,712 - INFO - Subcategoria encontrada: Conselho Municipal de Economia (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-economia-do-porto-casa-dos-24)
+2025-06-06 17:02:24,712 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-economia-ata)
+2025-06-06 17:02:24,712 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-economia-agenda)
+2025-06-06 17:02:24,712 - INFO - Subcategoria encontrada: Conselho Municipal de Educação (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-educacao_1)
+2025-06-06 17:02:24,713 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-educacao-ata)
+2025-06-06 17:02:24,713 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-educacao-agenda)
+2025-06-06 17:02:24,713 - INFO - Subcategoria encontrada: Conselho Municipal de Segurança (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-seguranca)
+2025-06-06 17:02:24,713 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-seguranca-ata)
+2025-06-06 17:02:24,713 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-seguranca-agenda)
+2025-06-06 17:02:24,713 - INFO - Subcategoria encontrada: Conselho Municipal da Juventude (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-juventude-do-porto)
+2025-06-06 17:02:24,714 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-juventude-ata)
+2025-06-06 17:02:24,714 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-juventude-agenda)
+2025-06-06 17:02:24,714 - INFO - Subcategoria encontrada: Conselho Municipal de Ambiente (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-ambiente)
+2025-06-06 17:02:24,714 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-ambiente-ata)
+2025-06-06 17:02:24,714 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-ambiente-agenda)
+2025-06-06 17:02:24,715 - INFO - Subcategoria encontrada: Provedor do Munícipe (https://www.cm-porto.pt/provedor-do-municipe/provedor-do-municipe)
+2025-06-06 17:02:24,715 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/provedor-do-municipe/recomendacoes-2)
+2025-06-06 17:02:24,715 - INFO - Subcategoria encontrada: Contactos (https://www.cm-porto.pt/provedor-do-municipe/contactos)
+2025-06-06 17:02:24,715 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/provedor-do-municipe/competencias-1)
+2025-06-06 17:02:24,715 - INFO - Subcategoria encontrada: Empresas Municipais (https://www.cm-porto.pt/municipio/empresas-municipais_3)
+2025-06-06 17:02:24,716 - INFO - Subcategoria encontrada: Freguesias (https://www.cm-porto.pt/municipio/freguesias)
+2025-06-06 17:02:24,716 - INFO - Subcategoria encontrada: Gabinete do Munícipe (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-do-municipe)
+2025-06-06 17:02:24,716 - INFO - Subcategoria encontrada: Linha Porto. (https://www.cm-porto.pt/linha-porto/linha-porto-220-100-220)
+2025-06-06 17:02:24,716 - INFO - Subcategoria encontrada: Espaço do cidadão (https://portaldomunicipe.cm-porto.pt/-/espa%C3%A7o-do-cidad%C3%A3o-do-gabinete-do-mun%C3%ADcipe)
+2025-06-06 17:02:24,716 - INFO - Subcategoria encontrada: Apoio à reutilização de livros escolares (SMARLE) (https://portaldomunicipe.cm-porto.pt/-/servi%C3%A7o-municipal-de-apoio-%C3%A0-reutiliza%C3%A7%C3%A3o-dos-livros-escolares)
+2025-06-06 17:02:24,717 - INFO - Subcategoria encontrada: Aconselhamento Jurídico (SMAJ) (https://portaldomunicipe.cm-porto.pt/-/servi%C3%A7o-municipal-de-aconselhamento-jur%C3%ADdico)
+2025-06-06 17:02:24,717 - INFO - Subcategoria encontrada: Apoio ao Consumidor (SMAC) (https://www.cm-porto.pt/gabinete-do-municipe/apoio-ao-consumidor-smac)
+2025-06-06 17:02:24,717 - INFO - Subcategoria encontrada: Águas e Energia do Porto (https://www.cm-porto.pt/gabinete-do-municipe/aguas-do-porto)
+2025-06-06 17:02:24,717 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/gabinete-do-municipe/policia-municipal-1)
+2025-06-06 17:02:24,717 - INFO - Subcategoria encontrada: Gabinete de Inclusão (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-de-inclusao_1)
+2025-06-06 17:02:24,717 - INFO - Subcategoria encontrada: Apoio ao Provedor do Munícipe (https://portaldomunicipe.cm-porto.pt/-/provedor-do-mun%C3%ADcipe)
+2025-06-06 17:02:24,718 - INFO - Subcategoria encontrada: Informação Municipal (https://www.cm-porto.pt/informacao-municipal/informacao-municipal)
+2025-06-06 17:02:24,718 - INFO - Subcategoria encontrada: Avisos (https://www.cm-porto.pt/avisos)
+2025-06-06 17:02:24,718 - INFO - Subcategoria encontrada: Comunicados (https://www.cm-porto.pt/comunicados)
+2025-06-06 17:02:24,718 - INFO - Subcategoria encontrada: Editais (https://www.cm-porto.pt/editais)
+2025-06-06 17:02:24,719 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/editais?t=73&c=4)
+2025-06-06 17:02:24,719 - INFO - Subcategoria encontrada: Concursos (https://www.cm-porto.pt/editais?t=73&c=5)
+2025-06-06 17:02:24,719 - INFO - Subcategoria encontrada: Discussão Pública (https://www.cm-porto.pt/editais?t=73&c=6)
+2025-06-06 17:02:24,719 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/editais?t=73&c=7)
+2025-06-06 17:02:24,719 - INFO - Subcategoria encontrada: Outros (https://www.cm-porto.pt/editais?t=73&c=8)
+2025-06-06 17:02:24,720 - INFO - Subcategoria encontrada: Recursos Humanos (https://www.cm-porto.pt/informacao-municipal/recursos-humanos_1)
+2025-06-06 17:02:24,720 - INFO - Subcategoria encontrada: Formação e Desenvolvimento (https://www.cm-porto.pt/informacao-municipal/formacao-e-desenvolvimento)
+2025-06-06 17:02:24,720 - INFO - Subcategoria encontrada: Bem-estar (https://www.cm-porto.pt/informacao-municipal/bem-estar)
+2025-06-06 17:02:24,720 - INFO - Subcategoria encontrada: Inovação (https://www.cm-porto.pt/informacao-municipal/inovacao-3)
+2025-06-06 17:02:24,720 - INFO - Subcategoria encontrada: Documentos (https://www.cm-porto.pt/recursos-humanos)
+2025-06-06 17:02:24,720 - INFO - Subcategoria encontrada: Recrutamento e Seleção (https://www.cm-porto.pt/informacao-municipal/recrutamento-e-selecao)
+2025-06-06 17:02:24,720 - INFO - Subcategoria encontrada: Finanças (https://www.cm-porto.pt/informacao-municipal/financas)
+2025-06-06 17:02:24,722 - INFO - Subcategoria encontrada: Simulador de Taxas Municipais (https://cmpexternos.cm-porto.pt/stm/)
+2025-06-06 17:02:24,722 - INFO - Subcategoria encontrada: Contas Porto (https://www.cm-porto.pt/contas-porto)
+2025-06-06 17:02:24,722 - INFO - Subcategoria encontrada: Elementos Económico Financeiros (https://www.cm-porto.pt/elementos-economico-financeiros)
+2025-06-06 17:02:24,722 - INFO - Subcategoria encontrada: Compras Públicas (https://portaldomunicipe.cm-porto.pt/contrata%C3%A7%C3%A3o-p%C3%BAblica)
+2025-06-06 17:02:24,722 - INFO - Subcategoria encontrada: Alienações e Hastas Públicas (https://www.cm-porto.pt/venda-e-concessoes)
+2025-06-06 17:02:24,723 - INFO - Subcategoria encontrada: Outros documentos (https://www.cm-porto.pt/financas)
+2025-06-06 17:02:24,723 - INFO - Subcategoria encontrada: Planos, Normas e outros (https://www.cm-porto.pt/documentacao)
+2025-06-06 17:02:24,723 - INFO - Subcategoria encontrada: Código Regulamentar do Porto (http://crmp.cm-porto.pt)
+2025-06-06 17:02:24,723 - INFO - Subcategoria encontrada: Arquivo Municipal do Porto (http://gisaweb.cm-porto.pt/)
+2025-06-06 17:02:24,723 - INFO - Subcategoria encontrada: Bibliotecas Municipais do Porto (http://bibliotecas.cm-porto.pt/ipac20/ipac.jsp?profile=#focus)
+2025-06-06 17:02:24,724 - INFO - Subcategoria encontrada: Boletim Municipal (http://bme.cm-porto.pt/)
+2025-06-06 17:02:24,724 - INFO - Subcategoria encontrada: Projetos cofinanciados (https://www.cm-porto.pt/projectos-cofinanciados)
+2025-06-06 17:02:24,724 - INFO - Subcategoria encontrada: Grupo de Trabalho para Acompanhamento de Investimentos de Transporte Público (https://www.cm-porto.pt/comissoes-e-grupos-de-trabalho/grupo-de-trabalho-para-acompanhamento-de-investimentos-de-transporte-publico)
+2025-06-06 17:02:24,731 - INFO - Subcategoria encontrada: Código Regulamentar do Porto (http://crmp.cm-porto.pt)
+2025-06-06 17:02:24,733 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/historia-da-cidade
+2025-06-06 17:02:27,293 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/chaves-e-simbolos
+2025-06-06 17:02:29,831 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais
+2025-06-06 17:02:32,365 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/marca-porto/marca-porto
+2025-06-06 17:02:34,829 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/projetos/projetos
+2025-06-06 17:02:41,084 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/municipio
+2025-06-06 17:02:43,626 - INFO - Página Município classificada como tipo: generic_content_page
+2025-06-06 17:02:43,626 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/municipio
+2025-06-06 17:02:46,058 - INFO - Subcategoria encontrada: Cidade (https://www.cm-porto.pt/cidade)
+2025-06-06 17:02:46,058 - INFO - Subcategoria encontrada: História da cidade (https://www.cm-porto.pt/historia-da-cidade)
+2025-06-06 17:02:46,058 - INFO - Subcategoria encontrada: Chaves e Símbolos (https://www.cm-porto.pt/chaves-e-simbolos)
+2025-06-06 17:02:46,059 - INFO - Subcategoria encontrada: Medalhas da Cidade (https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais)
+2025-06-06 17:02:46,059 - INFO - Subcategoria encontrada: Marca Porto. (https://www.cm-porto.pt/marca-porto/marca-porto)
+2025-06-06 17:02:46,059 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/projetos/projetos)
+2025-06-06 17:02:46,059 - INFO - Subcategoria encontrada: Ambiente (http://ambiente.cm-porto.pt)
+2025-06-06 17:02:46,059 - INFO - Subcategoria encontrada: Cultura (http://cultura.cm-porto.pt)
+2025-06-06 17:02:46,060 - INFO - Subcategoria encontrada: Comércio e Turismo (http://comercioturismo.cm-porto.pt)
+2025-06-06 17:02:46,060 - INFO - Subcategoria encontrada: Mobilidade (http://mobilidade.cm-porto.pt)
+2025-06-06 17:02:46,060 - INFO - Subcategoria encontrada: Ação Social (http://coesaosocial.cm-porto.pt)
+2025-06-06 17:02:46,060 - INFO - Subcategoria encontrada: Educação (https://www.cm-porto.pt/educacao/educacao_1)
+2025-06-06 17:02:46,060 - INFO - Subcategoria encontrada: Sistema Educativo (https://www.cm-porto.pt/educacao/sistema-educativo)
+2025-06-06 17:02:46,061 - INFO - Subcategoria encontrada: Ação Social Escolar (https://www.cm-porto.pt/educacao/acao-social-escolar_1)
+2025-06-06 17:02:46,061 - INFO - Subcategoria encontrada: Programas e Projetos (https://www.cm-porto.pt/educacao/programas-e-projetos-educativos)
+2025-06-06 17:02:46,061 - INFO - Subcategoria encontrada: Cidade Educadora (https://www.cm-porto.pt/educacao/cidade-educadora)
+2025-06-06 17:02:46,061 - INFO - Subcategoria encontrada: Proteção de Crianças e Jovens (https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto)
+2025-06-06 17:02:46,061 - INFO - Subcategoria encontrada: Juventude (https://www.cm-porto.pt/juventude/juventude)
+2025-06-06 17:02:46,061 - INFO - Subcategoria encontrada: Estratégia da Juventude do Porto (https://www.cm-porto.pt/juventude/plano-municipal-da-juventude)
+2025-06-06 17:02:46,062 - INFO - Subcategoria encontrada: Participa- Amplifica a Juventude (https://www.cm-porto.pt/participa-amplifica-juventude)
+2025-06-06 17:02:46,062 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/juventude-projetos)
+2025-06-06 17:02:46,062 - INFO - Subcategoria encontrada: Economia (https://www.cm-porto.pt/economia/economia)
+2025-06-06 17:02:46,062 - INFO - Subcategoria encontrada: Estudos Estratégicos (https://www.cm-porto.pt/economia/estudos-estrategicos)
+2025-06-06 17:02:46,062 - INFO - Subcategoria encontrada: InvestPorto (https://www.cm-porto.pt/economia/investporto)
+2025-06-06 17:02:46,063 - INFO - Subcategoria encontrada: Porto.for talent (https://www.cm-porto.pt/economia/talento)
+2025-06-06 17:02:46,063 - INFO - Subcategoria encontrada: Desenvolvimento Sustentável (https://www.cm-porto.pt/economia/desenvolvimento-sustentavel)
+2025-06-06 17:02:46,063 - INFO - Subcategoria encontrada: Proteção Civil (https://www.cm-porto.pt/seguranca/protecao-civil_1)
+2025-06-06 17:02:46,063 - INFO - Subcategoria encontrada: Centro de Gestão Integrada (https://www.cm-porto.pt/seguranca/centro-de-gestao-integrada)
+2025-06-06 17:02:46,063 - INFO - Subcategoria encontrada: Regimento de Sapadores Bombeiros (https://www.cm-porto.pt/seguranca/regimento-de-sapadores-bombeiros)
+2025-06-06 17:02:46,064 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/seguranca/policia-municipal)
+2025-06-06 17:02:46,064 - INFO - Subcategoria encontrada: Urbanismo (https://www.cm-porto.pt/urbanismo/urbanismo)
+2025-06-06 17:02:46,064 - INFO - Subcategoria encontrada: Informações Urbanísticas (https://www.cm-porto.pt/informacoes-urbanisticas)
+2025-06-06 17:02:46,064 - INFO - Subcategoria encontrada: Cartas Históricas Interativas do Porto (https://www.cm-porto.pt/cartas-historicas-interativas-do-porto/cartas-historicas-interativas-do-porto)
+2025-06-06 17:02:46,064 - INFO - Subcategoria encontrada: Planeamento e Reabilitação (https://www.cm-porto.pt/urbanismo/planeamento-e-reabilitacao)
+2025-06-06 17:02:46,064 - INFO - Subcategoria encontrada: Urbanização e Edificação (https://www.cm-porto.pt/urbanismo/urbanizacao-e-edificacao)
+2025-06-06 17:02:46,064 - INFO - Subcategoria encontrada: PDM 2021 (https://pdm.cm-porto.pt/)
+2025-06-06 17:02:46,065 - INFO - Subcategoria encontrada: Arquitetura no Porto (https://www.cm-porto.pt/urbanismo/arquitetura-no-porto)
+2025-06-06 17:02:46,065 - INFO - Subcategoria encontrada: Património (https://www.cm-porto.pt/patrimonio/patrimonio)
+2025-06-06 17:02:46,065 - INFO - Subcategoria encontrada: Gestão de Património (https://www.cm-porto.pt/gestao-de-patrimonio/gestao-de-patrimonio)
+2025-06-06 17:02:46,069 - INFO - Subcategoria encontrada: Câmara Municipal (https://www.cm-porto.pt/autarquia/edificio-pacos-do-concelho)
+2025-06-06 17:02:46,069 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/executivo)
+2025-06-06 17:02:46,069 - INFO - Subcategoria encontrada: Reuniões de Câmara (https://www.cm-porto.pt/reunioes-de-camara/reunioes-de-camara-1)
+2025-06-06 17:02:46,069 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/reuniao-de-camara-atas)
+2025-06-06 17:02:46,070 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/reuniao-de-camara-deliberacoes)
+2025-06-06 17:02:46,070 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/reuniao-de-camara-agenda)
+2025-06-06 17:02:46,070 - INFO - Subcategoria encontrada: Estrutura Orgânica (https://www.cm-porto.pt/estrutura-organica)
+2025-06-06 17:02:46,070 - INFO - Subcategoria encontrada: Sistema de Gestão (https://www.cm-porto.pt/recursos-humanos/sistema-de-gestao)
+2025-06-06 17:02:46,071 - INFO - Subcategoria encontrada: Comissão de Toponímia (https://www.cm-porto.pt/autarquia/comissao-de-toponimia)
+2025-06-06 17:02:46,071 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/assembleia-municipal/assembleia-municipal)
+2025-06-06 17:02:46,071 - INFO - Subcategoria encontrada: Composição (https://www.cm-porto.pt/assembleia-municipal/composicao)
+2025-06-06 17:02:46,071 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/assembleia-municipal/competencias)
+2025-06-06 17:02:46,072 - INFO - Subcategoria encontrada: Regimento (https://www.cm-porto.pt/assembleia-municipal/regimento)
+2025-06-06 17:02:46,072 - INFO - Subcategoria encontrada: Comissões e Grupos de Trabalho (https://www.cm-porto.pt/assembleia-municipal/comissoes-e-grupos-de-trabalho)
+2025-06-06 17:02:46,072 - INFO - Subcategoria encontrada: Delegações (https://www.cm-porto.pt/assembleia-municipal/delegacoes)
+2025-06-06 17:02:46,072 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/)
+2025-06-06 17:02:46,072 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/deliberacoes)
+2025-06-06 17:02:46,072 - INFO - Subcategoria encontrada: Propostas (https://www.cm-porto.pt/deliberacoes-propostas)
+2025-06-06 17:02:46,072 - INFO - Subcategoria encontrada: Moções (https://www.cm-porto.pt/deliberacoes-mocoes)
+2025-06-06 17:02:46,072 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/deliberacoes-recomendacoes)
+2025-06-06 17:02:46,073 - INFO - Subcategoria encontrada: Relatórios e Pareceres (https://www.cm-porto.pt/deliberacoes-relatorios-e-pareceres)
+2025-06-06 17:02:46,073 - INFO - Subcategoria encontrada: Minutas (https://www.cm-porto.pt/deliberacoes-minutas)
+2025-06-06 17:02:46,073 - INFO - Subcategoria encontrada: Votos (https://www.cm-porto.pt/deliberacoes-votos)
+2025-06-06 17:02:46,073 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/deliberacoes-atas)
+2025-06-06 17:02:46,073 - INFO - Subcategoria encontrada: Reuniões (https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+2025-06-06 17:02:46,073 - INFO - Subcategoria encontrada: Inscrições nas Sessões (https://www.cm-porto.pt/Participe/inscricoes-nas-sessoes)
+2025-06-06 17:02:46,074 - INFO - Subcategoria encontrada: Direito de Petição (https://www.cm-porto.pt/Participe/direito-de-peticao)
+2025-06-06 17:02:46,074 - INFO - Subcategoria encontrada: Sugestões (https://www.cm-porto.pt/sugestoes)
+2025-06-06 17:02:46,074 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/agenda-municipal?t=11.49)
+2025-06-06 17:02:46,075 - INFO - Subcategoria encontrada: Notícias (https://www.cm-porto.pt/assembleia-municipal-noticias)
+2025-06-06 17:02:46,075 - INFO - Subcategoria encontrada: FAQs (https://www.cm-porto.pt/assembleia-municipal-faqs)
+2025-06-06 17:02:46,075 - INFO - Subcategoria encontrada: Conselhos Municipais (https://www.cm-porto.pt/conselhos-municipais/conselhos-municipais)
+2025-06-06 17:02:46,075 - INFO - Subcategoria encontrada: Conselho Municipal do Turismo (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-turismo-do-porto)
+2025-06-06 17:02:46,075 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-do-turismo-ata)
+2025-06-06 17:02:46,075 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-do-turismo-agenda)
+2025-06-06 17:02:46,076 - INFO - Subcategoria encontrada: Conselho Municipal da Cultura (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-cultura-do-porto)
+2025-06-06 17:02:46,076 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-cultura-ata)
+2025-06-06 17:02:46,076 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-cultura-agenda)
+2025-06-06 17:02:46,076 - INFO - Subcategoria encontrada: Conselho Municipal de Economia (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-economia-do-porto-casa-dos-24)
+2025-06-06 17:02:46,077 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-economia-ata)
+2025-06-06 17:02:46,077 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-economia-agenda)
+2025-06-06 17:02:46,077 - INFO - Subcategoria encontrada: Conselho Municipal de Educação (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-educacao_1)
+2025-06-06 17:02:46,077 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-educacao-ata)
+2025-06-06 17:02:46,077 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-educacao-agenda)
+2025-06-06 17:02:46,078 - INFO - Subcategoria encontrada: Conselho Municipal de Segurança (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-seguranca)
+2025-06-06 17:02:46,078 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-seguranca-ata)
+2025-06-06 17:02:46,078 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-seguranca-agenda)
+2025-06-06 17:02:46,078 - INFO - Subcategoria encontrada: Conselho Municipal da Juventude (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-juventude-do-porto)
+2025-06-06 17:02:46,078 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-juventude-ata)
+2025-06-06 17:02:46,079 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-juventude-agenda)
+2025-06-06 17:02:46,079 - INFO - Subcategoria encontrada: Conselho Municipal de Ambiente (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-ambiente)
+2025-06-06 17:02:46,079 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-ambiente-ata)
+2025-06-06 17:02:46,079 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-ambiente-agenda)
+2025-06-06 17:02:46,079 - INFO - Subcategoria encontrada: Provedor do Munícipe (https://www.cm-porto.pt/provedor-do-municipe/provedor-do-municipe)
+2025-06-06 17:02:46,080 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/provedor-do-municipe/recomendacoes-2)
+2025-06-06 17:02:46,080 - INFO - Subcategoria encontrada: Contactos (https://www.cm-porto.pt/provedor-do-municipe/contactos)
+2025-06-06 17:02:46,080 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/provedor-do-municipe/competencias-1)
+2025-06-06 17:02:46,080 - INFO - Subcategoria encontrada: Empresas Municipais (https://www.cm-porto.pt/municipio/empresas-municipais_3)
+2025-06-06 17:02:46,081 - INFO - Subcategoria encontrada: Freguesias (https://www.cm-porto.pt/municipio/freguesias)
+2025-06-06 17:02:46,081 - INFO - Subcategoria encontrada: Gabinete do Munícipe (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-do-municipe)
+2025-06-06 17:02:46,081 - INFO - Subcategoria encontrada: Linha Porto. (https://www.cm-porto.pt/linha-porto/linha-porto-220-100-220)
+2025-06-06 17:02:46,081 - INFO - Subcategoria encontrada: Espaço do cidadão (https://portaldomunicipe.cm-porto.pt/-/espa%C3%A7o-do-cidad%C3%A3o-do-gabinete-do-mun%C3%ADcipe)
+2025-06-06 17:02:46,081 - INFO - Subcategoria encontrada: Apoio à reutilização de livros escolares (SMARLE) (https://portaldomunicipe.cm-porto.pt/-/servi%C3%A7o-municipal-de-apoio-%C3%A0-reutiliza%C3%A7%C3%A3o-dos-livros-escolares)
+2025-06-06 17:02:46,082 - INFO - Subcategoria encontrada: Aconselhamento Jurídico (SMAJ) (https://portaldomunicipe.cm-porto.pt/-/servi%C3%A7o-municipal-de-aconselhamento-jur%C3%ADdico)
+2025-06-06 17:02:46,082 - INFO - Subcategoria encontrada: Apoio ao Consumidor (SMAC) (https://www.cm-porto.pt/gabinete-do-municipe/apoio-ao-consumidor-smac)
+2025-06-06 17:02:46,082 - INFO - Subcategoria encontrada: Águas e Energia do Porto (https://www.cm-porto.pt/gabinete-do-municipe/aguas-do-porto)
+2025-06-06 17:02:46,082 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/gabinete-do-municipe/policia-municipal-1)
+2025-06-06 17:02:46,082 - INFO - Subcategoria encontrada: Gabinete de Inclusão (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-de-inclusao_1)
+2025-06-06 17:02:46,082 - INFO - Subcategoria encontrada: Apoio ao Provedor do Munícipe (https://portaldomunicipe.cm-porto.pt/-/provedor-do-mun%C3%ADcipe)
+2025-06-06 17:02:46,084 - INFO - Subcategoria encontrada: Informação Municipal (https://www.cm-porto.pt/informacao-municipal/informacao-municipal)
+2025-06-06 17:02:46,084 - INFO - Subcategoria encontrada: Avisos (https://www.cm-porto.pt/avisos)
+2025-06-06 17:02:46,084 - INFO - Subcategoria encontrada: Comunicados (https://www.cm-porto.pt/comunicados)
+2025-06-06 17:02:46,084 - INFO - Subcategoria encontrada: Editais (https://www.cm-porto.pt/editais)
+2025-06-06 17:02:46,084 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/editais?t=73&c=4)
+2025-06-06 17:02:46,085 - INFO - Subcategoria encontrada: Concursos (https://www.cm-porto.pt/editais?t=73&c=5)
+2025-06-06 17:02:46,085 - INFO - Subcategoria encontrada: Discussão Pública (https://www.cm-porto.pt/editais?t=73&c=6)
+2025-06-06 17:02:46,085 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/editais?t=73&c=7)
+2025-06-06 17:02:46,085 - INFO - Subcategoria encontrada: Outros (https://www.cm-porto.pt/editais?t=73&c=8)
+2025-06-06 17:02:46,085 - INFO - Subcategoria encontrada: Recursos Humanos (https://www.cm-porto.pt/informacao-municipal/recursos-humanos_1)
+2025-06-06 17:02:46,085 - INFO - Subcategoria encontrada: Formação e Desenvolvimento (https://www.cm-porto.pt/informacao-municipal/formacao-e-desenvolvimento)
+2025-06-06 17:02:46,085 - INFO - Subcategoria encontrada: Bem-estar (https://www.cm-porto.pt/informacao-municipal/bem-estar)
+2025-06-06 17:02:46,087 - INFO - Subcategoria encontrada: Inovação (https://www.cm-porto.pt/informacao-municipal/inovacao-3)
+2025-06-06 17:02:46,087 - INFO - Subcategoria encontrada: Documentos (https://www.cm-porto.pt/recursos-humanos)
+2025-06-06 17:02:46,087 - INFO - Subcategoria encontrada: Recrutamento e Seleção (https://www.cm-porto.pt/informacao-municipal/recrutamento-e-selecao)
+2025-06-06 17:02:46,087 - INFO - Subcategoria encontrada: Finanças (https://www.cm-porto.pt/informacao-municipal/financas)
+2025-06-06 17:02:46,088 - INFO - Subcategoria encontrada: Simulador de Taxas Municipais (https://cmpexternos.cm-porto.pt/stm/)
+2025-06-06 17:02:46,088 - INFO - Subcategoria encontrada: Contas Porto (https://www.cm-porto.pt/contas-porto)
+2025-06-06 17:02:46,088 - INFO - Subcategoria encontrada: Elementos Económico Financeiros (https://www.cm-porto.pt/elementos-economico-financeiros)
+2025-06-06 17:02:46,088 - INFO - Subcategoria encontrada: Compras Públicas (https://portaldomunicipe.cm-porto.pt/contrata%C3%A7%C3%A3o-p%C3%BAblica)
+2025-06-06 17:02:46,089 - INFO - Subcategoria encontrada: Alienações e Hastas Públicas (https://www.cm-porto.pt/venda-e-concessoes)
+2025-06-06 17:02:46,089 - INFO - Subcategoria encontrada: Outros documentos (https://www.cm-porto.pt/financas)
+2025-06-06 17:02:46,089 - INFO - Subcategoria encontrada: Planos, Normas e outros (https://www.cm-porto.pt/documentacao)
+2025-06-06 17:02:46,089 - INFO - Subcategoria encontrada: Código Regulamentar do Porto (http://crmp.cm-porto.pt)
+2025-06-06 17:02:46,090 - INFO - Subcategoria encontrada: Arquivo Municipal do Porto (http://gisaweb.cm-porto.pt/)
+2025-06-06 17:02:46,090 - INFO - Subcategoria encontrada: Bibliotecas Municipais do Porto (http://bibliotecas.cm-porto.pt/ipac20/ipac.jsp?profile=#focus)
+2025-06-06 17:02:46,090 - INFO - Subcategoria encontrada: Boletim Municipal (http://bme.cm-porto.pt/)
+2025-06-06 17:02:46,090 - INFO - Subcategoria encontrada: Projetos cofinanciados (https://www.cm-porto.pt/projectos-cofinanciados)
+2025-06-06 17:02:46,090 - INFO - Subcategoria encontrada: Grupo de Trabalho para Acompanhamento de Investimentos de Transporte Público (https://www.cm-porto.pt/comissoes-e-grupos-de-trabalho/grupo-de-trabalho-para-acompanhamento-de-investimentos-de-transporte-publico)
+2025-06-06 17:02:46,101 - INFO - Subcategoria encontrada: Código Regulamentar do Porto (http://crmp.cm-porto.pt)
+2025-06-06 17:02:46,104 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/cidade
+2025-06-06 17:02:48,621 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/historia-da-cidade
+2025-06-06 17:02:51,216 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/chaves-e-simbolos
+2025-06-06 17:02:53,772 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais
+2025-06-06 17:02:56,262 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/marca-porto/marca-porto
+2025-06-06 17:02:58,740 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/urbanismo
+2025-06-06 17:03:01,270 - INFO - Página Urbanismo classificada como tipo: generic_content_page
+2025-06-06 17:03:01,270 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/urbanismo
+2025-06-06 17:03:03,759 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/ambiente
+2025-06-06 17:03:06,025 - INFO - Página Ambiente classificada como tipo: generic_content_page
+2025-06-06 17:03:06,025 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/ambiente
+2025-06-06 17:03:08,279 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao
+2025-06-06 17:03:10,818 - INFO - Página Educação classificada como tipo: generic_content_page
+2025-06-06 17:03:10,818 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao
+2025-06-06 17:03:13,308 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/cultura
+2025-06-06 17:03:15,546 - INFO - Página Cultura classificada como tipo: generic_content_page
+2025-06-06 17:03:15,546 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/cultura
+2025-06-06 17:03:17,788 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/economia
+2025-06-06 17:03:20,328 - INFO - Página Economia classificada como tipo: generic_content_page
+2025-06-06 17:03:20,328 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/economia
+2025-06-06 17:03:22,878 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/mobilidade
+2025-06-06 17:03:25,139 - INFO - Página Mobilidade classificada como tipo: generic_content_page
+2025-06-06 17:03:25,139 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/mobilidade
+2025-06-06 17:03:27,403 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/juventude
+2025-06-06 17:03:30,004 - INFO - Página Juventude classificada como tipo: generic_content_page
+2025-06-06 17:03:30,004 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/juventude
+2025-06-06 17:03:32,599 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/acao-social
+2025-06-06 17:03:34,882 - INFO - Página Ação Social classificada como tipo: generic_content_page
+2025-06-06 17:03:34,882 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/acao-social
+2025-06-06 17:03:37,167 - INFO - Análise concluída. 1 tipos de páginas identificados.
+2025-06-06 17:03:37,167 - INFO - Iniciando scraping usando templates de páginas...
+2025-06-06 17:03:37,167 - INFO - Criando categorias principais manualmente
+2025-06-06 17:03:37,168 - INFO - Categoria manual criada: Cidade (https://www.cm-porto.pt/cidade)
+2025-06-06 17:03:37,168 - INFO - Categoria manual criada: Município (https://www.cm-porto.pt/municipio)
+2025-06-06 17:03:37,168 - INFO - Categoria manual criada: Urbanismo (https://www.cm-porto.pt/urbanismo)
+2025-06-06 17:03:37,169 - INFO - Categoria manual criada: Ambiente (https://www.cm-porto.pt/ambiente)
+2025-06-06 17:03:37,169 - INFO - Categoria manual criada: Educação (https://www.cm-porto.pt/educacao)
+2025-06-06 17:03:37,169 - INFO - Categoria manual criada: Cultura (https://www.cm-porto.pt/cultura)
+2025-06-06 17:03:37,169 - INFO - Categoria manual criada: Economia (https://www.cm-porto.pt/economia)
+2025-06-06 17:03:37,169 - INFO - Categoria manual criada: Mobilidade (https://www.cm-porto.pt/mobilidade)
+2025-06-06 17:03:37,169 - INFO - Categoria manual criada: Juventude (https://www.cm-porto.pt/juventude)
+2025-06-06 17:03:37,169 - INFO - Categoria manual criada: Ação Social (https://www.cm-porto.pt/acao-social)
+2025-06-06 17:03:37,169 - INFO - Processando categoria: Cidade
+2025-06-06 17:03:37,170 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/cidade
+2025-06-06 17:03:39,837 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:39,838 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:39,840 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:39,840 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:39,842 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:39,844 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:39,844 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:39,845 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:39,849 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/cidade
+2025-06-06 17:03:42,240 - INFO - Subcategoria encontrada: História da cidade (https://www.cm-porto.pt/historia-da-cidade)
+2025-06-06 17:03:42,240 - INFO - Subcategoria encontrada: Chaves e Símbolos (https://www.cm-porto.pt/chaves-e-simbolos)
+2025-06-06 17:03:42,240 - INFO - Subcategoria encontrada: Medalhas da Cidade (https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais)
+2025-06-06 17:03:42,240 - INFO - Subcategoria encontrada: Marca Porto. (https://www.cm-porto.pt/marca-porto/marca-porto)
+2025-06-06 17:03:42,240 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/projetos/projetos)
+2025-06-06 17:03:42,240 - INFO - Subcategoria encontrada: Ambiente (http://ambiente.cm-porto.pt)
+2025-06-06 17:03:42,242 - INFO - Subcategoria encontrada: Cultura (http://cultura.cm-porto.pt)
+2025-06-06 17:03:42,242 - INFO - Subcategoria encontrada: Comércio e Turismo (http://comercioturismo.cm-porto.pt)
+2025-06-06 17:03:42,242 - INFO - Subcategoria encontrada: Mobilidade (http://mobilidade.cm-porto.pt)
+2025-06-06 17:03:42,242 - INFO - Subcategoria encontrada: Ação Social (http://coesaosocial.cm-porto.pt)
+2025-06-06 17:03:42,242 - INFO - Subcategoria encontrada: Educação (https://www.cm-porto.pt/educacao/educacao_1)
+2025-06-06 17:03:42,242 - INFO - Subcategoria encontrada: Sistema Educativo (https://www.cm-porto.pt/educacao/sistema-educativo)
+2025-06-06 17:03:42,243 - INFO - Subcategoria encontrada: Ação Social Escolar (https://www.cm-porto.pt/educacao/acao-social-escolar_1)
+2025-06-06 17:03:42,243 - INFO - Subcategoria encontrada: Programas e Projetos (https://www.cm-porto.pt/educacao/programas-e-projetos-educativos)
+2025-06-06 17:03:42,243 - INFO - Subcategoria encontrada: Cidade Educadora (https://www.cm-porto.pt/educacao/cidade-educadora)
+2025-06-06 17:03:42,243 - INFO - Subcategoria encontrada: Proteção de Crianças e Jovens (https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto)
+2025-06-06 17:03:42,243 - INFO - Subcategoria encontrada: Juventude (https://www.cm-porto.pt/juventude/juventude)
+2025-06-06 17:03:42,243 - INFO - Subcategoria encontrada: Estratégia da Juventude do Porto (https://www.cm-porto.pt/juventude/plano-municipal-da-juventude)
+2025-06-06 17:03:42,244 - INFO - Subcategoria encontrada: Participa- Amplifica a Juventude (https://www.cm-porto.pt/participa-amplifica-juventude)
+2025-06-06 17:03:42,244 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/juventude-projetos)
+2025-06-06 17:03:42,244 - INFO - Subcategoria encontrada: Economia (https://www.cm-porto.pt/economia/economia)
+2025-06-06 17:03:42,244 - INFO - Subcategoria encontrada: Estudos Estratégicos (https://www.cm-porto.pt/economia/estudos-estrategicos)
+2025-06-06 17:03:42,244 - INFO - Subcategoria encontrada: InvestPorto (https://www.cm-porto.pt/economia/investporto)
+2025-06-06 17:03:42,244 - INFO - Subcategoria encontrada: Porto.for talent (https://www.cm-porto.pt/economia/talento)
+2025-06-06 17:03:42,245 - INFO - Subcategoria encontrada: Desenvolvimento Sustentável (https://www.cm-porto.pt/economia/desenvolvimento-sustentavel)
+2025-06-06 17:03:42,245 - INFO - Subcategoria encontrada: Proteção Civil (https://www.cm-porto.pt/seguranca/protecao-civil_1)
+2025-06-06 17:03:42,245 - INFO - Subcategoria encontrada: Centro de Gestão Integrada (https://www.cm-porto.pt/seguranca/centro-de-gestao-integrada)
+2025-06-06 17:03:42,245 - INFO - Subcategoria encontrada: Regimento de Sapadores Bombeiros (https://www.cm-porto.pt/seguranca/regimento-de-sapadores-bombeiros)
+2025-06-06 17:03:42,245 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/seguranca/policia-municipal)
+2025-06-06 17:03:42,245 - INFO - Subcategoria encontrada: Urbanismo (https://www.cm-porto.pt/urbanismo/urbanismo)
+2025-06-06 17:03:42,246 - INFO - Subcategoria encontrada: Informações Urbanísticas (https://www.cm-porto.pt/informacoes-urbanisticas)
+2025-06-06 17:03:42,246 - INFO - Subcategoria encontrada: Cartas Históricas Interativas do Porto (https://www.cm-porto.pt/cartas-historicas-interativas-do-porto/cartas-historicas-interativas-do-porto)
+2025-06-06 17:03:42,246 - INFO - Subcategoria encontrada: Planeamento e Reabilitação (https://www.cm-porto.pt/urbanismo/planeamento-e-reabilitacao)
+2025-06-06 17:03:42,246 - INFO - Subcategoria encontrada: Urbanização e Edificação (https://www.cm-porto.pt/urbanismo/urbanizacao-e-edificacao)
+2025-06-06 17:03:42,246 - INFO - Subcategoria encontrada: PDM 2021 (https://pdm.cm-porto.pt/)
+2025-06-06 17:03:42,246 - INFO - Subcategoria encontrada: Arquitetura no Porto (https://www.cm-porto.pt/urbanismo/arquitetura-no-porto)
+2025-06-06 17:03:42,246 - INFO - Subcategoria encontrada: Património (https://www.cm-porto.pt/patrimonio/patrimonio)
+2025-06-06 17:03:42,247 - INFO - Subcategoria encontrada: Gestão de Património (https://www.cm-porto.pt/gestao-de-patrimonio/gestao-de-patrimonio)
+2025-06-06 17:03:42,249 - INFO - Subcategoria encontrada: Município (https://www.cm-porto.pt/municipio)
+2025-06-06 17:03:42,249 - INFO - Subcategoria encontrada: Câmara Municipal (https://www.cm-porto.pt/autarquia/edificio-pacos-do-concelho)
+2025-06-06 17:03:42,249 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/executivo)
+2025-06-06 17:03:42,249 - INFO - Subcategoria encontrada: Reuniões de Câmara (https://www.cm-porto.pt/reunioes-de-camara/reunioes-de-camara-1)
+2025-06-06 17:03:42,249 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/reuniao-de-camara-atas)
+2025-06-06 17:03:42,249 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/reuniao-de-camara-deliberacoes)
+2025-06-06 17:03:42,251 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/reuniao-de-camara-agenda)
+2025-06-06 17:03:42,251 - INFO - Subcategoria encontrada: Estrutura Orgânica (https://www.cm-porto.pt/estrutura-organica)
+2025-06-06 17:03:42,251 - INFO - Subcategoria encontrada: Sistema de Gestão (https://www.cm-porto.pt/recursos-humanos/sistema-de-gestao)
+2025-06-06 17:03:42,251 - INFO - Subcategoria encontrada: Comissão de Toponímia (https://www.cm-porto.pt/autarquia/comissao-de-toponimia)
+2025-06-06 17:03:42,251 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/assembleia-municipal/assembleia-municipal)
+2025-06-06 17:03:42,251 - INFO - Subcategoria encontrada: Composição (https://www.cm-porto.pt/assembleia-municipal/composicao)
+2025-06-06 17:03:42,251 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/assembleia-municipal/competencias)
+2025-06-06 17:03:42,251 - INFO - Subcategoria encontrada: Regimento (https://www.cm-porto.pt/assembleia-municipal/regimento)
+2025-06-06 17:03:42,251 - INFO - Subcategoria encontrada: Comissões e Grupos de Trabalho (https://www.cm-porto.pt/assembleia-municipal/comissoes-e-grupos-de-trabalho)
+2025-06-06 17:03:42,252 - INFO - Subcategoria encontrada: Delegações (https://www.cm-porto.pt/assembleia-municipal/delegacoes)
+2025-06-06 17:03:42,252 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/)
+2025-06-06 17:03:42,252 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/deliberacoes)
+2025-06-06 17:03:42,252 - INFO - Subcategoria encontrada: Propostas (https://www.cm-porto.pt/deliberacoes-propostas)
+2025-06-06 17:03:42,252 - INFO - Subcategoria encontrada: Moções (https://www.cm-porto.pt/deliberacoes-mocoes)
+2025-06-06 17:03:42,252 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/deliberacoes-recomendacoes)
+2025-06-06 17:03:42,252 - INFO - Subcategoria encontrada: Relatórios e Pareceres (https://www.cm-porto.pt/deliberacoes-relatorios-e-pareceres)
+2025-06-06 17:03:42,253 - INFO - Subcategoria encontrada: Minutas (https://www.cm-porto.pt/deliberacoes-minutas)
+2025-06-06 17:03:42,253 - INFO - Subcategoria encontrada: Votos (https://www.cm-porto.pt/deliberacoes-votos)
+2025-06-06 17:03:42,253 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/deliberacoes-atas)
+2025-06-06 17:03:42,253 - INFO - Subcategoria encontrada: Reuniões (https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+2025-06-06 17:03:42,253 - INFO - Subcategoria encontrada: Inscrições nas Sessões (https://www.cm-porto.pt/Participe/inscricoes-nas-sessoes)
+2025-06-06 17:03:42,253 - INFO - Subcategoria encontrada: Direito de Petição (https://www.cm-porto.pt/Participe/direito-de-peticao)
+2025-06-06 17:03:42,255 - INFO - Subcategoria encontrada: Sugestões (https://www.cm-porto.pt/sugestoes)
+2025-06-06 17:03:42,255 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/agenda-municipal?t=11.49)
+2025-06-06 17:03:42,255 - INFO - Subcategoria encontrada: Notícias (https://www.cm-porto.pt/assembleia-municipal-noticias)
+2025-06-06 17:03:42,255 - INFO - Subcategoria encontrada: FAQs (https://www.cm-porto.pt/assembleia-municipal-faqs)
+2025-06-06 17:03:42,255 - INFO - Subcategoria encontrada: Conselhos Municipais (https://www.cm-porto.pt/conselhos-municipais/conselhos-municipais)
+2025-06-06 17:03:42,255 - INFO - Subcategoria encontrada: Conselho Municipal do Turismo (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-turismo-do-porto)
+2025-06-06 17:03:42,256 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-do-turismo-ata)
+2025-06-06 17:03:42,256 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-do-turismo-agenda)
+2025-06-06 17:03:42,256 - INFO - Subcategoria encontrada: Conselho Municipal da Cultura (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-cultura-do-porto)
+2025-06-06 17:03:42,256 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-cultura-ata)
+2025-06-06 17:03:42,256 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-cultura-agenda)
+2025-06-06 17:03:42,256 - INFO - Subcategoria encontrada: Conselho Municipal de Economia (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-economia-do-porto-casa-dos-24)
+2025-06-06 17:03:42,256 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-economia-ata)
+2025-06-06 17:03:42,257 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-economia-agenda)
+2025-06-06 17:03:42,257 - INFO - Subcategoria encontrada: Conselho Municipal de Educação (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-educacao_1)
+2025-06-06 17:03:42,257 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-educacao-ata)
+2025-06-06 17:03:42,257 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-educacao-agenda)
+2025-06-06 17:03:42,257 - INFO - Subcategoria encontrada: Conselho Municipal de Segurança (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-seguranca)
+2025-06-06 17:03:42,257 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-seguranca-ata)
+2025-06-06 17:03:42,258 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-seguranca-agenda)
+2025-06-06 17:03:42,258 - INFO - Subcategoria encontrada: Conselho Municipal da Juventude (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-juventude-do-porto)
+2025-06-06 17:03:42,258 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-juventude-ata)
+2025-06-06 17:03:42,258 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-juventude-agenda)
+2025-06-06 17:03:42,258 - INFO - Subcategoria encontrada: Conselho Municipal de Ambiente (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-ambiente)
+2025-06-06 17:03:42,258 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-ambiente-ata)
+2025-06-06 17:03:42,259 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-ambiente-agenda)
+2025-06-06 17:03:42,259 - INFO - Subcategoria encontrada: Provedor do Munícipe (https://www.cm-porto.pt/provedor-do-municipe/provedor-do-municipe)
+2025-06-06 17:03:42,259 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/provedor-do-municipe/recomendacoes-2)
+2025-06-06 17:03:42,259 - INFO - Subcategoria encontrada: Contactos (https://www.cm-porto.pt/provedor-do-municipe/contactos)
+2025-06-06 17:03:42,259 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/provedor-do-municipe/competencias-1)
+2025-06-06 17:03:42,259 - INFO - Subcategoria encontrada: Empresas Municipais (https://www.cm-porto.pt/municipio/empresas-municipais_3)
+2025-06-06 17:03:42,260 - INFO - Subcategoria encontrada: Freguesias (https://www.cm-porto.pt/municipio/freguesias)
+2025-06-06 17:03:42,260 - INFO - Subcategoria encontrada: Gabinete do Munícipe (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-do-municipe)
+2025-06-06 17:03:42,260 - INFO - Subcategoria encontrada: Linha Porto. (https://www.cm-porto.pt/linha-porto/linha-porto-220-100-220)
+2025-06-06 17:03:42,260 - INFO - Subcategoria encontrada: Espaço do cidadão (https://portaldomunicipe.cm-porto.pt/-/espa%C3%A7o-do-cidad%C3%A3o-do-gabinete-do-mun%C3%ADcipe)
+2025-06-06 17:03:42,260 - INFO - Subcategoria encontrada: Apoio à reutilização de livros escolares (SMARLE) (https://portaldomunicipe.cm-porto.pt/-/servi%C3%A7o-municipal-de-apoio-%C3%A0-reutiliza%C3%A7%C3%A3o-dos-livros-escolares)
+2025-06-06 17:03:42,260 - INFO - Subcategoria encontrada: Aconselhamento Jurídico (SMAJ) (https://portaldomunicipe.cm-porto.pt/-/servi%C3%A7o-municipal-de-aconselhamento-jur%C3%ADdico)
+2025-06-06 17:03:42,261 - INFO - Subcategoria encontrada: Apoio ao Consumidor (SMAC) (https://www.cm-porto.pt/gabinete-do-municipe/apoio-ao-consumidor-smac)
+2025-06-06 17:03:42,261 - INFO - Subcategoria encontrada: Águas e Energia do Porto (https://www.cm-porto.pt/gabinete-do-municipe/aguas-do-porto)
+2025-06-06 17:03:42,261 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/gabinete-do-municipe/policia-municipal-1)
+2025-06-06 17:03:42,261 - INFO - Subcategoria encontrada: Gabinete de Inclusão (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-de-inclusao_1)
+2025-06-06 17:03:42,261 - INFO - Subcategoria encontrada: Apoio ao Provedor do Munícipe (https://portaldomunicipe.cm-porto.pt/-/provedor-do-mun%C3%ADcipe)
+2025-06-06 17:03:42,262 - INFO - Subcategoria encontrada: Informação Municipal (https://www.cm-porto.pt/informacao-municipal/informacao-municipal)
+2025-06-06 17:03:42,262 - INFO - Subcategoria encontrada: Avisos (https://www.cm-porto.pt/avisos)
+2025-06-06 17:03:42,262 - INFO - Subcategoria encontrada: Comunicados (https://www.cm-porto.pt/comunicados)
+2025-06-06 17:03:42,263 - INFO - Subcategoria encontrada: Editais (https://www.cm-porto.pt/editais)
+2025-06-06 17:03:42,263 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/editais?t=73&c=4)
+2025-06-06 17:03:42,263 - INFO - Subcategoria encontrada: Concursos (https://www.cm-porto.pt/editais?t=73&c=5)
+2025-06-06 17:03:42,263 - INFO - Subcategoria encontrada: Discussão Pública (https://www.cm-porto.pt/editais?t=73&c=6)
+2025-06-06 17:03:42,263 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/editais?t=73&c=7)
+2025-06-06 17:03:42,264 - INFO - Subcategoria encontrada: Outros (https://www.cm-porto.pt/editais?t=73&c=8)
+2025-06-06 17:03:42,264 - INFO - Subcategoria encontrada: Recursos Humanos (https://www.cm-porto.pt/informacao-municipal/recursos-humanos_1)
+2025-06-06 17:03:42,264 - INFO - Subcategoria encontrada: Formação e Desenvolvimento (https://www.cm-porto.pt/informacao-municipal/formacao-e-desenvolvimento)
+2025-06-06 17:03:42,264 - INFO - Subcategoria encontrada: Bem-estar (https://www.cm-porto.pt/informacao-municipal/bem-estar)
+2025-06-06 17:03:42,264 - INFO - Subcategoria encontrada: Inovação (https://www.cm-porto.pt/informacao-municipal/inovacao-3)
+2025-06-06 17:03:42,265 - INFO - Subcategoria encontrada: Documentos (https://www.cm-porto.pt/recursos-humanos)
+2025-06-06 17:03:42,265 - INFO - Subcategoria encontrada: Recrutamento e Seleção (https://www.cm-porto.pt/informacao-municipal/recrutamento-e-selecao)
+2025-06-06 17:03:42,265 - INFO - Subcategoria encontrada: Finanças (https://www.cm-porto.pt/informacao-municipal/financas)
+2025-06-06 17:03:42,265 - INFO - Subcategoria encontrada: Simulador de Taxas Municipais (https://cmpexternos.cm-porto.pt/stm/)
+2025-06-06 17:03:42,265 - INFO - Subcategoria encontrada: Contas Porto (https://www.cm-porto.pt/contas-porto)
+2025-06-06 17:03:42,266 - INFO - Subcategoria encontrada: Elementos Económico Financeiros (https://www.cm-porto.pt/elementos-economico-financeiros)
+2025-06-06 17:03:42,266 - INFO - Subcategoria encontrada: Compras Públicas (https://portaldomunicipe.cm-porto.pt/contrata%C3%A7%C3%A3o-p%C3%BAblica)
+2025-06-06 17:03:42,266 - INFO - Subcategoria encontrada: Alienações e Hastas Públicas (https://www.cm-porto.pt/venda-e-concessoes)
+2025-06-06 17:03:42,266 - INFO - Subcategoria encontrada: Outros documentos (https://www.cm-porto.pt/financas)
+2025-06-06 17:03:42,266 - INFO - Subcategoria encontrada: Planos, Normas e outros (https://www.cm-porto.pt/documentacao)
+2025-06-06 17:03:42,266 - INFO - Subcategoria encontrada: Código Regulamentar do Porto (http://crmp.cm-porto.pt)
+2025-06-06 17:03:42,267 - INFO - Subcategoria encontrada: Arquivo Municipal do Porto (http://gisaweb.cm-porto.pt/)
+2025-06-06 17:03:42,267 - INFO - Subcategoria encontrada: Bibliotecas Municipais do Porto (http://bibliotecas.cm-porto.pt/ipac20/ipac.jsp?profile=#focus)
+2025-06-06 17:03:42,267 - INFO - Subcategoria encontrada: Boletim Municipal (http://bme.cm-porto.pt/)
+2025-06-06 17:03:42,267 - INFO - Subcategoria encontrada: Projetos cofinanciados (https://www.cm-porto.pt/projectos-cofinanciados)
+2025-06-06 17:03:42,268 - INFO - Subcategoria encontrada: Grupo de Trabalho para Acompanhamento de Investimentos de Transporte Público (https://www.cm-porto.pt/comissoes-e-grupos-de-trabalho/grupo-de-trabalho-para-acompanhamento-de-investimentos-de-transporte-publico)
+2025-06-06 17:03:42,276 - INFO - Subcategoria encontrada: Código Regulamentar do Porto (http://crmp.cm-porto.pt)
+2025-06-06 17:03:42,278 - INFO - Processando subcategoria: História da cidade
+2025-06-06 17:03:42,278 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/historia-da-cidade
+2025-06-06 17:03:44,997 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:44,997 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:44,999 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:45,000 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:45,001 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:45,001 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:45,002 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:45,002 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:45,003 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:45,039 - INFO - Processando subcategoria: Chaves e Símbolos
+2025-06-06 17:03:45,039 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/chaves-e-simbolos
+2025-06-06 17:03:47,735 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:47,735 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:47,737 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:47,737 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:47,762 - INFO - Processando subcategoria: Medalhas da Cidade
+2025-06-06 17:03:47,762 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais
+2025-06-06 17:03:50,251 - ERROR - Erro ao extrair conteúdo da subcategoria Medalhas da Cidade: 'Content' object has no attribute 'content'
+2025-06-06 17:03:50,251 - INFO - Processando subcategoria: Marca Porto.
+2025-06-06 17:03:50,251 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/marca-porto/marca-porto
+2025-06-06 17:03:52,795 - ERROR - Erro ao extrair conteúdo da subcategoria Marca Porto.: 'Content' object has no attribute 'content'
+2025-06-06 17:03:52,795 - INFO - Processando subcategoria: Projetos
+2025-06-06 17:03:52,795 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/projetos/projetos
+2025-06-06 17:03:57,132 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:57,133 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:57,135 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:03:57,144 - INFO - Processando subcategoria: Ambiente
+2025-06-06 17:03:57,144 - INFO - Obtendo conteúdo da página: http://ambiente.cm-porto.pt/
+2025-06-06 17:04:00,677 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,697 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,700 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,701 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,702 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,702 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,703 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,703 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,704 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,705 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,706 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,707 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,708 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:00,712 - INFO - Processando subcategoria: Cultura
+2025-06-06 17:04:00,712 - INFO - Obtendo conteúdo da página: http://cultura.cm-porto.pt/
+2025-06-06 17:04:03,759 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:03,763 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:03,765 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:03,766 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:03,767 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:03,768 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:03,770 - INFO - Processando subcategoria: Comércio e Turismo
+2025-06-06 17:04:03,771 - INFO - Obtendo conteúdo da página: http://comercioturismo.cm-porto.pt/
+2025-06-06 17:04:06,938 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,946 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,949 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,950 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,950 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,952 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,953 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,953 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,954 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,955 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,956 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,957 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,957 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,959 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,960 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,960 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,961 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:06,966 - INFO - Processando subcategoria: Mobilidade
+2025-06-06 17:04:06,966 - INFO - Obtendo conteúdo da página: http://mobilidade.cm-porto.pt/
+2025-06-06 17:04:09,767 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:09,773 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:09,776 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:09,777 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:09,779 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:09,781 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:09,782 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:09,785 - INFO - Processando subcategoria: Ação Social
+2025-06-06 17:04:09,785 - INFO - Obtendo conteúdo da página: http://coesaosocial.cm-porto.pt/
+2025-06-06 17:04:12,755 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,766 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,768 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,768 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,770 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,771 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,772 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,773 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,774 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,775 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,775 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,776 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,777 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,778 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,779 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,781 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,782 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,783 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,783 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:12,784 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:13,692 - INFO - Processando subcategoria: Educação
+2025-06-06 17:04:13,692 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao/educacao_1
+2025-06-06 17:04:16,392 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:16,393 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:16,395 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:16,401 - INFO - Processando subcategoria: Sistema Educativo
+2025-06-06 17:04:16,401 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao/sistema-educativo
+2025-06-06 17:04:20,742 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,743 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,745 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,755 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,757 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,758 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,759 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,760 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,762 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,763 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,765 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,767 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,769 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,770 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,772 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,774 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:20,778 - INFO - Processando subcategoria: Ação Social Escolar
+2025-06-06 17:04:20,778 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao/acao-social-escolar_1
+2025-06-06 17:04:23,397 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:23,397 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:23,399 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:23,404 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:23,406 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:23,408 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:23,412 - INFO - Processando subcategoria: Programas e Projetos
+2025-06-06 17:04:23,413 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao/programas-e-projetos-educativos
+2025-06-06 17:04:26,136 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,137 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,139 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,163 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,165 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,166 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,167 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,168 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,170 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,171 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,173 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,174 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,176 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,178 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,179 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,180 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,182 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,183 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,185 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,188 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,189 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,190 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,191 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,193 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,194 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,195 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,198 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,199 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,201 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,203 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,205 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,207 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,209 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,210 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,212 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,213 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:26,219 - INFO - Processando subcategoria: Cidade Educadora
+2025-06-06 17:04:26,224 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao/cidade-educadora
+2025-06-06 17:04:30,385 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:30,385 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:30,388 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:30,392 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:30,400 - INFO - Processando subcategoria: Proteção de Crianças e Jovens
+2025-06-06 17:04:30,400 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto
+2025-06-06 17:04:33,017 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,018 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,020 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,027 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,028 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,031 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,032 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,034 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,037 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,038 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:33,042 - INFO - Processando subcategoria: Juventude
+2025-06-06 17:04:33,042 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/juventude/juventude
+2025-06-06 17:04:36,016 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:36,017 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:36,019 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:36,022 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:36,022 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:39,061 - INFO - Processando subcategoria: Estratégia da Juventude do Porto
+2025-06-06 17:04:39,061 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/juventude/plano-municipal-da-juventude
+2025-06-06 17:04:43,319 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:43,321 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:04:43,323 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:24,644 - INFO - Processando subcategoria: Participa- Amplifica a Juventude
+2025-06-06 17:05:24,644 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/participa-amplifica-juventude
+2025-06-06 17:05:31,380 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:31,381 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:31,383 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:31,383 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:31,387 - INFO - Processando subcategoria: Projetos
+2025-06-06 17:05:31,387 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/juventude-projetos
+2025-06-06 17:05:36,270 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,271 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,273 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,291 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,293 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,294 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,295 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,297 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,301 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,302 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,304 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,305 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,307 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,309 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,310 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,311 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,313 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,314 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,316 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,318 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,319 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,321 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,322 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,324 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:36,329 - INFO - Processando categoria: Município
+2025-06-06 17:05:36,329 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/municipio
+2025-06-06 17:05:39,056 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,057 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,059 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,061 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,062 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,063 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,063 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,064 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,065 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,065 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,066 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,066 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,068 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,068 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,069 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,069 - ERROR - Erro ao extrair conteúdo de bloco: 'Content' object has no attribute 'content'
+2025-06-06 17:05:39,079 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/municipio
+2025-06-06 17:05:41,503 - INFO - Subcategoria encontrada: Cidade (https://www.cm-porto.pt/cidade)
+2025-06-06 17:05:41,504 - INFO - Subcategoria encontrada: História da cidade (https://www.cm-porto.pt/historia-da-cidade)
+2025-06-06 17:05:41,504 - INFO - Subcategoria encontrada: Chaves e Símbolos (https://www.cm-porto.pt/chaves-e-simbolos)
+2025-06-06 17:05:41,504 - INFO - Subcategoria encontrada: Medalhas da Cidade (https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais)
+2025-06-06 17:05:41,504 - INFO - Subcategoria encontrada: Marca Porto. (https://www.cm-porto.pt/marca-porto/marca-porto)
+2025-06-06 17:05:41,504 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/projetos/projetos)
+2025-06-06 17:05:41,504 - INFO - Subcategoria encontrada: Ambiente (http://ambiente.cm-porto.pt)
+2025-06-06 17:05:41,505 - INFO - Subcategoria encontrada: Cultura (http://cultura.cm-porto.pt)
+2025-06-06 17:05:41,505 - INFO - Subcategoria encontrada: Comércio e Turismo (http://comercioturismo.cm-porto.pt)
+2025-06-06 17:05:41,505 - INFO - Subcategoria encontrada: Mobilidade (http://mobilidade.cm-porto.pt)
+2025-06-06 17:05:41,505 - INFO - Subcategoria encontrada: Ação Social (http://coesaosocial.cm-porto.pt)
+2025-06-06 17:05:41,505 - INFO - Subcategoria encontrada: Educação (https://www.cm-porto.pt/educacao/educacao_1)
+2025-06-06 17:05:41,505 - INFO - Subcategoria encontrada: Sistema Educativo (https://www.cm-porto.pt/educacao/sistema-educativo)
+2025-06-06 17:05:41,505 - INFO - Subcategoria encontrada: Ação Social Escolar (https://www.cm-porto.pt/educacao/acao-social-escolar_1)
+2025-06-06 17:05:41,505 - INFO - Subcategoria encontrada: Programas e Projetos (https://www.cm-porto.pt/educacao/programas-e-projetos-educativos)
+2025-06-06 17:05:41,506 - INFO - Subcategoria encontrada: Cidade Educadora (https://www.cm-porto.pt/educacao/cidade-educadora)
+2025-06-06 17:05:41,506 - INFO - Subcategoria encontrada: Proteção de Crianças e Jovens (https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto)
+2025-06-06 17:05:41,506 - INFO - Subcategoria encontrada: Juventude (https://www.cm-porto.pt/juventude/juventude)
+2025-06-06 17:05:41,506 - INFO - Subcategoria encontrada: Estratégia da Juventude do Porto (https://www.cm-porto.pt/juventude/plano-municipal-da-juventude)
+2025-06-06 17:05:41,506 - INFO - Subcategoria encontrada: Participa- Amplifica a Juventude (https://www.cm-porto.pt/participa-amplifica-juventude)
+2025-06-06 17:05:41,506 - INFO - Subcategoria encontrada: Projetos (https://www.cm-porto.pt/juventude-projetos)
+2025-06-06 17:05:41,507 - INFO - Subcategoria encontrada: Economia (https://www.cm-porto.pt/economia/economia)
+2025-06-06 17:05:41,507 - INFO - Subcategoria encontrada: Estudos Estratégicos (https://www.cm-porto.pt/economia/estudos-estrategicos)
+2025-06-06 17:05:41,507 - INFO - Subcategoria encontrada: InvestPorto (https://www.cm-porto.pt/economia/investporto)
+2025-06-06 17:05:41,507 - INFO - Subcategoria encontrada: Porto.for talent (https://www.cm-porto.pt/economia/talento)
+2025-06-06 17:05:41,507 - INFO - Subcategoria encontrada: Desenvolvimento Sustentável (https://www.cm-porto.pt/economia/desenvolvimento-sustentavel)
+2025-06-06 17:05:41,507 - INFO - Subcategoria encontrada: Proteção Civil (https://www.cm-porto.pt/seguranca/protecao-civil_1)
+2025-06-06 17:05:41,508 - INFO - Subcategoria encontrada: Centro de Gestão Integrada (https://www.cm-porto.pt/seguranca/centro-de-gestao-integrada)
+2025-06-06 17:05:41,508 - INFO - Subcategoria encontrada: Regimento de Sapadores Bombeiros (https://www.cm-porto.pt/seguranca/regimento-de-sapadores-bombeiros)
+2025-06-06 17:05:41,508 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/seguranca/policia-municipal)
+2025-06-06 17:05:41,508 - INFO - Subcategoria encontrada: Urbanismo (https://www.cm-porto.pt/urbanismo/urbanismo)
+2025-06-06 17:05:41,509 - INFO - Subcategoria encontrada: Informações Urbanísticas (https://www.cm-porto.pt/informacoes-urbanisticas)
+2025-06-06 17:05:41,509 - INFO - Subcategoria encontrada: Cartas Históricas Interativas do Porto (https://www.cm-porto.pt/cartas-historicas-interativas-do-porto/cartas-historicas-interativas-do-porto)
+2025-06-06 17:05:41,509 - INFO - Subcategoria encontrada: Planeamento e Reabilitação (https://www.cm-porto.pt/urbanismo/planeamento-e-reabilitacao)
+2025-06-06 17:05:41,509 - INFO - Subcategoria encontrada: Urbanização e Edificação (https://www.cm-porto.pt/urbanismo/urbanizacao-e-edificacao)
+2025-06-06 17:05:41,510 - INFO - Subcategoria encontrada: PDM 2021 (https://pdm.cm-porto.pt/)
+2025-06-06 17:05:41,510 - INFO - Subcategoria encontrada: Arquitetura no Porto (https://www.cm-porto.pt/urbanismo/arquitetura-no-porto)
+2025-06-06 17:05:41,510 - INFO - Subcategoria encontrada: Património (https://www.cm-porto.pt/patrimonio/patrimonio)
+2025-06-06 17:05:41,510 - INFO - Subcategoria encontrada: Gestão de Património (https://www.cm-porto.pt/gestao-de-patrimonio/gestao-de-patrimonio)
+2025-06-06 17:05:41,513 - INFO - Subcategoria encontrada: Câmara Municipal (https://www.cm-porto.pt/autarquia/edificio-pacos-do-concelho)
+2025-06-06 17:05:41,514 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/executivo)
+2025-06-06 17:05:41,514 - INFO - Subcategoria encontrada: Reuniões de Câmara (https://www.cm-porto.pt/reunioes-de-camara/reunioes-de-camara-1)
+2025-06-06 17:05:41,514 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/reuniao-de-camara-atas)
+2025-06-06 17:05:41,514 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/reuniao-de-camara-deliberacoes)
+2025-06-06 17:05:41,514 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/reuniao-de-camara-agenda)
+2025-06-06 17:05:41,514 - INFO - Subcategoria encontrada: Estrutura Orgânica (https://www.cm-porto.pt/estrutura-organica)
+2025-06-06 17:05:41,516 - INFO - Subcategoria encontrada: Sistema de Gestão (https://www.cm-porto.pt/recursos-humanos/sistema-de-gestao)
+2025-06-06 17:05:41,516 - INFO - Subcategoria encontrada: Comissão de Toponímia (https://www.cm-porto.pt/autarquia/comissao-de-toponimia)
+2025-06-06 17:05:41,516 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/assembleia-municipal/assembleia-municipal)
+2025-06-06 17:05:41,516 - INFO - Subcategoria encontrada: Composição (https://www.cm-porto.pt/assembleia-municipal/composicao)
+2025-06-06 17:05:41,516 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/assembleia-municipal/competencias)
+2025-06-06 17:05:41,516 - INFO - Subcategoria encontrada: Regimento (https://www.cm-porto.pt/assembleia-municipal/regimento)
+2025-06-06 17:05:41,516 - INFO - Subcategoria encontrada: Comissões e Grupos de Trabalho (https://www.cm-porto.pt/assembleia-municipal/comissoes-e-grupos-de-trabalho)
+2025-06-06 17:05:41,516 - INFO - Subcategoria encontrada: Delegações (https://www.cm-porto.pt/assembleia-municipal/delegacoes)
+2025-06-06 17:05:41,517 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/)
+2025-06-06 17:05:41,517 - INFO - Subcategoria encontrada: Deliberações (https://www.cm-porto.pt/deliberacoes)
+2025-06-06 17:05:41,517 - INFO - Subcategoria encontrada: Propostas (https://www.cm-porto.pt/deliberacoes-propostas)
+2025-06-06 17:05:41,517 - INFO - Subcategoria encontrada: Moções (https://www.cm-porto.pt/deliberacoes-mocoes)
+2025-06-06 17:05:41,517 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/deliberacoes-recomendacoes)
+2025-06-06 17:05:41,518 - INFO - Subcategoria encontrada: Relatórios e Pareceres (https://www.cm-porto.pt/deliberacoes-relatorios-e-pareceres)
+2025-06-06 17:05:41,518 - INFO - Subcategoria encontrada: Minutas (https://www.cm-porto.pt/deliberacoes-minutas)
+2025-06-06 17:05:41,518 - INFO - Subcategoria encontrada: Votos (https://www.cm-porto.pt/deliberacoes-votos)
+2025-06-06 17:05:41,518 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/deliberacoes-atas)
+2025-06-06 17:05:41,518 - INFO - Subcategoria encontrada: Reuniões (https://www.cm-porto.pt/reunioes-da-assembleia-municipal)
+2025-06-06 17:05:41,518 - INFO - Subcategoria encontrada: Inscrições nas Sessões (https://www.cm-porto.pt/Participe/inscricoes-nas-sessoes)
+2025-06-06 17:05:41,519 - INFO - Subcategoria encontrada: Direito de Petição (https://www.cm-porto.pt/Participe/direito-de-peticao)
+2025-06-06 17:05:41,519 - INFO - Subcategoria encontrada: Sugestões (https://www.cm-porto.pt/sugestoes)
+2025-06-06 17:05:41,519 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/agenda-municipal?t=11.49)
+2025-06-06 17:05:41,519 - INFO - Subcategoria encontrada: Notícias (https://www.cm-porto.pt/assembleia-municipal-noticias)
+2025-06-06 17:05:41,519 - INFO - Subcategoria encontrada: FAQs (https://www.cm-porto.pt/assembleia-municipal-faqs)
+2025-06-06 17:05:41,520 - INFO - Subcategoria encontrada: Conselhos Municipais (https://www.cm-porto.pt/conselhos-municipais/conselhos-municipais)
+2025-06-06 17:05:41,520 - INFO - Subcategoria encontrada: Conselho Municipal do Turismo (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-turismo-do-porto)
+2025-06-06 17:05:41,520 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-do-turismo-ata)
+2025-06-06 17:05:41,520 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-do-turismo-agenda)
+2025-06-06 17:05:41,520 - INFO - Subcategoria encontrada: Conselho Municipal da Cultura (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-cultura-do-porto)
+2025-06-06 17:05:41,522 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-cultura-ata)
+2025-06-06 17:05:41,522 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-cultura-agenda)
+2025-06-06 17:05:41,522 - INFO - Subcategoria encontrada: Conselho Municipal de Economia (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-economia-do-porto-casa-dos-24)
+2025-06-06 17:05:41,522 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-economia-ata)
+2025-06-06 17:05:41,522 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-economia-agenda)
+2025-06-06 17:05:41,522 - INFO - Subcategoria encontrada: Conselho Municipal de Educação (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-educacao_1)
+2025-06-06 17:05:41,523 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-educacao-ata)
+2025-06-06 17:05:41,523 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-educacao-agenda)
+2025-06-06 17:05:41,523 - INFO - Subcategoria encontrada: Conselho Municipal de Segurança (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-seguranca)
+2025-06-06 17:05:41,523 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-seguranca-ata)
+2025-06-06 17:05:41,523 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-seguranca-agenda)
+2025-06-06 17:05:41,523 - INFO - Subcategoria encontrada: Conselho Municipal da Juventude (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-juventude-do-porto)
+2025-06-06 17:05:41,523 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-da-juventude-ata)
+2025-06-06 17:05:41,525 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-da-juventude-agenda)
+2025-06-06 17:05:41,525 - INFO - Subcategoria encontrada: Conselho Municipal de Ambiente (https://www.cm-porto.pt/conselhos-municipais/conselho-municipal-de-ambiente)
+2025-06-06 17:05:41,525 - INFO - Subcategoria encontrada: Atas (https://www.cm-porto.pt/conselho-municipal-de-ambiente-ata)
+2025-06-06 17:05:41,525 - INFO - Subcategoria encontrada: Agenda (https://www.cm-porto.pt/conselho-municipal-de-ambiente-agenda)
+2025-06-06 17:05:41,525 - INFO - Subcategoria encontrada: Provedor do Munícipe (https://www.cm-porto.pt/provedor-do-municipe/provedor-do-municipe)
+2025-06-06 17:05:41,525 - INFO - Subcategoria encontrada: Recomendações (https://www.cm-porto.pt/provedor-do-municipe/recomendacoes-2)
+2025-06-06 17:05:41,527 - INFO - Subcategoria encontrada: Contactos (https://www.cm-porto.pt/provedor-do-municipe/contactos)
+2025-06-06 17:05:41,527 - INFO - Subcategoria encontrada: Competências (https://www.cm-porto.pt/provedor-do-municipe/competencias-1)
+2025-06-06 17:05:41,527 - INFO - Subcategoria encontrada: Empresas Municipais (https://www.cm-porto.pt/municipio/empresas-municipais_3)
+2025-06-06 17:05:41,527 - INFO - Subcategoria encontrada: Freguesias (https://www.cm-porto.pt/municipio/freguesias)
+2025-06-06 17:05:41,527 - INFO - Subcategoria encontrada: Gabinete do Munícipe (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-do-municipe)
+2025-06-06 17:05:41,528 - INFO - Subcategoria encontrada: Linha Porto. (https://www.cm-porto.pt/linha-porto/linha-porto-220-100-220)
+2025-06-06 17:05:41,528 - INFO - Subcategoria encontrada: Espaço do cidadão (https://portaldomunicipe.cm-porto.pt/-/espa%C3%A7o-do-cidad%C3%A3o-do-gabinete-do-mun%C3%ADcipe)
+2025-06-06 17:05:41,528 - INFO - Subcategoria encontrada: Apoio à reutilização de livros escolares (SMARLE) (https://portaldomunicipe.cm-porto.pt/-/servi%C3%A7o-municipal-de-apoio-%C3%A0-reutiliza%C3%A7%C3%A3o-dos-livros-escolares)
+2025-06-06 17:05:41,528 - INFO - Subcategoria encontrada: Aconselhamento Jurídico (SMAJ) (https://portaldomunicipe.cm-porto.pt/-/servi%C3%A7o-municipal-de-aconselhamento-jur%C3%ADdico)
+2025-06-06 17:05:41,529 - INFO - Subcategoria encontrada: Apoio ao Consumidor (SMAC) (https://www.cm-porto.pt/gabinete-do-municipe/apoio-ao-consumidor-smac)
+2025-06-06 17:05:41,529 - INFO - Subcategoria encontrada: Águas e Energia do Porto (https://www.cm-porto.pt/gabinete-do-municipe/aguas-do-porto)
+2025-06-06 17:05:41,529 - INFO - Subcategoria encontrada: Polícia Municipal (https://www.cm-porto.pt/gabinete-do-municipe/policia-municipal-1)
+2025-06-06 17:05:41,529 - INFO - Subcategoria encontrada: Gabinete de Inclusão (https://www.cm-porto.pt/gabinete-do-municipe/gabinete-de-inclusao_1)
+2025-06-06 17:05:41,530 - INFO - Subcategoria encontrada: Apoio ao Provedor do Munícipe (https://portaldomunicipe.cm-porto.pt/-/provedor-do-mun%C3%ADcipe)
+2025-06-06 17:05:41,530 - INFO - Subcategoria encontrada: Informação Municipal (https://www.cm-porto.pt/informacao-municipal/informacao-municipal)
+2025-06-06 17:05:41,530 - INFO - Subcategoria encontrada: Avisos (https://www.cm-porto.pt/avisos)
+2025-06-06 17:05:41,530 - INFO - Subcategoria encontrada: Comunicados (https://www.cm-porto.pt/comunicados)
+2025-06-06 17:05:41,531 - INFO - Subcategoria encontrada: Editais (https://www.cm-porto.pt/editais)
+2025-06-06 17:05:41,531 - INFO - Subcategoria encontrada: Assembleia Municipal (https://www.cm-porto.pt/editais?t=73&c=4)
+2025-06-06 17:05:41,531 - INFO - Subcategoria encontrada: Concursos (https://www.cm-porto.pt/editais?t=73&c=5)
+2025-06-06 17:05:41,532 - INFO - Subcategoria encontrada: Discussão Pública (https://www.cm-porto.pt/editais?t=73&c=6)
+2025-06-06 17:05:41,532 - INFO - Subcategoria encontrada: Executivo (https://www.cm-porto.pt/editais?t=73&c=7)
+2025-06-06 17:05:41,532 - INFO - Subcategoria encontrada: Outros (https://www.cm-porto.pt/editais?t=73&c=8)
+2025-06-06 17:05:41,532 - INFO - Subcategoria encontrada: Recursos Humanos (https://www.cm-porto.pt/informacao-municipal/recursos-humanos_1)
+2025-06-06 17:05:41,532 - INFO - Subcategoria encontrada: Formação e Desenvolvimento (https://www.cm-porto.pt/informacao-municipal/formacao-e-desenvolvimento)
+2025-06-06 17:05:41,533 - INFO - Subcategoria encontrada: Bem-estar (https://www.cm-porto.pt/informacao-municipal/bem-estar)
+2025-06-06 17:05:41,533 - INFO - Subcategoria encontrada: Inovação (https://www.cm-porto.pt/informacao-municipal/inovacao-3)
+2025-06-06 17:05:41,533 - INFO - Subcategoria encontrada: Documentos (https://www.cm-porto.pt/recursos-humanos)
+2025-06-06 17:05:41,533 - INFO - Subcategoria encontrada: Recrutamento e Seleção (https://www.cm-porto.pt/informacao-municipal/recrutamento-e-selecao)
+2025-06-06 17:05:41,534 - INFO - Subcategoria encontrada: Finanças (https://www.cm-porto.pt/informacao-municipal/financas)
+2025-06-06 17:05:41,534 - INFO - Subcategoria encontrada: Simulador de Taxas Municipais (https://cmpexternos.cm-porto.pt/stm/)
+2025-06-06 17:05:41,534 - INFO - Subcategoria encontrada: Contas Porto (https://www.cm-porto.pt/contas-porto)
+2025-06-06 17:05:41,534 - INFO - Subcategoria encontrada: Elementos Económico Financeiros (https://www.cm-porto.pt/elementos-economico-financeiros)
+2025-06-06 17:05:41,534 - INFO - Subcategoria encontrada: Compras Públicas (https://portaldomunicipe.cm-porto.pt/contrata%C3%A7%C3%A3o-p%C3%BAblica)
+2025-06-06 17:05:41,534 - INFO - Subcategoria encontrada: Alienações e Hastas Públicas (https://www.cm-porto.pt/venda-e-concessoes)
+2025-06-06 17:05:41,535 - INFO - Subcategoria encontrada: Outros documentos (https://www.cm-porto.pt/financas)
+2025-06-06 17:05:41,535 - INFO - Subcategoria encontrada: Planos, Normas e outros (https://www.cm-porto.pt/documentacao)
+2025-06-06 17:05:41,535 - INFO - Subcategoria encontrada: Código Regulamentar do Porto (http://crmp.cm-porto.pt)
+2025-06-06 17:05:41,535 - INFO - Subcategoria encontrada: Arquivo Municipal do Porto (http://gisaweb.cm-porto.pt/)
+2025-06-06 17:05:41,536 - INFO - Subcategoria encontrada: Bibliotecas Municipais do Porto (http://bibliotecas.cm-porto.pt/ipac20/ipac.jsp?profile=#focus)
+2025-06-06 17:05:41,536 - INFO - Subcategoria encontrada: Boletim Municipal (http://bme.cm-porto.pt/)
+2025-06-06 17:05:41,536 - INFO - Subcategoria encontrada: Projetos cofinanciados (https://www.cm-porto.pt/projectos-cofinanciados)
+2025-06-06 17:05:41,536 - INFO - Subcategoria encontrada: Grupo de Trabalho para Acompanhamento de Investimentos de Transporte Público (https://www.cm-porto.pt/comissoes-e-grupos-de-trabalho/grupo-de-trabalho-para-acompanhamento-de-investimentos-de-transporte-publico)
+2025-06-06 17:05:41,547 - INFO - Subcategoria encontrada: Código Regulamentar do Porto (http://crmp.cm-porto.pt)
+2025-06-06 17:05:41,549 - INFO - Processando subcategoria: Cidade
+2025-06-06 17:05:41,549 - INFO - Processando subcategoria: História da cidade
+2025-06-06 17:05:41,549 - INFO - Processando subcategoria: Chaves e Símbolos
+2025-06-06 17:05:41,549 - INFO - Processando subcategoria: Medalhas da Cidade
+2025-06-06 17:05:41,549 - INFO - Processando subcategoria: Marca Porto.
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Projetos
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Ambiente
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Cultura
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Comércio e Turismo
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Mobilidade
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Ação Social
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Educação
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Sistema Educativo
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Ação Social Escolar
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Programas e Projetos
+2025-06-06 17:05:41,550 - INFO - Processando subcategoria: Cidade Educadora
+2025-06-06 17:05:41,551 - INFO - Processando subcategoria: Proteção de Crianças e Jovens
+2025-06-06 17:05:41,551 - INFO - Processando subcategoria: Juventude
+2025-06-06 17:05:41,551 - INFO - Processando subcategoria: Estratégia da Juventude do Porto
+2025-06-06 17:05:41,551 - INFO - Processando subcategoria: Participa- Amplifica a Juventude
+2025-06-06 17:05:41,551 - INFO - Processando categoria: Urbanismo
+2025-06-06 17:05:41,551 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/urbanismo
+2025-06-06 17:05:44,163 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/urbanismo
+2025-06-06 17:05:46,766 - INFO - Processando categoria: Ambiente
+2025-06-06 17:05:46,766 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/ambiente
+2025-06-06 17:05:49,021 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/ambiente
+2025-06-06 17:05:51,290 - INFO - Processando categoria: Educação
+2025-06-06 17:05:51,290 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao
+2025-06-06 17:05:53,866 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/educacao
+2025-06-06 17:05:56,445 - INFO - Processando categoria: Cultura
+2025-06-06 17:05:56,445 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/cultura
+2025-06-06 17:05:58,904 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/cultura
+2025-06-06 17:06:01,188 - INFO - Processando categoria: Economia
+2025-06-06 17:06:01,188 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/economia
+2025-06-06 17:06:03,788 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/economia
+2025-06-06 17:06:06,234 - INFO - Processando categoria: Mobilidade
+2025-06-06 17:06:06,234 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/mobilidade
+2025-06-06 17:06:08,490 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/mobilidade
+2025-06-06 17:06:10,744 - INFO - Processando categoria: Juventude
+2025-06-06 17:06:10,744 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/juventude
+2025-06-06 17:06:13,241 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/juventude
+2025-06-06 17:06:15,683 - INFO - Processando categoria: Ação Social
+2025-06-06 17:06:15,683 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/acao-social
+2025-06-06 17:06:17,935 - INFO - Obtendo conteúdo da página: https://www.cm-porto.pt/acao-social
+2025-06-06 17:06:20,180 - INFO - Salvando base de conhecimento em knowledge_base.json...
+2025-06-06 17:06:20,184 - INFO - Base de conhecimento salva com sucesso: 10 categorias
+2025-06-06 17:06:20,186 - INFO - Scraping concluído com sucesso!
+2025-06-06 17:06:22,425 - INFO - Driver do Selenium encerrado

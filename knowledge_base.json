@@ -1,0 +1,1887 @@
+{
+  "categories": [
+    {
+      "name": "Cidade",
+      "description": "Informações gerais sobre a cidade do Porto, sua história, símbolos e marcos importantes.",
+      "url": "https://www.cm-porto.pt/cidade",
+      "subcategories": [
+        {
+          "name": "História da cidade",
+          "description": "Subcategoria de Cidade: História da cidade",
+          "url": "https://www.cm-porto.pt/historia-da-cidade",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "História da Cidade | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a História da cidade",
+              "url": "https://www.cm-porto.pt/historia-da-cidade",
+              "category": "História da cidade",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "porto",
+                "cidade",
+                "juventude",
+                "história",
+                "cidadechaves",
+                "símbolosmedalhas",
+                "cidademarca"
+              ],
+              "last_updated": "2025-06-06 17:03:44.875445",
+              "content_type": "Informação",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Chaves e Símbolos",
+          "description": "Subcategoria de Cidade: Chaves e Símbolos",
+          "url": "https://www.cm-porto.pt/chaves-e-simbolos",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Chaves e Símbolos | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Chaves e Símbolos",
+              "url": "https://www.cm-porto.pt/chaves-e-simbolos",
+              "category": "Chaves e Símbolos",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "porto",
+                "juventude",
+                "heráldica",
+                "chaves",
+                "mais",
+                "cidadechaves",
+                "símbolosmedalhas"
+              ],
+              "last_updated": "2025-06-06 17:03:47.616975",
+              "content_type": "Informação",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Projetos",
+          "description": "Subcategoria de Cidade: Projetos",
+          "url": "https://www.cm-porto.pt/projetos/projetos",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Projetos | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Projetos",
+              "url": "https://www.cm-porto.pt/projetos/projetos",
+              "category": "Projetos",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "porto",
+                "cidadechaves",
+                "símbolosmedalhas",
+                "cidademarca",
+                "turismomobilidadeação",
+                "juventude",
+                "projetosambienteculturacomércio"
+              ],
+              "last_updated": "2025-06-06 17:03:57.028759",
+              "content_type": "Projeto",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Ambiente",
+          "description": "Subcategoria de Cidade: Ambiente",
+          "url": "http://ambiente.cm-porto.pt/",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Homepage | Ambiente",
+              "description": "Conteúdo completo da página relacionada a Ambiente",
+              "url": "http://ambiente.cm-porto.pt/",
+              "category": "Ambiente",
+              "subcategory": null,
+              "keywords": [
+                "educação",
+                "mais",
+                "porto",
+                "cidade",
+                "estar",
+                "sustentabilidadeprograma",
+                "virtual",
+                "inspiradas"
+              ],
+              "last_updated": "2025-06-06 17:04:00.618215",
+              "content_type": "Ambiental",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Cultura",
+          "description": "Subcategoria de Cidade: Cultura",
+          "url": "http://cultura.cm-porto.pt/",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Cultura | Cultura",
+              "description": "Conteúdo completo da página relacionada a Cultura",
+              "url": "http://cultura.cm-porto.pt/",
+              "category": "Cultura",
+              "subcategory": null,
+              "keywords": [
+                "cookies",
+                "website",
+                "pode",
+                "mais",
+                "navegador",
+                "preferências",
+                "informação",
+                "sobre"
+              ],
+              "last_updated": "2025-06-06 17:04:03.738775",
+              "content_type": "Cultural",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Comércio e Turismo",
+          "description": "Subcategoria de Cidade: Comércio e Turismo",
+          "url": "http://comercioturismo.cm-porto.pt/",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Comércio e Turismo | Comércio e Turismo",
+              "description": "Conteúdo completo da página relacionada a Comércio e Turismo",
+              "url": "http://comercioturismo.cm-porto.pt/",
+              "category": "Comércio e Turismo",
+              "subcategory": null,
+              "keywords": [
+                "alojamento",
+                "cookies",
+                "website",
+                "porto",
+                "sobre",
+                "pode",
+                "comércio",
+                "mais"
+              ],
+              "last_updated": "2025-06-06 17:04:06.904113",
+              "content_type": "Informação",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Mobilidade",
+          "description": "Subcategoria de Cidade: Mobilidade",
+          "url": "http://mobilidade.cm-porto.pt/",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Mobilidade | Mobilidade",
+              "description": "Conteúdo completo da página relacionada a Mobilidade",
+              "url": "http://mobilidade.cm-porto.pt/",
+              "category": "Mobilidade",
+              "subcategory": null,
+              "keywords": [
+                "cookies",
+                "website",
+                "pode",
+                "mais",
+                "navegador",
+                "preferências",
+                "municipal",
+                "segurança"
+              ],
+              "last_updated": "2025-06-06 17:04:09.737094",
+              "content_type": "Mobilidade",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Ação Social",
+          "description": "Subcategoria de Cidade: Ação Social",
+          "url": "http://coesaosocial.cm-porto.pt/",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Coesão Social | Coesao Social",
+              "description": "Conteúdo completo da página relacionada a Ação Social",
+              "url": "http://coesaosocial.cm-porto.pt/",
+              "category": "Ação Social",
+              "subcategory": null,
+              "keywords": [
+                "cookies",
+                "inovação",
+                "mais",
+                "website",
+                "pode",
+                "situação",
+                "social",
+                "navegador"
+              ],
+              "last_updated": "2025-06-06 17:04:12.713115",
+              "content_type": "Informação",
+              "metadata": {}
+            },
+            {
+              "title": "Aviso - Alterações no serviço de atendimento e acompanhamento social",
+              "description": "PDF relacionado a Ação Social: Aviso - Alterações no serviço de atendimento e acompanhamento social",
+              "url": "https://coesaosocial.cm-porto.pt/files/uploads/cms/AVISO_Descentraliz_CMP_SAASI_16Outubro2024.pdf",
+              "category": "Ação Social",
+              "subcategory": null,
+              "keywords": [
+                "social",
+                "aviso",
+                "alterações",
+                "serviço",
+                "atendimento",
+                "acompanhamento",
+                "ação"
+              ],
+              "last_updated": "2025-06-06 17:04:13.284315",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\ação_social\\AVISO_Descentraliz_CMP_SAASI_16Outubro2024_4e21312b.pdf",
+                "file_size": "120236"
+              }
+            },
+            {
+              "title": "Aviso - Alterações ao Rendimento Social de Inserção",
+              "description": "PDF relacionado a Ação Social: Aviso - Alterações ao Rendimento Social de Inserção",
+              "url": "https://coesaosocial.cm-porto.pt/files/uploads/cms/AVISO_Descentraliz_CMP_RSI_16Outubro2024.pdf",
+              "category": "Ação Social",
+              "subcategory": null,
+              "keywords": [
+                "social",
+                "aviso",
+                "alterações",
+                "rendimento",
+                "inserção",
+                "ação"
+              ],
+              "last_updated": "2025-06-06 17:04:13.692598",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\ação_social\\AVISO_Descentraliz_CMP_RSI_16Outubro2024_99cf831d.pdf",
+                "file_size": "127928"
+              }
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Educação",
+          "description": "Subcategoria de Cidade: Educação",
+          "url": "https://www.cm-porto.pt/educacao/educacao_1",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Educação | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Educação",
+              "url": "https://www.cm-porto.pt/educacao/educacao_1",
+              "category": "Educação",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "porto",
+                "social",
+                "educação",
+                "juventude",
+                "educativo",
+                "câmara",
+                "mais"
+              ],
+              "last_updated": "2025-06-06 17:04:16.294016",
+              "content_type": "Educacional",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Sistema Educativo",
+          "description": "Subcategoria de Cidade: Sistema Educativo",
+          "url": "https://www.cm-porto.pt/educacao/sistema-educativo",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Sistema Educativo | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Sistema Educativo",
+              "url": "https://www.cm-porto.pt/educacao/sistema-educativo",
+              "category": "Sistema Educativo",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "educação",
+                "escolar",
+                "crianças",
+                "porto",
+                "juventude",
+                "ensino",
+                "sistema"
+              ],
+              "last_updated": "2025-06-06 17:04:20.634728",
+              "content_type": "Educacional",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Ação Social Escolar",
+          "description": "Subcategoria de Cidade: Ação Social Escolar",
+          "url": "https://www.cm-porto.pt/educacao/acao-social-escolar_1",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Ação Social Escolar | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Ação Social Escolar",
+              "url": "https://www.cm-porto.pt/educacao/acao-social-escolar_1",
+              "category": "Ação Social Escolar",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "social",
+                "escolar",
+                "educação",
+                "porto",
+                "ação",
+                "juventude",
+                "ensino"
+              ],
+              "last_updated": "2025-06-06 17:04:23.299101",
+              "content_type": "Educacional",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Programas e Projetos",
+          "description": "Subcategoria de Cidade: Programas e Projetos",
+          "url": "https://www.cm-porto.pt/educacao/programas-e-projetos-educativos",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Programas e Projetos Educativos | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Programas e Projetos",
+              "url": "https://www.cm-porto.pt/educacao/programas-e-projetos-educativos",
+              "category": "Programas e Projetos",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "month",
+                "description",
+                "body",
+                "date",
+                "datetime",
+                "local",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:26.009753",
+              "content_type": "Projeto",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Cidade Educadora",
+          "description": "Subcategoria de Cidade: Cidade Educadora",
+          "url": "https://www.cm-porto.pt/educacao/cidade-educadora",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Cidade Educadora | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Cidade Educadora",
+              "url": "https://www.cm-porto.pt/educacao/cidade-educadora",
+              "category": "Cidade Educadora",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "cidade",
+                "porto",
+                "educadora",
+                "direito",
+                "social",
+                "juventude",
+                "deve"
+              ],
+              "last_updated": "2025-06-06 17:04:30.287451",
+              "content_type": "Educacional",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Proteção de Crianças e Jovens",
+          "description": "Subcategoria de Cidade: Proteção de Crianças e Jovens",
+          "url": "https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Comissões de Proteção de Crianças e Jovens do Porto | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Proteção de Crianças e Jovens",
+              "url": "https://www.cm-porto.pt/educacao/comissoes-de-protecao-de-criancas-e-jovens-do-porto",
+              "category": "Proteção de Crianças e Jovens",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "crianças",
+                "proteção",
+                "jovens",
+                "comissões",
+                "porto",
+                "social",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:04:32.914138",
+              "content_type": "Educacional",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Juventude",
+          "description": "Subcategoria de Cidade: Juventude",
+          "url": "https://www.cm-porto.pt/juventude/juventude",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Juventude | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Juventude",
+              "url": "https://www.cm-porto.pt/juventude/juventude",
+              "category": "Juventude",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "porto",
+                "juventude",
+                "nacional",
+                "cidade",
+                "federação",
+                "associações",
+                "câmara"
+              ],
+              "last_updated": "2025-06-06 17:04:35.914909",
+              "content_type": "Informação",
+              "metadata": {}
+            },
+            {
+              "title": "PMJ1.0",
+              "description": "PDF relacionado a Juventude: PMJ1.0",
+              "url": "http://www.cm-porto.pt/files/uploads/cms/1612531207-0QgYsu6uMv.pdf",
+              "category": "Juventude",
+              "subcategory": null,
+              "keywords": [
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:04:36.668910",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\juventude\\1612531207-0QgYsu6uMv_76e66496.pdf",
+                "file_size": "3216164"
+              }
+            },
+            {
+              "title": "PMJ 2.0",
+              "description": "PDF relacionado a Juventude: PMJ 2.0",
+              "url": "http://www.cm-porto.pt/files/uploads/cms/1612531098-Cun00JDW02.pdf",
+              "category": "Juventude",
+              "subcategory": null,
+              "keywords": [
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:04:37.273001",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\juventude\\1612531098-Cun00JDW02_39001270.pdf",
+                "file_size": "3373425"
+              }
+            },
+            {
+              "title": "PMJ 3.0",
+              "description": "PDF relacionado a Juventude: PMJ 3.0",
+              "url": "http://www.cm-porto.pt/files/uploads/cms/1612453310-693EC7pBOg.pdf",
+              "category": "Juventude",
+              "subcategory": null,
+              "keywords": [
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:04:37.885954",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\juventude\\1612453310-693EC7pBOg_30555423.pdf",
+                "file_size": "4198607"
+              }
+            },
+            {
+              "title": "Plano de Atividades Juventude 2021",
+              "description": "PDF relacionado a Juventude: Plano de Atividades Juventude 2021",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/cmp/7/files/1612543362-YAUrTqakKh.pdf",
+              "category": "Juventude",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "plano",
+                "atividades"
+              ],
+              "last_updated": "2025-06-06 17:04:39.061409",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\juventude\\1612543362-YAUrTqakKh_d03539c9.pdf",
+                "file_size": "3894236"
+              }
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Estratégia da Juventude do Porto",
+          "description": "Subcategoria de Cidade: Estratégia da Juventude do Porto",
+          "url": "https://www.cm-porto.pt/juventude/plano-municipal-da-juventude",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Estratégia da Juventude do Porto 4.0 | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Estratégia da Juventude do Porto",
+              "url": "https://www.cm-porto.pt/juventude/plano-municipal-da-juventude",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "juventude",
+                "porto",
+                "estratégia",
+                "youthupporto",
+                "intermédia",
+                "reunião",
+                "jovem"
+              ],
+              "last_updated": "2025-06-06 17:04:43.218674",
+              "content_type": "Informação",
+              "metadata": {}
+            },
+            {
+              "title": "Estratégia da Juventude do Porto 4.0",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Estratégia da Juventude do Porto 4.0",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Estrategia_da_Juventude_do_Porto_4.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:44.384675",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_Estrategia_da_Juventude_do_Porto_4_5b0ac715.pdf",
+                "file_size": "9326609"
+              }
+            },
+            {
+              "title": "Porto Youth Strategy 4.0",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Strategy 4.0",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Porto_Youth_Strategy_4.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youth",
+                "strategy",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:04:45.775031",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_Porto_Youth_Strategy_4_303ae01a.pdf",
+                "file_size": "8422194"
+              }
+            },
+            {
+              "title": "Sumário Executivo do Relatório da Avaliação Intermédia da Estratégia da Juventude do Porto 4.0",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Sumário Executivo do Relatório da Avaliação Intermédia da Estratégia da Juventude do Porto 4.0",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/Sumario%20Executivo%20Avalia%C3%A7%C3%A3o%20Intermedia%20EJP40.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "estratégia",
+                "juventude",
+                "porto",
+                "sumário",
+                "executivo",
+                "relatório",
+                "avaliação",
+                "intermédia"
+              ],
+              "last_updated": "2025-06-06 17:04:46.248643",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Sumario Executivo Avaliação Intermedia EJP40_bc31afd0.pdf",
+                "file_size": "672081"
+              }
+            },
+            {
+              "title": "Relatório da Avaliação Intermédia da Estratégia da Juventude do Porto 4.0",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Relatório da Avaliação Intermédia da Estratégia da Juventude do Porto 4.0",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/Avalia%C3%A7%C3%A3o%20Interm%C3%A9dia%20da%20Estrat%C3%A9gia%204.0.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "estratégia",
+                "juventude",
+                "porto",
+                "relatório",
+                "avaliação",
+                "intermédia"
+              ],
+              "last_updated": "2025-06-06 17:04:46.845736",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Avaliação Intermédia da Estratégia 4.0_a4c35fc4.pdf",
+                "file_size": "2510592"
+              }
+            },
+            {
+              "title": "Parecer da Comissão Eventual do Conselho Municipal da Juventude do Porto",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Parecer da Comissão Eventual do Conselho Municipal da Juventude do Porto",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/EJP4_Parecer_CMJ.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "porto",
+                "parecer",
+                "comissão",
+                "eventual",
+                "conselho",
+                "municipal",
+                "estratégia"
+              ],
+              "last_updated": "2025-06-06 17:04:47.269905",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\EJP4_Parecer_CMJ_7df0d6fa.pdf",
+                "file_size": "124850"
+              }
+            },
+            {
+              "title": "ronda 1 – Manifesto",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: ronda 1 – Manifesto",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda1.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "ronda",
+                "manifesto",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:48.374989",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda1_e9057f29.pdf",
+                "file_size": "1923555"
+              }
+            },
+            {
+              "title": "ronda 2 – Objetivos",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: ronda 2 – Objetivos",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda2.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "ronda",
+                "objetivos",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:49.508885",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda2_05e1f5c2.pdf",
+                "file_size": "2264297"
+              }
+            },
+            {
+              "title": "ronda 3 – Plano de Ação",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: ronda 3 – Plano de Ação",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda3.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "ronda",
+                "plano",
+                "ação",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:50.671367",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda3_65c90491.pdf",
+                "file_size": "3929284"
+              }
+            },
+            {
+              "title": "Políticas de Juventude",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Políticas de Juventude",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_DebateATuaCidade2020_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "políticas",
+                "estratégia",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:51.668133",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\YouthUpPorto_DebateATuaCidade2020_Relatorio_3241ce9d.pdf",
+                "file_size": "2070827"
+              }
+            },
+            {
+              "title": "Programas de Juventude",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Programas de Juventude",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Debate_A_Tua_Cidade_2021_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "programas",
+                "estratégia",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:52.810863",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_Debate_A_Tua_Cidade_2021_Relatorio_b944ed4d.pdf",
+                "file_size": "3380646"
+              }
+            },
+            {
+              "title": "Focus Group Visões da Juventude Global – Local",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Focus Group Visões da Juventude Global – Local",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_FocusGroup_GEW2020_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "focus",
+                "group",
+                "visões",
+                "global",
+                "local",
+                "estratégia",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:53.808894",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\YouthUpPorto_FocusGroup_GEW2020_Relatorio_db9802ba.pdf",
+                "file_size": "2534111"
+              }
+            },
+            {
+              "title": "Design Thinking e Design de Serviços 4.0",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Design Thinking e Design de Serviços 4.0",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Design_Thinking_4_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "design",
+                "thinking",
+                "serviços",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:54.482245",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_Design_Thinking_4_Relatorio_3e9346e3.pdf",
+                "file_size": "2339394"
+              }
+            },
+            {
+              "title": "Padrões de Qualidade para Políticas de Juventude",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Padrões de Qualidade para Políticas de Juventude",
+              "url": "https://mailings.cm-porto.pt/tmp/CMP_2021_Padroes_Qualidade_Politicas_Juventude_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "padrões",
+                "qualidade",
+                "políticas",
+                "estratégia",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:55.512167",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_Padroes_Qualidade_Politicas_Juventude_Relatorio_af1adb29.pdf",
+                "file_size": "3529529"
+              }
+            },
+            {
+              "title": "Plano B – Oficina de Democracia Participativa 2020",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Plano B – Oficina de Democracia Participativa 2020",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_PlanoB_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "plano",
+                "oficina",
+                "democracia",
+                "participativa",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:56.152077",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\YouthUpPorto_PlanoB_Relatorio_c4d81031.pdf",
+                "file_size": "1346468"
+              }
+            },
+            {
+              "title": "Plano B – Oficina de Democracia Participativa 2021",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Plano B – Oficina de Democracia Participativa 2021",
+              "url": "https://mailings.cm-porto.pt/tmp/CMP_2021_Plano_B_2021_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "plano",
+                "oficina",
+                "democracia",
+                "participativa",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:04:57.162740",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_Plano_B_2021_Relatorio_fb504c72.pdf",
+                "file_size": "2225348"
+              }
+            },
+            {
+              "title": "Porto Youth Work Webinars: Aprendizagem Não-Formal",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Work Webinars: Aprendizagem Não-Formal",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_01_Aprendizagem_Nao-formal_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youth",
+                "work",
+                "webinars",
+                "aprendizagem",
+                "formal",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:04:58.236772",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Porto_Youth_Work_Webinars_01_Aprendizagem_Nao-formal_Relatorio_790a6a61.pdf",
+                "file_size": "2041910"
+              }
+            },
+            {
+              "title": "Porto Youth Work Webinars: Inclusão",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Work Webinars: Inclusão",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_02_Inclusao_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youth",
+                "work",
+                "webinars",
+                "inclusão",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:04:59.293469",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Porto_Youth_Work_Webinars_02_Inclusao_Relatorio_fa5a0df9.pdf",
+                "file_size": "1771837"
+              }
+            },
+            {
+              "title": "Porto Youth Work Webinars: Informação Jovem",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Work Webinars: Informação Jovem",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_03_Informacao_Jovem_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youth",
+                "work",
+                "webinars",
+                "informação",
+                "jovem",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:05:00.352076",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Porto_Youth_Work_Webinars_03_Informacao_Jovem_Relatorio_46dc5123.pdf",
+                "file_size": "1753764"
+              }
+            },
+            {
+              "title": "Porto Youth Work Webinars: Participação Jovem",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Work Webinars: Participação Jovem",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_04_Participacao_Jovem_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youth",
+                "work",
+                "webinars",
+                "participação",
+                "jovem",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:05:01.458013",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Porto_Youth_Work_Webinars_04_Participacao_Jovem_Relatorio_154ceb7f.pdf",
+                "file_size": "1910426"
+              }
+            },
+            {
+              "title": "Porto Youth Work Webinars: Trabalho com Jovens",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Work Webinars: Trabalho com Jovens",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_05_Trabalho_com_Jovens_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youth",
+                "work",
+                "webinars",
+                "trabalho",
+                "jovens",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:05:02.528199",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Porto_Youth_Work_Webinars_05_Trabalho_com_Jovens_Relatorio_3f18213c.pdf",
+                "file_size": "1892012"
+              }
+            },
+            {
+              "title": "Porto Youth Work Webinars: Digital Youth Work",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Work Webinars: Digital Youth Work",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_06_Digital_Youth_Work_Report.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youth",
+                "work",
+                "webinars",
+                "digital",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:05:03.753591",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Porto_Youth_Work_Webinars_06_Digital_Youth_Work_Report_437dca51.pdf",
+                "file_size": "1964092"
+              }
+            },
+            {
+              "title": "Porto Youth Work Webinars: Voluntariado Jovem",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Work Webinars: Voluntariado Jovem",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_07_Voluntariado_Jovem_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youth",
+                "work",
+                "webinars",
+                "voluntariado",
+                "jovem",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:05:04.757286",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Porto_Youth_Work_Webinars_07_Voluntariado_Jovem_Relatorio_5c2aa129.pdf",
+                "file_size": "1927327"
+              }
+            },
+            {
+              "title": "Porto Youth Work Webinars: Projetos Internacionais",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Work Webinars: Projetos Internacionais",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_08_Projetos_Internacionais_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youth",
+                "work",
+                "webinars",
+                "projetos",
+                "internacionais",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:05:05.819890",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Porto_Youth_Work_Webinars_08_Projetos_Internacionais_Relatorio_e2014a4d.pdf",
+                "file_size": "1905943"
+              }
+            },
+            {
+              "title": "Porto Youth Work Webinars: Planos Municipais de Juventude",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Porto Youth Work Webinars: Planos Municipais de Juventude",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_09_Planos_Municipais_Juventude_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "juventude",
+                "youth",
+                "work",
+                "webinars",
+                "planos",
+                "municipais",
+                "estratégia"
+              ],
+              "last_updated": "2025-06-06 17:05:06.827387",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Porto_Youth_Work_Webinars_09_Planos_Municipais_Juventude_Relatorio_1d70af40.pdf",
+                "file_size": "2475040"
+              }
+            },
+            {
+              "title": "Semana da Educação Global 2021: Formação de Multiplicadores para a Educação Global",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Semana da Educação Global 2021: Formação de Multiplicadores para a Educação Global",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Semana_Educacao_Global_2021_Relatorio.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "educação",
+                "global",
+                "semana",
+                "formação",
+                "multiplicadores",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:07.517857",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_Semana_Educacao_Global_2021_Relatorio_f1763728.pdf",
+                "file_size": "3943658"
+              }
+            },
+            {
+              "title": "Apresentação Estratégia da Juventude do Porto 4.0 (CMJ 02/2021)",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Apresentação Estratégia da Juventude do Porto 4.0 (CMJ 02/2021)",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP2021_EJP_4_Apresentacao_CMJ_16JUN2021.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "estratégia",
+                "juventude",
+                "porto",
+                "apresentação"
+              ],
+              "last_updated": "2025-06-06 17:05:09.179846",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP2021_EJP_4_Apresentacao_CMJ_16JUN2021_bce3fe10.pdf",
+                "file_size": "3473246"
+              }
+            },
+            {
+              "title": "#YouthUpPorto Roadmap – Modelo para a construção da Estratégia da Juventude do Porto 4.0",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: #YouthUpPorto Roadmap – Modelo para a construção da Estratégia da Juventude do Porto 4.0",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2020_YouthUpPorto_Roadmap.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "estratégia",
+                "juventude",
+                "porto",
+                "youthupporto",
+                "roadmap",
+                "modelo",
+                "construção"
+              ],
+              "last_updated": "2025-06-06 17:05:10.057693",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2020_YouthUpPorto_Roadmap_8c70e423.pdf",
+                "file_size": "7797453"
+              }
+            },
+            {
+              "title": "#YouthUpPorto Roadmap: Model for Designing Porto Youth Strategy 4.0",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: #YouthUpPorto Roadmap: Model for Designing Porto Youth Strategy 4.0",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2020_YouthUpPorto_Roadmap_Model_for_Designing_Porto_Youth_Strategy_4.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "youthupporto",
+                "roadmap",
+                "model",
+                "designing",
+                "youth",
+                "strategy",
+                "estratégia"
+              ],
+              "last_updated": "2025-06-06 17:05:10.874234",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2020_YouthUpPorto_Roadmap_Model_for_Designing_Porto_Youth_Strategy_4_1350bd25.pdf",
+                "file_size": "7157235"
+              }
+            },
+            {
+              "title": "Apresentação #YouthUpPorto CMJ 01",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Apresentação #YouthUpPorto CMJ 01",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/cmp/15/files/3699/cmp2020youthupporto-apresentacao-cmj-15jul2020.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "apresentação",
+                "youthupporto",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:11.934478",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\cmp2020youthupporto-apresentacao-cmj-15jul2020_f1e9b29c.pdf",
+                "file_size": "1556205"
+              }
+            },
+            {
+              "title": "Apresentação #YouthUpPorto CMJ 02",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Apresentação #YouthUpPorto CMJ 02",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/cmp/15/files/3699/cmp2020youthupporto-apresentacao-cmj-22out2020.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "apresentação",
+                "youthupporto",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:12.983376",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\cmp2020youthupporto-apresentacao-cmj-22out2020_0c3c107e.pdf",
+                "file_size": "2813034"
+              }
+            },
+            {
+              "title": "Cartaz #YouthUpPorto",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Cartaz #YouthUpPorto",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/Youthupporto_Cartaz_azul.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "cartaz",
+                "youthupporto",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:13.396444",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\Youthupporto_Cartaz_azul_f0b1c444.pdf",
+                "file_size": "200322"
+              }
+            },
+            {
+              "title": "Cartazes #YouthUpPorto Despertar",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Cartazes #YouthUpPorto Despertar",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_Campanha_Cartazes_1_Despertar.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "cartazes",
+                "youthupporto",
+                "despertar",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:13.795898",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\YouthUpPorto_Campanha_Cartazes_1_Despertar_747ad6f0.pdf",
+                "file_size": "187050"
+              }
+            },
+            {
+              "title": "Diálogo Jovem Erasmus+ #YouthUpPorto: Manual da/o Participante",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Diálogo Jovem Erasmus+ #YouthUpPorto: Manual da/o Participante",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_Manual%20Participante_web.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "diálogo",
+                "jovem",
+                "erasmus",
+                "youthupporto",
+                "manual",
+                "participante",
+                "estratégia",
+                "juventude"
+              ],
+              "last_updated": "2025-06-06 17:05:14.251450",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\YouthUpPorto_Manual Participante_web_c0e29e8d.pdf",
+                "file_size": "262729"
+              }
+            },
+            {
+              "title": "«Planos municipais de juventude na Ibéro-américa: Porto, uma boa prática» (XXV CLAD)",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: «Planos municipais de juventude na Ibéro-américa: Porto, uma boa prática» (XXV CLAD)",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/RAMOS_2020_Porto_XXV_Congresso_CLAD.PDF",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "porto",
+                "planos",
+                "municipais",
+                "ibéro",
+                "américa",
+                "prática",
+                "clad"
+              ],
+              "last_updated": "2025-06-06 17:05:14.711431",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\RAMOS_2020_Porto_XXV_Congresso_CLAD_113fc895.PDF",
+                "file_size": "272004"
+              }
+            },
+            {
+              "title": "#YouthUpPorto: Europe Goes Local Presentation",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: #YouthUpPorto: Europe Goes Local Presentation",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_YouthUpPorto_EGL_Presentation.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "youthupporto",
+                "europe",
+                "goes",
+                "local",
+                "presentation",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:16.223379",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_YouthUpPorto_EGL_Presentation_6ba70389.pdf",
+                "file_size": "4708539"
+              }
+            },
+            {
+              "title": "Análise das políticas de juventude locais",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Análise das políticas de juventude locais",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/1612543000-iCLmUQWp9I.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "análise",
+                "políticas",
+                "locais",
+                "estratégia",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:16.822631",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\1612543000-iCLmUQWp9I_dc5265cc.pdf",
+                "file_size": "2603394"
+              }
+            },
+            {
+              "title": "Análise do Conselho Municipal da Juventude do Porto [2000-2021]",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Análise do Conselho Municipal da Juventude do Porto [2000-2021]",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_YouthUpPorto_Analise_CMJPorto_2000-2021.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "porto",
+                "análise",
+                "conselho",
+                "municipal",
+                "estratégia"
+              ],
+              "last_updated": "2025-06-06 17:05:17.371916",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_2021_YouthUpPorto_Analise_CMJPorto_2000-2021_909d86a3.pdf",
+                "file_size": "1592711"
+              }
+            },
+            {
+              "title": "Entrevistas com organizações locais, nacionais e internacionais",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Entrevistas com organizações locais, nacionais e internacionais",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/1612543046-tmK5mQEfqA.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "entrevistas",
+                "organizações",
+                "locais",
+                "nacionais",
+                "internacionais",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:18.420493",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\1612543046-tmK5mQEfqA_e49aed0c.pdf",
+                "file_size": "7131168"
+              }
+            },
+            {
+              "title": "Padrões de qualidade e boas práticas",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Padrões de qualidade e boas práticas",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/1612543062-KXQ8CuUj1v.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "padrões",
+                "qualidade",
+                "boas",
+                "práticas",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:19.136320",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\1612543062-KXQ8CuUj1v_cc57e477.pdf",
+                "file_size": "2448250"
+              }
+            },
+            {
+              "title": "Programas e fontes de financiamento",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Programas e fontes de financiamento",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/1612543120-GLQ6lBUdf4.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "programas",
+                "fontes",
+                "financiamento",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:19.741907",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\1612543120-GLQ6lBUdf4_467ac028.pdf",
+                "file_size": "1014176"
+              }
+            },
+            {
+              "title": "Monitor da Juventude: Estado da Juventude 2020",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Monitor da Juventude: Estado da Juventude 2020",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/1612543134-r7Mz9As8sk.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "monitor",
+                "estado",
+                "estratégia",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:20.277608",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\1612543134-r7Mz9As8sk_5db496b6.pdf",
+                "file_size": "549043"
+              }
+            },
+            {
+              "title": "Monitor da Juventude: Qualidade do Vida no Porto para os Jovens 2020",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Monitor da Juventude: Qualidade do Vida no Porto para os Jovens 2020",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/1612543151-eWaD8mqQg4.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "porto",
+                "monitor",
+                "qualidade",
+                "vida",
+                "jovens",
+                "estratégia"
+              ],
+              "last_updated": "2025-06-06 17:05:20.990685",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\1612543151-eWaD8mqQg4_15a98d96.pdf",
+                "file_size": "1306831"
+              }
+            },
+            {
+              "title": "Portfólio das organizações de juventude do Porto do Porto",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Portfólio das organizações de juventude do Porto do Porto",
+              "url": "https://mailings.cm-porto.pt/tmp/juventude/CMP_Portefolio_Organizacoes_Juventude_Porto_2020.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "porto",
+                "juventude",
+                "portfólio",
+                "organizações",
+                "estratégia"
+              ],
+              "last_updated": "2025-06-06 17:05:21.946893",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\CMP_Portefolio_Organizacoes_Juventude_Porto_2020_e3a475b3.pdf",
+                "file_size": "4106838"
+              }
+            },
+            {
+              "title": "#YouthUpPorto: Quality Checklist",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: #YouthUpPorto: Quality Checklist",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/1612457349-cBDyC9FTI7.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "youthupporto",
+                "quality",
+                "checklist",
+                "estratégia",
+                "juventude",
+                "porto"
+              ],
+              "last_updated": "2025-06-06 17:05:22.340702",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\1612457349-cBDyC9FTI7_edaaf925.pdf",
+                "file_size": "19587"
+              }
+            },
+            {
+              "title": "PLANO MUNICIPAL DE JUVENTUDE DO PORTO 3.0",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: PLANO MUNICIPAL DE JUVENTUDE DO PORTO 3.0",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/cmp/15/files/3699/cmp.2017.plano-municipal-de-juventude-do-porto-3.0.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "porto",
+                "plano",
+                "municipal",
+                "estratégia"
+              ],
+              "last_updated": "2025-06-06 17:05:23.073645",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\cmp.2017.plano-municipal-de-juventude-do-porto-3.0_6b9ee3b0.pdf",
+                "file_size": "4198607"
+              }
+            },
+            {
+              "title": "Plano Municipal de Juventude do Porto 2.0 (2011)",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Plano Municipal de Juventude do Porto 2.0 (2011)",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/1612543249-caGF5Stmr6.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "porto",
+                "plano",
+                "municipal",
+                "estratégia"
+              ],
+              "last_updated": "2025-06-06 17:05:23.738411",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\1612543249-caGF5Stmr6_c2de4727.pdf",
+                "file_size": "3373425"
+              }
+            },
+            {
+              "title": "Plano Municipal de Juventude do Porto – Viver@PRT (2009)",
+              "description": "PDF relacionado a Estratégia da Juventude do Porto: Plano Municipal de Juventude do Porto – Viver@PRT (2009)",
+              "url": "https://www.cm-porto.pt/files/uploads/cms/1612543270-PMiyqpOgCE.pdf",
+              "category": "Estratégia da Juventude do Porto",
+              "subcategory": null,
+              "keywords": [
+                "juventude",
+                "porto",
+                "plano",
+                "municipal",
+                "viver",
+                "estratégia"
+              ],
+              "last_updated": "2025-06-06 17:05:24.644515",
+              "content_type": "Documento",
+              "metadata": {
+                "local_path": "downloads/pdfs\\estratégia_da_juventude_do_porto\\1612543270-PMiyqpOgCE_1cb346fd.pdf",
+                "file_size": "3216164"
+              }
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Participa- Amplifica a Juventude",
+          "description": "Subcategoria de Cidade: Participa- Amplifica a Juventude",
+          "url": "https://www.cm-porto.pt/participa-amplifica-juventude",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Participa – Amplifica a Juventude | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Participa- Amplifica a Juventude",
+              "url": "https://www.cm-porto.pt/participa-amplifica-juventude",
+              "category": "Participa- Amplifica a Juventude",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "juventude",
+                "porto",
+                "amplifica",
+                "câmara",
+                "website",
+                "navegador",
+                "mais"
+              ],
+              "last_updated": "2025-06-06 17:05:31.283335",
+              "content_type": "Informação",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        },
+        {
+          "name": "Projetos",
+          "description": "Subcategoria de Cidade: Projetos",
+          "url": "https://www.cm-porto.pt/juventude-projetos",
+          "subcategories": [],
+          "contents": [
+            {
+              "title": "Juventude Projetos | Câmara Municipal do Porto",
+              "description": "Conteúdo completo da página relacionada a Projetos",
+              "url": "https://www.cm-porto.pt/juventude-projetos",
+              "category": "Projetos",
+              "subcategory": null,
+              "keywords": [
+                "municipal",
+                "juventude",
+                "month",
+                "description",
+                "body",
+                "date",
+                "datetime",
+                "local"
+              ],
+              "last_updated": "2025-06-06 17:05:36.142149",
+              "content_type": "Projeto",
+              "metadata": {}
+            }
+          ],
+          "parent": null
+        }
+      ],
+      "contents": [
+        {
+          "title": "Cidade | Câmara Municipal do Porto",
+          "description": "Conteúdo completo da página relacionada a Cidade",
+          "url": "https://www.cm-porto.pt/cidade",
+          "category": "Cidade",
+          "subcategory": null,
+          "keywords": [
+            "municipal",
+            "porto",
+            "turismomobilidadeação",
+            "cidadechaves",
+            "símbolosmedalhas",
+            "cidademarca",
+            "juventude",
+            "projetosambienteculturacomércio"
+          ],
+          "last_updated": "2025-06-06 17:03:39.732766",
+          "content_type": "Informação",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    },
+    {
+      "name": "Município",
+      "description": "Informações sobre a Câmara Municipal do Porto, sua estrutura e funcionamento.",
+      "url": "https://www.cm-porto.pt/municipio",
+      "subcategories": [],
+      "contents": [
+        {
+          "title": "Município | Câmara Municipal do Porto",
+          "description": "Conteúdo completo da página relacionada a Município",
+          "url": "https://www.cm-porto.pt/municipio",
+          "category": "Município",
+          "subcategory": null,
+          "keywords": [
+            "municipal",
+            "porto",
+            "juventude",
+            "todos",
+            "municipalassembleia",
+            "energia",
+            "regulamentar",
+            "portoarquivo"
+          ],
+          "last_updated": "2025-06-06 17:05:38.945108",
+          "content_type": "Informação",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    },
+    {
+      "name": "Urbanismo",
+      "description": "Planos de urbanização, desenvolvimento urbano e gestão territorial da cidade.",
+      "url": "https://www.cm-porto.pt/urbanismo",
+      "subcategories": [],
+      "contents": [
+        {
+          "title": "502 Bad Gateway",
+          "description": "Conteúdo completo da página relacionada a Urbanismo",
+          "url": "https://www.cm-porto.pt/urbanismo",
+          "category": "Urbanismo",
+          "subcategory": null,
+          "keywords": [
+            "gateway",
+            "gatewaynginx"
+          ],
+          "last_updated": "2025-06-06 17:05:44.162348",
+          "content_type": "Informação",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    },
+    {
+      "name": "Ambiente",
+      "description": "Projetos ambientais, sustentabilidade, parques e jardins da cidade do Porto.",
+      "url": "https://www.cm-porto.pt/ambiente",
+      "subcategories": [],
+      "contents": [
+        {
+          "title": "502 Bad Gateway",
+          "description": "Conteúdo completo da página relacionada a Ambiente",
+          "url": "https://www.cm-porto.pt/ambiente",
+          "category": "Ambiente",
+          "subcategory": null,
+          "keywords": [
+            "gateway",
+            "gatewaynginx"
+          ],
+          "last_updated": "2025-06-06 17:05:49.020005",
+          "content_type": "Ambiental",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    },
+    {
+      "name": "Educação",
+      "description": "Informações sobre o sistema educativo, escolas, programas e iniciativas educacionais no Porto.",
+      "url": "https://www.cm-porto.pt/educacao",
+      "subcategories": [],
+      "contents": [
+        {
+          "title": "502 Bad Gateway",
+          "description": "Conteúdo completo da página relacionada a Educação",
+          "url": "https://www.cm-porto.pt/educacao",
+          "category": "Educação",
+          "subcategory": null,
+          "keywords": [
+            "gateway",
+            "gatewaynginx"
+          ],
+          "last_updated": "2025-06-06 17:05:53.866823",
+          "content_type": "Educacional",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    },
+    {
+      "name": "Cultura",
+      "description": "Eventos culturais, museus, galerias, teatros e patrimônio cultural do Porto.",
+      "url": "https://www.cm-porto.pt/cultura",
+      "subcategories": [],
+      "contents": [
+        {
+          "title": "502 Bad Gateway",
+          "description": "Conteúdo completo da página relacionada a Cultura",
+          "url": "https://www.cm-porto.pt/cultura",
+          "category": "Cultura",
+          "subcategory": null,
+          "keywords": [
+            "gateway",
+            "gatewaynginx"
+          ],
+          "last_updated": "2025-06-06 17:05:58.903602",
+          "content_type": "Cultural",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    },
+    {
+      "name": "Economia",
+      "description": "Informações sobre Economia na cidade do Porto.",
+      "url": "https://www.cm-porto.pt/economia",
+      "subcategories": [],
+      "contents": [
+        {
+          "title": "502 Bad Gateway",
+          "description": "Conteúdo completo da página relacionada a Economia",
+          "url": "https://www.cm-porto.pt/economia",
+          "category": "Economia",
+          "subcategory": null,
+          "keywords": [
+            "gateway",
+            "gatewaynginx"
+          ],
+          "last_updated": "2025-06-06 17:06:03.788809",
+          "content_type": "Informação",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    },
+    {
+      "name": "Mobilidade",
+      "description": "Transportes públicos, ciclovias, acessibilidade e infraestrutura de mobilidade na cidade.",
+      "url": "https://www.cm-porto.pt/mobilidade",
+      "subcategories": [],
+      "contents": [
+        {
+          "title": "502 Bad Gateway",
+          "description": "Conteúdo completo da página relacionada a Mobilidade",
+          "url": "https://www.cm-porto.pt/mobilidade",
+          "category": "Mobilidade",
+          "subcategory": null,
+          "keywords": [
+            "gateway",
+            "gatewaynginx"
+          ],
+          "last_updated": "2025-06-06 17:06:08.490306",
+          "content_type": "Mobilidade",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    },
+    {
+      "name": "Juventude",
+      "description": "Programas, eventos e iniciativas voltados para jovens na cidade do Porto.",
+      "url": "https://www.cm-porto.pt/juventude",
+      "subcategories": [],
+      "contents": [
+        {
+          "title": "502 Bad Gateway",
+          "description": "Conteúdo completo da página relacionada a Juventude",
+          "url": "https://www.cm-porto.pt/juventude",
+          "category": "Juventude",
+          "subcategory": null,
+          "keywords": [
+            "gateway",
+            "gatewaynginx"
+          ],
+          "last_updated": "2025-06-06 17:06:13.241347",
+          "content_type": "Informação",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    },
+    {
+      "name": "Ação Social",
+      "description": "Programas de apoio social, inclusão e serviços à comunidade no Porto.",
+      "url": "https://www.cm-porto.pt/acao-social",
+      "subcategories": [],
+      "contents": [
+        {
+          "title": "502 Bad Gateway",
+          "description": "Conteúdo completo da página relacionada a Ação Social",
+          "url": "https://www.cm-porto.pt/acao-social",
+          "category": "Ação Social",
+          "subcategory": null,
+          "keywords": [
+            "gateway",
+            "gatewaynginx"
+          ],
+          "last_updated": "2025-06-06 17:06:17.935747",
+          "content_type": "Informação",
+          "metadata": {}
+        }
+      ],
+      "parent": null
+    }
+  ],
+  "last_updated": "2025-06-06 17:02:15.984647",
+  "version": "1.0.0"
+}

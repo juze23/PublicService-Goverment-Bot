@@ -1,0 +1,89 @@
+{
+  "generic_content_page": {
+    "selectors": {
+      "title": ".title"
+    },
+    "examples": [
+      {
+        "url": "https://www.cm-porto.pt/cidade",
+        "title": "Cidade"
+      },
+      {
+        "url": "https://www.cm-porto.pt/historia-da-cidade",
+        "title": "História da cidade"
+      },
+      {
+        "url": "https://www.cm-porto.pt/chaves-e-simbolos",
+        "title": "Chaves e Símbolos"
+      },
+      {
+        "url": "https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais",
+        "title": "Medalhas da Cidade"
+      },
+      {
+        "url": "https://www.cm-porto.pt/marca-porto/marca-porto",
+        "title": "Marca Porto."
+      },
+      {
+        "url": "https://www.cm-porto.pt/projetos/projetos",
+        "title": "Projetos"
+      },
+      {
+        "url": "https://www.cm-porto.pt/municipio",
+        "title": "Município"
+      },
+      {
+        "url": "https://www.cm-porto.pt/cidade",
+        "title": "Cidade"
+      },
+      {
+        "url": "https://www.cm-porto.pt/historia-da-cidade",
+        "title": "História da cidade"
+      },
+      {
+        "url": "https://www.cm-porto.pt/chaves-e-simbolos",
+        "title": "Chaves e Símbolos"
+      },
+      {
+        "url": "https://www.cm-porto.pt/medalhas-da-cidade/medalhas-municipais",
+        "title": "Medalhas da Cidade"
+      },
+      {
+        "url": "https://www.cm-porto.pt/marca-porto/marca-porto",
+        "title": "Marca Porto."
+      },
+      {
+        "url": "https://www.cm-porto.pt/urbanismo",
+        "title": "Urbanismo"
+      },
+      {
+        "url": "https://www.cm-porto.pt/ambiente",
+        "title": "Ambiente"
+      },
+      {
+        "url": "https://www.cm-porto.pt/educacao",
+        "title": "Educação"
+      },
+      {
+        "url": "https://www.cm-porto.pt/cultura",
+        "title": "Cultura"
+      },
+      {
+        "url": "https://www.cm-porto.pt/economia",
+        "title": "Economia"
+      },
+      {
+        "url": "https://www.cm-porto.pt/mobilidade",
+        "title": "Mobilidade"
+      },
+      {
+        "url": "https://www.cm-porto.pt/juventude",
+        "title": "Juventude"
+      },
+      {
+        "url": "https://www.cm-porto.pt/acao-social",
+        "title": "Ação Social"
+      }
+    ]
+  }
+}

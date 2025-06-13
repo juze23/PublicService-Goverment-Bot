@@ -1,0 +1,200 @@
+2025-06-06 16:17:13,738 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/Regulamento das Medalhas Municipais.pdf
+2025-06-06 16:17:14,286 - INFO - PDF baixado com sucesso: downloads/pdfs\medalhas_da_cidade\Regulamento das Medalhas Municipais_b5d8bccb.pdf (2820029 bytes)
+2025-06-06 16:17:14,290 - ERROR - Erro ao processar PDF https://www.cm-porto.pt/files/uploads/cms/Regulamento das Medalhas Municipais.pdf: 1 validation error for Content
+metadata.file_size
+  Input should be a valid string [type=string_type, input_value=2820029, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-06-06 16:17:14,291 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/Lista de Medalhas Municipais atribuídas.pdf
+2025-06-06 16:17:14,666 - INFO - PDF baixado com sucesso: downloads/pdfs\medalhas_da_cidade\Lista de Medalhas Municipais atribuídas_3bfc00db.pdf (45345 bytes)
+2025-06-06 16:17:14,668 - ERROR - Erro ao processar PDF https://www.cm-porto.pt/files/uploads/cms/Lista de Medalhas Municipais atribuídas.pdf: 1 validation error for Content
+metadata.file_size
+  Input should be a valid string [type=string_type, input_value=45345, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-06-06 16:17:18,148 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/52 2022 100 Porto Manual Identidade DIGITAL_D.pdf
+2025-06-06 16:17:18,815 - INFO - PDF baixado com sucesso: downloads/pdfs\marca_porto.\52 2022 100 Porto Manual Identidade DIGITAL_D_dcf596e9.pdf (6464065 bytes)
+2025-06-06 16:17:18,816 - ERROR - Erro ao processar PDF https://www.cm-porto.pt/files/uploads/cms/52 2022 100 Porto Manual Identidade DIGITAL_D.pdf: 1 validation error for Content
+metadata.file_size
+  Input should be a valid string [type=string_type, input_value=6464065, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-06-06 16:17:18,817 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/cmp/7/files/21/portopontocidade.pdf
+2025-06-06 16:17:19,199 - INFO - PDF baixado com sucesso: downloads/pdfs\marca_porto.\portopontocidade_d5003332.pdf (276801 bytes)
+2025-06-06 16:17:19,200 - ERROR - Erro ao processar PDF https://www.cm-porto.pt/files/uploads/cms/cmp/7/files/21/portopontocidade.pdf: 1 validation error for Content
+metadata.file_size
+  Input should be a valid string [type=string_type, input_value=276801, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-06-06 16:17:19,200 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/cmp/7/files/21/portopontoinstitucional.pdf
+2025-06-06 16:17:19,636 - INFO - PDF baixado com sucesso: downloads/pdfs\marca_porto.\portopontoinstitucional_f372ceda.pdf (910069 bytes)
+2025-06-06 16:17:19,638 - ERROR - Erro ao processar PDF https://www.cm-porto.pt/files/uploads/cms/cmp/7/files/21/portopontoinstitucional.pdf: 1 validation error for Content
+metadata.file_size
+  Input should be a valid string [type=string_type, input_value=910069, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-06-06 16:29:25,565 - INFO - PDF já existe localmente: downloads/pdfs\medalhas_da_cidade\Regulamento das Medalhas Municipais_b5d8bccb.pdf
+2025-06-06 16:29:25,565 - INFO - PDF adicionado à base de conhecimento: Regulamento das Medalhas Municipais
+2025-06-06 16:29:25,565 - INFO - PDF já existe localmente: downloads/pdfs\medalhas_da_cidade\Lista de Medalhas Municipais atribuídas_3bfc00db.pdf
+2025-06-06 16:29:25,565 - INFO - PDF adicionado à base de conhecimento: Lista de Medalhas Municipais atribuídas
+2025-06-06 16:29:29,109 - INFO - PDF já existe localmente: downloads/pdfs\marca_porto.\52 2022 100 Porto Manual Identidade DIGITAL_D_dcf596e9.pdf
+2025-06-06 16:29:29,109 - INFO - PDF adicionado à base de conhecimento: Manual de Identidade Porto. 2023
+2025-06-06 16:29:29,110 - INFO - PDF já existe localmente: downloads/pdfs\marca_porto.\portopontocidade_d5003332.pdf
+2025-06-06 16:29:29,110 - INFO - PDF adicionado à base de conhecimento: Logo Porto. (cidade) PDF
+2025-06-06 16:29:29,110 - INFO - PDF já existe localmente: downloads/pdfs\marca_porto.\portopontoinstitucional_f372ceda.pdf
+2025-06-06 16:29:29,110 - INFO - PDF adicionado à base de conhecimento: Logo Porto. (institucional) PDF
+2025-06-06 17:04:12,788 - INFO - Baixando PDF: https://coesaosocial.cm-porto.pt/files/uploads/cms/AVISO_Descentraliz_CMP_SAASI_16Outubro2024.pdf
+2025-06-06 17:04:13,281 - INFO - PDF baixado com sucesso: downloads/pdfs\ação_social\AVISO_Descentraliz_CMP_SAASI_16Outubro2024_4e21312b.pdf (120236 bytes)
+2025-06-06 17:04:13,284 - INFO - PDF adicionado à base de conhecimento: Aviso - Alterações no serviço de atendimento e acompanhamento social
+2025-06-06 17:04:13,284 - INFO - Baixando PDF: https://coesaosocial.cm-porto.pt/files/uploads/cms/AVISO_Descentraliz_CMP_RSI_16Outubro2024.pdf
+2025-06-06 17:04:13,690 - INFO - PDF baixado com sucesso: downloads/pdfs\ação_social\AVISO_Descentraliz_CMP_RSI_16Outubro2024_99cf831d.pdf (127928 bytes)
+2025-06-06 17:04:13,692 - INFO - PDF adicionado à base de conhecimento: Aviso - Alterações ao Rendimento Social de Inserção
+2025-06-06 17:04:36,037 - INFO - Baixando PDF: http://www.cm-porto.pt/files/uploads/cms/1612531207-0QgYsu6uMv.pdf
+2025-06-06 17:04:36,666 - INFO - PDF baixado com sucesso: downloads/pdfs\juventude\1612531207-0QgYsu6uMv_76e66496.pdf (3216164 bytes)
+2025-06-06 17:04:36,668 - INFO - PDF adicionado à base de conhecimento: PMJ1.0
+2025-06-06 17:04:36,668 - INFO - Baixando PDF: http://www.cm-porto.pt/files/uploads/cms/1612531098-Cun00JDW02.pdf
+2025-06-06 17:04:37,271 - INFO - PDF baixado com sucesso: downloads/pdfs\juventude\1612531098-Cun00JDW02_39001270.pdf (3373425 bytes)
+2025-06-06 17:04:37,273 - INFO - PDF adicionado à base de conhecimento: PMJ 2.0
+2025-06-06 17:04:37,273 - INFO - Baixando PDF: http://www.cm-porto.pt/files/uploads/cms/1612453310-693EC7pBOg.pdf
+2025-06-06 17:04:37,883 - INFO - PDF baixado com sucesso: downloads/pdfs\juventude\1612453310-693EC7pBOg_30555423.pdf (4198607 bytes)
+2025-06-06 17:04:37,885 - INFO - PDF adicionado à base de conhecimento: PMJ 3.0
+2025-06-06 17:04:37,885 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/cmp/7/files/1612543362-YAUrTqakKh.pdf
+2025-06-06 17:04:39,059 - INFO - PDF baixado com sucesso: downloads/pdfs\juventude\1612543362-YAUrTqakKh_d03539c9.pdf (3894236 bytes)
+2025-06-06 17:04:39,061 - INFO - PDF adicionado à base de conhecimento: Plano de Atividades Juventude 2021
+2025-06-06 17:04:43,337 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Estrategia_da_Juventude_do_Porto_4.pdf
+2025-06-06 17:04:44,383 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_Estrategia_da_Juventude_do_Porto_4_5b0ac715.pdf (9326609 bytes)
+2025-06-06 17:04:44,384 - INFO - PDF adicionado à base de conhecimento: Estratégia da Juventude do Porto 4.0
+2025-06-06 17:04:44,385 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Porto_Youth_Strategy_4.pdf
+2025-06-06 17:04:45,773 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_Porto_Youth_Strategy_4_303ae01a.pdf (8422194 bytes)
+2025-06-06 17:04:45,775 - INFO - PDF adicionado à base de conhecimento: Porto Youth Strategy 4.0
+2025-06-06 17:04:45,775 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/Sumario%20Executivo%20Avalia%C3%A7%C3%A3o%20Intermedia%20EJP40.pdf
+2025-06-06 17:04:46,246 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Sumario Executivo Avaliação Intermedia EJP40_bc31afd0.pdf (672081 bytes)
+2025-06-06 17:04:46,248 - INFO - PDF adicionado à base de conhecimento: Sumário Executivo do Relatório da Avaliação Intermédia da Estratégia da Juventude do Porto 4.0
+2025-06-06 17:04:46,248 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/Avalia%C3%A7%C3%A3o%20Interm%C3%A9dia%20da%20Estrat%C3%A9gia%204.0.pdf
+2025-06-06 17:04:46,843 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Avaliação Intermédia da Estratégia 4.0_a4c35fc4.pdf (2510592 bytes)
+2025-06-06 17:04:46,845 - INFO - PDF adicionado à base de conhecimento: Relatório da Avaliação Intermédia da Estratégia da Juventude do Porto 4.0
+2025-06-06 17:04:46,845 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/EJP4_Parecer_CMJ.pdf
+2025-06-06 17:04:47,267 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\EJP4_Parecer_CMJ_7df0d6fa.pdf (124850 bytes)
+2025-06-06 17:04:47,269 - INFO - PDF adicionado à base de conhecimento: Parecer da Comissão Eventual do Conselho Municipal da Juventude do Porto
+2025-06-06 17:04:47,269 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda1.pdf
+2025-06-06 17:04:48,373 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda1_e9057f29.pdf (1923555 bytes)
+2025-06-06 17:04:48,374 - INFO - PDF adicionado à base de conhecimento: ronda 1 – Manifesto
+2025-06-06 17:04:48,376 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda2.pdf
+2025-06-06 17:04:49,506 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda2_05e1f5c2.pdf (2264297 bytes)
+2025-06-06 17:04:49,508 - INFO - PDF adicionado à base de conhecimento: ronda 2 – Objetivos
+2025-06-06 17:04:49,509 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda3.pdf
+2025-06-06 17:04:50,669 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_DialogoJovemErasmusYouthUpPorto_Relatorio_Ronda3_65c90491.pdf (3929284 bytes)
+2025-06-06 17:04:50,671 - INFO - PDF adicionado à base de conhecimento: ronda 3 – Plano de Ação
+2025-06-06 17:04:50,671 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_DebateATuaCidade2020_Relatorio.pdf
+2025-06-06 17:04:51,667 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\YouthUpPorto_DebateATuaCidade2020_Relatorio_3241ce9d.pdf (2070827 bytes)
+2025-06-06 17:04:51,668 - INFO - PDF adicionado à base de conhecimento: Políticas de Juventude
+2025-06-06 17:04:51,669 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Debate_A_Tua_Cidade_2021_Relatorio.pdf
+2025-06-06 17:04:52,809 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_Debate_A_Tua_Cidade_2021_Relatorio_b944ed4d.pdf (3380646 bytes)
+2025-06-06 17:04:52,810 - INFO - PDF adicionado à base de conhecimento: Programas de Juventude
+2025-06-06 17:04:52,811 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_FocusGroup_GEW2020_Relatorio.pdf
+2025-06-06 17:04:53,807 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\YouthUpPorto_FocusGroup_GEW2020_Relatorio_db9802ba.pdf (2534111 bytes)
+2025-06-06 17:04:53,808 - INFO - PDF adicionado à base de conhecimento: Focus Group Visões da Juventude Global – Local
+2025-06-06 17:04:53,809 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Design_Thinking_4_Relatorio.pdf
+2025-06-06 17:04:54,480 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_Design_Thinking_4_Relatorio_3e9346e3.pdf (2339394 bytes)
+2025-06-06 17:04:54,482 - INFO - PDF adicionado à base de conhecimento: Design Thinking e Design de Serviços 4.0
+2025-06-06 17:04:54,483 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/CMP_2021_Padroes_Qualidade_Politicas_Juventude_Relatorio.pdf
+2025-06-06 17:04:55,511 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_Padroes_Qualidade_Politicas_Juventude_Relatorio_af1adb29.pdf (3529529 bytes)
+2025-06-06 17:04:55,512 - INFO - PDF adicionado à base de conhecimento: Padrões de Qualidade para Políticas de Juventude
+2025-06-06 17:04:55,513 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_PlanoB_Relatorio.pdf
+2025-06-06 17:04:56,151 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\YouthUpPorto_PlanoB_Relatorio_c4d81031.pdf (1346468 bytes)
+2025-06-06 17:04:56,152 - INFO - PDF adicionado à base de conhecimento: Plano B – Oficina de Democracia Participativa 2020
+2025-06-06 17:04:56,153 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/CMP_2021_Plano_B_2021_Relatorio.pdf
+2025-06-06 17:04:57,161 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_Plano_B_2021_Relatorio_fb504c72.pdf (2225348 bytes)
+2025-06-06 17:04:57,162 - INFO - PDF adicionado à base de conhecimento: Plano B – Oficina de Democracia Participativa 2021
+2025-06-06 17:04:57,163 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_01_Aprendizagem_Nao-formal_Relatorio.pdf
+2025-06-06 17:04:58,235 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Porto_Youth_Work_Webinars_01_Aprendizagem_Nao-formal_Relatorio_790a6a61.pdf (2041910 bytes)
+2025-06-06 17:04:58,236 - INFO - PDF adicionado à base de conhecimento: Porto Youth Work Webinars: Aprendizagem Não-Formal
+2025-06-06 17:04:58,237 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_02_Inclusao_Relatorio.pdf
+2025-06-06 17:04:59,292 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Porto_Youth_Work_Webinars_02_Inclusao_Relatorio_fa5a0df9.pdf (1771837 bytes)
+2025-06-06 17:04:59,293 - INFO - PDF adicionado à base de conhecimento: Porto Youth Work Webinars: Inclusão
+2025-06-06 17:04:59,294 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_03_Informacao_Jovem_Relatorio.pdf
+2025-06-06 17:05:00,350 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Porto_Youth_Work_Webinars_03_Informacao_Jovem_Relatorio_46dc5123.pdf (1753764 bytes)
+2025-06-06 17:05:00,352 - INFO - PDF adicionado à base de conhecimento: Porto Youth Work Webinars: Informação Jovem
+2025-06-06 17:05:00,353 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_04_Participacao_Jovem_Relatorio.pdf
+2025-06-06 17:05:01,455 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Porto_Youth_Work_Webinars_04_Participacao_Jovem_Relatorio_154ceb7f.pdf (1910426 bytes)
+2025-06-06 17:05:01,458 - INFO - PDF adicionado à base de conhecimento: Porto Youth Work Webinars: Participação Jovem
+2025-06-06 17:05:01,459 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_05_Trabalho_com_Jovens_Relatorio.pdf
+2025-06-06 17:05:02,526 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Porto_Youth_Work_Webinars_05_Trabalho_com_Jovens_Relatorio_3f18213c.pdf (1892012 bytes)
+2025-06-06 17:05:02,528 - INFO - PDF adicionado à base de conhecimento: Porto Youth Work Webinars: Trabalho com Jovens
+2025-06-06 17:05:02,528 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_06_Digital_Youth_Work_Report.pdf
+2025-06-06 17:05:03,751 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Porto_Youth_Work_Webinars_06_Digital_Youth_Work_Report_437dca51.pdf (1964092 bytes)
+2025-06-06 17:05:03,753 - INFO - PDF adicionado à base de conhecimento: Porto Youth Work Webinars: Digital Youth Work
+2025-06-06 17:05:03,753 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_07_Voluntariado_Jovem_Relatorio.pdf
+2025-06-06 17:05:04,756 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Porto_Youth_Work_Webinars_07_Voluntariado_Jovem_Relatorio_5c2aa129.pdf (1927327 bytes)
+2025-06-06 17:05:04,757 - INFO - PDF adicionado à base de conhecimento: Porto Youth Work Webinars: Voluntariado Jovem
+2025-06-06 17:05:04,758 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_08_Projetos_Internacionais_Relatorio.pdf
+2025-06-06 17:05:05,818 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Porto_Youth_Work_Webinars_08_Projetos_Internacionais_Relatorio_e2014a4d.pdf (1905943 bytes)
+2025-06-06 17:05:05,819 - INFO - PDF adicionado à base de conhecimento: Porto Youth Work Webinars: Projetos Internacionais
+2025-06-06 17:05:05,819 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Porto_Youth_Work_Webinars_09_Planos_Municipais_Juventude_Relatorio.pdf
+2025-06-06 17:05:06,825 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Porto_Youth_Work_Webinars_09_Planos_Municipais_Juventude_Relatorio_1d70af40.pdf (2475040 bytes)
+2025-06-06 17:05:06,828 - INFO - PDF adicionado à base de conhecimento: Porto Youth Work Webinars: Planos Municipais de Juventude
+2025-06-06 17:05:06,828 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_Semana_Educacao_Global_2021_Relatorio.pdf
+2025-06-06 17:05:07,516 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_Semana_Educacao_Global_2021_Relatorio_f1763728.pdf (3943658 bytes)
+2025-06-06 17:05:07,517 - INFO - PDF adicionado à base de conhecimento: Semana da Educação Global 2021: Formação de Multiplicadores para a Educação Global
+2025-06-06 17:05:07,517 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP2021_EJP_4_Apresentacao_CMJ_16JUN2021.pdf
+2025-06-06 17:05:09,178 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP2021_EJP_4_Apresentacao_CMJ_16JUN2021_bce3fe10.pdf (3473246 bytes)
+2025-06-06 17:05:09,179 - INFO - PDF adicionado à base de conhecimento: Apresentação Estratégia da Juventude do Porto 4.0 (CMJ 02/2021)
+2025-06-06 17:05:09,180 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2020_YouthUpPorto_Roadmap.pdf
+2025-06-06 17:05:10,055 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2020_YouthUpPorto_Roadmap_8c70e423.pdf (7797453 bytes)
+2025-06-06 17:05:10,057 - INFO - PDF adicionado à base de conhecimento: #YouthUpPorto Roadmap – Modelo para a construção da Estratégia da Juventude do Porto 4.0
+2025-06-06 17:05:10,057 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2020_YouthUpPorto_Roadmap_Model_for_Designing_Porto_Youth_Strategy_4.pdf
+2025-06-06 17:05:10,873 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2020_YouthUpPorto_Roadmap_Model_for_Designing_Porto_Youth_Strategy_4_1350bd25.pdf (7157235 bytes)
+2025-06-06 17:05:10,874 - INFO - PDF adicionado à base de conhecimento: #YouthUpPorto Roadmap: Model for Designing Porto Youth Strategy 4.0
+2025-06-06 17:05:10,875 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/cmp/15/files/3699/cmp2020youthupporto-apresentacao-cmj-15jul2020.pdf
+2025-06-06 17:05:11,932 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\cmp2020youthupporto-apresentacao-cmj-15jul2020_f1e9b29c.pdf (1556205 bytes)
+2025-06-06 17:05:11,934 - INFO - PDF adicionado à base de conhecimento: Apresentação #YouthUpPorto CMJ 01
+2025-06-06 17:05:11,935 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/cmp/15/files/3699/cmp2020youthupporto-apresentacao-cmj-22out2020.pdf
+2025-06-06 17:05:12,982 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\cmp2020youthupporto-apresentacao-cmj-22out2020_0c3c107e.pdf (2813034 bytes)
+2025-06-06 17:05:12,983 - INFO - PDF adicionado à base de conhecimento: Apresentação #YouthUpPorto CMJ 02
+2025-06-06 17:05:12,984 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/Youthupporto_Cartaz_azul.pdf
+2025-06-06 17:05:13,396 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\Youthupporto_Cartaz_azul_f0b1c444.pdf (200322 bytes)
+2025-06-06 17:05:13,396 - INFO - PDF adicionado à base de conhecimento: Cartaz #YouthUpPorto
+2025-06-06 17:05:13,397 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_Campanha_Cartazes_1_Despertar.pdf
+2025-06-06 17:05:13,794 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\YouthUpPorto_Campanha_Cartazes_1_Despertar_747ad6f0.pdf (187050 bytes)
+2025-06-06 17:05:13,795 - INFO - PDF adicionado à base de conhecimento: Cartazes #YouthUpPorto Despertar
+2025-06-06 17:05:13,795 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/YouthUpPorto_Manual%20Participante_web.pdf
+2025-06-06 17:05:14,249 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\YouthUpPorto_Manual Participante_web_c0e29e8d.pdf (262729 bytes)
+2025-06-06 17:05:14,251 - INFO - PDF adicionado à base de conhecimento: Diálogo Jovem Erasmus+ #YouthUpPorto: Manual da/o Participante
+2025-06-06 17:05:14,252 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/RAMOS_2020_Porto_XXV_Congresso_CLAD.PDF
+2025-06-06 17:05:14,711 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\RAMOS_2020_Porto_XXV_Congresso_CLAD_113fc895.PDF (272004 bytes)
+2025-06-06 17:05:14,711 - INFO - PDF adicionado à base de conhecimento: «Planos municipais de juventude na Ibéro-américa: Porto, uma boa prática» (XXV CLAD)
+2025-06-06 17:05:14,712 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_YouthUpPorto_EGL_Presentation.pdf
+2025-06-06 17:05:16,221 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_YouthUpPorto_EGL_Presentation_6ba70389.pdf (4708539 bytes)
+2025-06-06 17:05:16,223 - INFO - PDF adicionado à base de conhecimento: #YouthUpPorto: Europe Goes Local Presentation
+2025-06-06 17:05:16,224 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/1612543000-iCLmUQWp9I.pdf
+2025-06-06 17:05:16,821 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\1612543000-iCLmUQWp9I_dc5265cc.pdf (2603394 bytes)
+2025-06-06 17:05:16,822 - INFO - PDF adicionado à base de conhecimento: Análise das políticas de juventude locais
+2025-06-06 17:05:16,823 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_2021_YouthUpPorto_Analise_CMJPorto_2000-2021.pdf
+2025-06-06 17:05:17,370 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_2021_YouthUpPorto_Analise_CMJPorto_2000-2021_909d86a3.pdf (1592711 bytes)
+2025-06-06 17:05:17,371 - INFO - PDF adicionado à base de conhecimento: Análise do Conselho Municipal da Juventude do Porto [2000-2021]
+2025-06-06 17:05:17,373 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/1612543046-tmK5mQEfqA.pdf
+2025-06-06 17:05:18,417 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\1612543046-tmK5mQEfqA_e49aed0c.pdf (7131168 bytes)
+2025-06-06 17:05:18,420 - INFO - PDF adicionado à base de conhecimento: Entrevistas com organizações locais, nacionais e internacionais
+2025-06-06 17:05:18,421 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/1612543062-KXQ8CuUj1v.pdf
+2025-06-06 17:05:19,133 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\1612543062-KXQ8CuUj1v_cc57e477.pdf (2448250 bytes)
+2025-06-06 17:05:19,136 - INFO - PDF adicionado à base de conhecimento: Padrões de qualidade e boas práticas
+2025-06-06 17:05:19,136 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/1612543120-GLQ6lBUdf4.pdf
+2025-06-06 17:05:19,739 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\1612543120-GLQ6lBUdf4_467ac028.pdf (1014176 bytes)
+2025-06-06 17:05:19,741 - INFO - PDF adicionado à base de conhecimento: Programas e fontes de financiamento
+2025-06-06 17:05:19,741 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/1612543134-r7Mz9As8sk.pdf
+2025-06-06 17:05:20,274 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\1612543134-r7Mz9As8sk_5db496b6.pdf (549043 bytes)
+2025-06-06 17:05:20,277 - INFO - PDF adicionado à base de conhecimento: Monitor da Juventude: Estado da Juventude 2020
+2025-06-06 17:05:20,278 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/1612543151-eWaD8mqQg4.pdf
+2025-06-06 17:05:20,988 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\1612543151-eWaD8mqQg4_15a98d96.pdf (1306831 bytes)
+2025-06-06 17:05:20,991 - INFO - PDF adicionado à base de conhecimento: Monitor da Juventude: Qualidade do Vida no Porto para os Jovens 2020
+2025-06-06 17:05:20,992 - INFO - Baixando PDF: https://mailings.cm-porto.pt/tmp/juventude/CMP_Portefolio_Organizacoes_Juventude_Porto_2020.pdf
+2025-06-06 17:05:21,945 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\CMP_Portefolio_Organizacoes_Juventude_Porto_2020_e3a475b3.pdf (4106838 bytes)
+2025-06-06 17:05:21,946 - INFO - PDF adicionado à base de conhecimento: Portfólio das organizações de juventude do Porto do Porto
+2025-06-06 17:05:21,948 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/1612457349-cBDyC9FTI7.pdf
+2025-06-06 17:05:22,338 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\1612457349-cBDyC9FTI7_edaaf925.pdf (19587 bytes)
+2025-06-06 17:05:22,340 - INFO - PDF adicionado à base de conhecimento: #YouthUpPorto: Quality Checklist
+2025-06-06 17:05:22,340 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/cmp/15/files/3699/cmp.2017.plano-municipal-de-juventude-do-porto-3.0.pdf
+2025-06-06 17:05:23,072 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\cmp.2017.plano-municipal-de-juventude-do-porto-3.0_6b9ee3b0.pdf (4198607 bytes)
+2025-06-06 17:05:23,073 - INFO - PDF adicionado à base de conhecimento: PLANO MUNICIPAL DE JUVENTUDE DO PORTO 3.0
+2025-06-06 17:05:23,074 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/1612543249-caGF5Stmr6.pdf
+2025-06-06 17:05:23,736 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\1612543249-caGF5Stmr6_c2de4727.pdf (3373425 bytes)
+2025-06-06 17:05:23,738 - INFO - PDF adicionado à base de conhecimento: Plano Municipal de Juventude do Porto 2.0 (2011)
+2025-06-06 17:05:23,739 - INFO - Baixando PDF: https://www.cm-porto.pt/files/uploads/cms/1612543270-PMiyqpOgCE.pdf
+2025-06-06 17:05:24,643 - INFO - PDF baixado com sucesso: downloads/pdfs\estratégia_da_juventude_do_porto\1612543270-PMiyqpOgCE_1cb346fd.pdf (3216164 bytes)
+2025-06-06 17:05:24,644 - INFO - PDF adicionado à base de conhecimento: Plano Municipal de Juventude do Porto – Viver@PRT (2009)
+2025-06-06 17:06:20,186 - INFO - Informações de 53 PDFs salvas em pdf_downloads.json
