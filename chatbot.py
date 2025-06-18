@@ -12,7 +12,7 @@ import io
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-class GovernmentChatbot:
+class CamMunPortoChatbot:
     def __init__(self, ollama_url: str = "http://localhost:11434", model: str = "llama2:latest"):
         """Initialize the chatbot with RAG and Ollama."""
         self.ollama_url = ollama_url
@@ -271,7 +271,7 @@ if __name__ == "__main__":
     # Test the chatbot
     try:
         # Initialize chatbot
-        chatbot = GovernmentChatbot()
+        chatbot = CamMunPortoChatbot()
         logger.info("Chatbot initialized")
         
         # Interactive mode
