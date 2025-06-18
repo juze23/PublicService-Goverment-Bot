@@ -176,11 +176,11 @@ class CamMunPortoChatbot:
 
     def _generate_prompt(self, query: str, context: str) -> str:
         """Generate a prompt for Ollama with the query and context."""
-        return f"""Você é um assistente virtual do governo português especializado em responder perguntas sobre documentos e serviços governamentais.
+        return f"""Você é um assistente virtual especializado em responder perguntas sobre documentos da Câmara Municipal do Porto.
 
 IMPORTANTE: 
 1. Você só deve responder perguntas que estejam relacionadas com os documentos e informações disponíveis no contexto fornecido.
-2. Se a pergunta não estiver relacionada com os documentos carregados, responda educadamente que só pode ajudar com questões relacionadas aos serviços e documentos governamentais disponíveis.
+2. Se a pergunta não estiver relacionada com os documentos carregados, responda educadamente que só pode ajudar com questões relacionadas a documentosda Câmara Municipal do Porto disponíveis.
 3. Quando encontrar informações relevantes, forneça um resumo DETALHADO e COMPLETO das informações encontradas nos documentos. NÃO apenas referencie "está no documento X" - extraia e apresente as informações importantes de forma clara e organizada.
 4. Organize a resposta de forma lógica, destacando os pontos principais e fornecendo detalhes específicos quando relevante.
 5. Se houver múltiplos documentos com informações complementares, integre essas informações numa resposta coesa.
