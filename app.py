@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, jsonify
-from chatbot import GovernmentChatbot
+from chatbot import CamMunPortoChatbot
 import logging
 import os
 
@@ -16,7 +16,7 @@ def initialize_chatbot():
     """Initialize the chatbot with error handling."""
     global chatbot
     try:
-        chatbot = GovernmentChatbot()
+        chatbot = CamMunPortoChatbot()
         logger.info("Chatbot initialized successfully")
         return True
     except Exception as e:
